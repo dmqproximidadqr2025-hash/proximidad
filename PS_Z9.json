@@ -1,0 +1,7490 @@
+[
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "KENNEDY",
+    "subcircuito": "",
+    "id": "AGENCIA-SRI-GALO-PLAZA",
+    "nombre_punto": "AGENCIA SRI GALO PLAZA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "KENNEDY",
+    "subcircuito": "",
+    "id": "FYBECA-JUAN-MOLINERO",
+    "nombre_punto": "FYBECA JUAN MOLINEROS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "KENNEDY",
+    "subcircuito": "",
+    "id": "GIMNASIO-FITNESS-OFFICE",
+    "nombre_punto": "GIMNASIO FITNES OFFICE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "KENNEDY",
+    "subcircuito": "",
+    "id": "PLAZA-SANTA-LUCIA",
+    "nombre_punto": "PLAZA SANTA LUCÍA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "KENNEDY",
+    "subcircuito": "",
+    "id": "CGE",
+    "nombre_punto": "DOMICILIO CONTRALOR GENERAL DEL ESTADO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "KENNEDY",
+    "subcircuito": "",
+    "id": "CONJUNTO-COLINAS-SANTA-LUCIA",
+    "nombre_punto": "CONJUNTO COLINAS DE SANTA LUCÍA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "KENNEDY",
+    "subcircuito": "",
+    "id": "SERVIENTREGA-CEDROS",
+    "nombre_punto": "SERVIENTREGA CEDROS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "PONCIANO",
+    "subcircuito": "",
+    "id": "TERMINAL-OFELIA",
+    "nombre_punto": "TERMINAL LA OFELIA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "PONCIANO",
+    "subcircuito": "",
+    "id": "RESIDENCIAL-JARDINES-VICTORIA",
+    "nombre_punto": "RESIDENCIAL JARDINES DE VICTORIA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "PONCIANO",
+    "subcircuito": "",
+    "id": "TERMINAL-CARCELEN",
+    "nombre_punto": "TERMINAL CARCELÉN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "PONCIANO",
+    "subcircuito": "",
+    "id": "FYBECA-REAL-AUDIENCIA",
+    "nombre_punto": "FYBECA - REAL AUDIENCIA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "PONCIANO",
+    "subcircuito": "",
+    "id": "SUPERMAXI-REAL-AUDIENCIA",
+    "nombre_punto": "SUPERMAXI - REAL AUDIENCIA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "LAS CUADRAS",
+    "subcircuito": "",
+    "id": "TERMINAL-QUITUMBE",
+    "nombre_punto": "TERMINAL TERRESTRE QUITUMBE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "LAS CUADRAS",
+    "subcircuito": "",
+    "id": "MERCADO-CUADRAS",
+    "nombre_punto": "MERCADO LAS CUADRAS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "LAS CUADRAS",
+    "subcircuito": "",
+    "id": "CC-IPIALES-SUR",
+    "nombre_punto": "CENTRO COMERCIAL IPIALES DEL SUR"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "LAS CUADRAS",
+    "subcircuito": "",
+    "id": "U-SALESIANA-SUR",
+    "nombre_punto": "UNIVERSIDAD SALESIANA SUR"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "LAS CUADRAS",
+    "subcircuito": "",
+    "id": "GASOLINERA-PUMA-CUADRAS",
+    "nombre_punto": "GASOLINERA PUMA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "LAS CUADRAS",
+    "subcircuito": "",
+    "id": "POLLOS-SAN-BARTOLO",
+    "nombre_punto": "POLLOS SAN BARTOLO - LAS CUADRAS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "LAS CUADRAS",
+    "subcircuito": "",
+    "id": "PARQUE-ARCADIA",
+    "nombre_punto": "PARQUE LA ARCADIA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "LAS CUADRAS",
+    "subcircuito": "",
+    "id": "PUENTE-GUAJALO",
+    "nombre_punto": "PUENTE DE GUAJALÓ"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "LAS CUADRAS",
+    "subcircuito": "",
+    "id": "QUICENTRO-SUR",
+    "nombre_punto": "QUICENTRO SUR"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "LAS CUADRAS",
+    "subcircuito": "",
+    "id": "COLEGIO-REPLICA-MEJIA",
+    "nombre_punto": "COLEGIO RÉPLICA MEJÍA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "LAS CUADRAS",
+    "subcircuito": "",
+    "id": "ALMACENES-TRUJILLO",
+    "nombre_punto": "ALMACENES TRUJILLO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "LAS CUADRAS",
+    "subcircuito": "",
+    "id": "COCA-COLA",
+    "nombre_punto": "COCA COLA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "LAS CUADRAS",
+    "subcircuito": "",
+    "id": "SANTA-MARIA-CUADRAS",
+    "nombre_punto": "SANTA MARÍA - LAS CUADRAS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "LAS CUADRAS",
+    "subcircuito": "",
+    "id": "HOSPITAL-PADRE-CAROLO",
+    "nombre_punto": "HOSPITAL PADRE CAROLO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "KENNEDY",
+    "subcircuito": "",
+    "id": "CONJUNTO-HYH-2",
+    "nombre_punto": "CONJUNTO HYH 2"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "SAN ISIDRO DEL INCA",
+    "subcircuito": "",
+    "id": "PANADERIA_EL_MANJAR",
+    "nombre_punto": "PANADERÍA EL MANJAR"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "KENNEDY",
+    "subcircuito": "",
+    "id": "CON_VILLA_VERDE",
+    "nombre_punto": "CONJUNTO VILLA VERDE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "KENNEDY",
+    "subcircuito": "",
+    "id": "SUBCENTRO_DE_SALUD_LR",
+    "nombre_punto": "SUBCENTRO DE SALUD LA RUMIÑAHUI"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "KENNEDY",
+    "subcircuito": "",
+    "id": "COLEGIO_ELOY_ALFARO",
+    "nombre_punto": "COLEGIO ELOY ALFARO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "KENNEDY",
+    "subcircuito": "",
+    "id": "TIENDA_CAFE_MINIMARKET",
+    "nombre_punto": "TIENDA CAFÉ MINIMARKET"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "KENNEDY",
+    "subcircuito": "",
+    "id": "ENTRADA_PARQUE_BICENTENARIO",
+    "nombre_punto": "ENTRADA PARQUE BICENTENARIO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "KENNEDY",
+    "subcircuito": "",
+    "id": "SANTA_MARIA",
+    "nombre_punto": "SANTA MARÍA - KENNEDY"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "KENNEDY",
+    "subcircuito": "",
+    "id": "MERCADO_JF_KENNEDY",
+    "nombre_punto": "MERCADO JF KENNEDY"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "KENNEDY",
+    "subcircuito": "",
+    "id": "MERCADO_LA_RUMIÑAHUI",
+    "nombre_punto": "MERCADO LA RUMIÑAHUI"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "KENNEDY",
+    "subcircuito": "",
+    "id": "CHIFA_CASA_ARMONIA_HUMANA",
+    "nombre_punto": "CHIFA CASA ARMONÍA HUMANA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "PONCIANO",
+    "subcircuito": "",
+    "id": "COMPLEJO_RECREACIONAL_KAERSAM",
+    "nombre_punto": "COMPLEJO RECREACIONAL KAERSAM"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "PONCIANO",
+    "subcircuito": "",
+    "id": "FARMACIAS_ECONOMICAS",
+    "nombre_punto": "FARMACIAS ECONÓMICAS - PONCIANO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "POMASQUI",
+    "subcircuito": "",
+    "id": "CONJUNTO_RINCON_POMASQUI",
+    "nombre_punto": "CONJUNTO RINCÓN DE POMASQUI"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "LIBERTAD",
+    "subcircuito": "",
+    "id": "SENORA_DILLON",
+    "nombre_punto": "CASA SEÑORA DILLON"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "LAS CUADRAS",
+    "subcircuito": "",
+    "id": "CANCHA_GENERAL_GLL",
+    "nombre_punto": "CANCHAS GENERAL GALLARDO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "LAS CUADRAS",
+    "subcircuito": "",
+    "id": "GASOLINERA_FENACOTIP",
+    "nombre_punto": "GASOLINERA FENACOTIP"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "LAS CUADRAS",
+    "subcircuito": "",
+    "id": "TUTI_MARISCAL_SUCRE_C",
+    "nombre_punto": "TUTI - LAS CUADRAS (AV. MARISCAL SUCRE)"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "LAS CUADRAS",
+    "subcircuito": "",
+    "id": "MONGOS",
+    "nombre_punto": "MONGOS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "LAS CUADRAS",
+    "subcircuito": "",
+    "id": "CONFITECA_CC",
+    "nombre_punto": "CONFITECA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "CONOCOTO NORTE",
+    "subcircuito": "",
+    "id": "URB_PORTAL_ANDAL",
+    "nombre_punto": "PORTAL DE ANDALUCÍA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "ARGELIA",
+    "subcircuito": "",
+    "id": "MYR_PONCE",
+    "nombre_punto": "MAYOR PONCE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "LIBERTAD",
+    "subcircuito": "",
+    "id": "FARMA_COMUNITARIA_MS",
+    "nombre_punto": "FARMACIAS COMUNITARIAS - LA LIBERTAD"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "LA BOTA",
+    "subcircuito": "",
+    "id": "HOR_ANDINA_LD",
+    "nombre_punto": "HORMIGONERA ANDINA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "KENNEDY",
+    "subcircuito": "",
+    "id": "RR_ELECTRO",
+    "nombre_punto": "R. R. ELECTRÓNICA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "SANTA ANITA",
+    "subcircuito": "",
+    "id": "VI_VICTORIA_CCP_EA",
+    "nombre_punto": "VÍVERES VICTORIA C.C.R"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "CHIMBACALLE",
+    "subcircuito": "",
+    "id": "SRA_LUPE_EA_CC",
+    "nombre_punto": "SEÑORA GUADALUPE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "FERROVIARIA",
+    "subcircuito": "",
+    "id": "FAR_ECONOMICA_EA_FRR",
+    "nombre_punto": "FARMACIAS ECONÓMICAS - FERROVIARIA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "FERROVIARIA",
+    "subcircuito": "",
+    "id": "CC_LINARES_EA_FRR",
+    "nombre_punto": "COMERCIAL LINARES"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "LC_CITY_EE_IÑ",
+    "nombre_punto": "LOCAL CITY"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "UPC_QUICENTRO_EE_IÑ",
+    "nombre_punto": "UPC QUICENTRO NORTE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "HT_QUINTA_EE_IÑ",
+    "nombre_punto": "HOTEL LA QUINTA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "LC_SUPERMAXI_EE_IÑ",
+    "nombre_punto": "SUPERMAXI - IÑAQUITO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "POLLO_CAMPERO_EE_IÑ",
+    "nombre_punto": "POLLO CAMPERO - IÑAQUITO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "ITCHIMBÍA",
+    "subcircuito": "",
+    "id": "PRIN_HOS_EUGENIO_MS_IT",
+    "nombre_punto": "ENTRADA PRINCIPAL DEL HOSPITAL EUGENIO ESPEJO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "ITCHIMBÍA",
+    "subcircuito": "",
+    "id": "MATERNIDAD_ISI_AYOLA_MS_IT",
+    "nombre_punto": "ENTRADA DE EMERGENCIA DE LA MATERNIDAD ISIDRO AYORA."
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "ITCHIMBÍA",
+    "subcircuito": "",
+    "id": "MEDICINA_UCE_MS_IT",
+    "nombre_punto": "ENTRADA PRINCIPAL A LA ESCUELA DE MEDICINA UCE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "CARCELÉN",
+    "subcircuito": "",
+    "id": "HOS_SAN_FRANCISCO_LD_CC",
+    "nombre_punto": "HOSPITAL GENERAL SAN FRANCISCO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "CARCELÉN",
+    "subcircuito": "",
+    "id": "GASOLINERA_PRIM_LD_CC",
+    "nombre_punto": "GASOLINERA PRIMAX - CÓRDOVA GALARZA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "CARCELÉN",
+    "subcircuito": "",
+    "id": "SUPER_CARNES_LD_CC",
+    "nombre_punto": "SUPER CARNES"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "CARCELÉN",
+    "subcircuito": "",
+    "id": "DISTRIBUIDORA_KARITO_LD_CC",
+    "nombre_punto": "IMPORTADORA Y DISTRIBUIDORA KARITO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "CARCELÉN",
+    "subcircuito": "",
+    "id": "VIVERES_ALEXIS_LD_CC",
+    "nombre_punto": "VÍVERES ALEXIS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "CARCELÉN",
+    "subcircuito": "",
+    "id": "MULTIFAMILIAR_LD_CC",
+    "nombre_punto": "MULTIFAMILIARES DE CARCELÉN SECTOR 7"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "CARCELÉN",
+    "subcircuito": "",
+    "id": "POLLOS_BRASA_LD_CC",
+    "nombre_punto": "POLLOS A LA BRASA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "CARCELÉN",
+    "subcircuito": "",
+    "id": "DELICIAS_VERDE_LD_CC",
+    "nombre_punto": "LAS DELICIAS DEL VERDE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "CARCELÉN",
+    "subcircuito": "",
+    "id": "COL_AMERICANO_LD_CC",
+    "nombre_punto": "COLEGIO AMERICANO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "SOLANDA",
+    "subcircuito": "",
+    "id": "HOS_NAPOLES_EA_SL",
+    "nombre_punto": "HOSPITAL NÁPOLES"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "SOLANDA",
+    "subcircuito": "",
+    "id": "POLLO_GUS_EA_SL",
+    "nombre_punto": "POLLO GUS - SOLANDA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "SOLANDA",
+    "subcircuito": "",
+    "id": "BORDALTEX_EA_SL",
+    "nombre_punto": "BORDALTEX"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "SOLANDA",
+    "subcircuito": "",
+    "id": "JD_ESTUDIOS_EA_SL",
+    "nombre_punto": "JD ESTUDIOS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "SOLANDA",
+    "subcircuito": "",
+    "id": "UPS_PARQUE_ECO_EA_SL",
+    "nombre_punto": "UPS-PARQUE ECOLÓGICO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "SOLANDA",
+    "subcircuito": "",
+    "id": "PZ_SOLANDA_MERKATO_EA_SL",
+    "nombre_punto": "PLAZA SOLANDA MERKATO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "SOLANDA",
+    "subcircuito": "",
+    "id": "PUNTO_GOL_EA_SL",
+    "nombre_punto": "PUNTO GOL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "SOLANDA",
+    "subcircuito": "",
+    "id": "VV_ELIZABETH_EA_SL",
+    "nombre_punto": "VÍVERES ELIZABETH"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "SOLANDA",
+    "subcircuito": "",
+    "id": "COL_AMERICANO_EA_SL",
+    "nombre_punto": "DISTRIBUIDORA VICTORIA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "SOLANDA",
+    "subcircuito": "",
+    "id": "OG_LAB_EA_SL",
+    "nombre_punto": "OG LAB"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "TUMBACO",
+    "subcircuito": "",
+    "id": "TIA_TB_TB",
+    "nombre_punto": "TÍA - TUMBACO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "TUMBACO",
+    "subcircuito": "",
+    "id": "AVICULTOR_TB_TB",
+    "nombre_punto": "EL AVICULTOR"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "TUMBACO",
+    "subcircuito": "",
+    "id": "SUPERMERCADOR_TB_TB",
+    "nombre_punto": "SUPERMERCADOR JC"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "TUMBACO",
+    "subcircuito": "",
+    "id": "VEGA_BELTRAN_TB_TB",
+    "nombre_punto": "VEGA BELTRAN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "TUMBACO",
+    "subcircuito": "",
+    "id": "CONJ_MARÍA_LUZ_TB_TB",
+    "nombre_punto": "CONJUNTO MARÍA LUZ"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "TUMBACO",
+    "subcircuito": "",
+    "id": "ABYLU_TB_TB",
+    "nombre_punto": "ABYLU"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "TUMBACO",
+    "subcircuito": "",
+    "id": "FLORIS_ANTURIOS_TB_TB",
+    "nombre_punto": "FLORISTERÍA LOS ANTURIOS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "TUMBACO",
+    "subcircuito": "",
+    "id": "GRU_ORO_CARNES__TB_TB",
+    "nombre_punto": "ALMACÉN TUMBACO GRUPO ORO(CARNES)"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "TUMBACO",
+    "subcircuito": "",
+    "id": "LOTUS_FLORES_TB_TB",
+    "nombre_punto": "TIENDA DE REGALOS(LOTUS FLORES Y DETALLES)"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "TUMBACO",
+    "subcircuito": "",
+    "id": "PATIOS_PONTE_11_TB_TB",
+    "nombre_punto": "PATIO DE AUTOS (PONTE 11)"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "CONOCOTO NORTE",
+    "subcircuito": "",
+    "id": "GARI_LA_ARMENIA_LC_CN",
+    "nombre_punto": "GARITA PARQUE LA ARMENIA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "CONOCOTO NORTE",
+    "subcircuito": "",
+    "id": "GARI_UPMA_LC_CN",
+    "nombre_punto": "GARITA DE LA UPMA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "CONOCOTO NORTE",
+    "subcircuito": "",
+    "id": "FAR_CRUZ_AZUL_LC_CN",
+    "nombre_punto": "FARMACIA CRUZ AZUL - CONOCOTO NORTE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "CONOCOTO NORTE",
+    "subcircuito": "",
+    "id": "URBAN_PUE_BLANC_LC_CN",
+    "nombre_punto": "URBANIZACIÓN PUEBLO BLANCO DEL VALLE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "CONOCOTO NORTE",
+    "subcircuito": "",
+    "id": "HIDROELÉCTRICA_LC_CN",
+    "nombre_punto": "HIDROELÉCTRICA GUANGOPOLO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "CONOCOTO NORTE",
+    "subcircuito": "",
+    "id": "FABR_IMPLE_DE_ASEO_LC_CN",
+    "nombre_punto": "FÁBRICA DE IMPLEMENTOS DE ASEO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "CONOCOTO NORTE",
+    "subcircuito": "",
+    "id": "AGENC_TRANS_SALVADO_LC_CN",
+    "nombre_punto": "AGENCIA DE TRÁNSITO SALVADOR CELI"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "CONOCOTO NORTE",
+    "subcircuito": "",
+    "id": "SUBCENTRO_LC_CN",
+    "nombre_punto": "SUBCENTRO CONOCOTO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "CONOCOTO NORTE",
+    "subcircuito": "",
+    "id": "COL_SAN_VICHE__LC_CN",
+    "nombre_punto": "COLEGIO SAN VICENTE DE PAUL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "CONOCOTO NORTE",
+    "subcircuito": "",
+    "id": "HOS_PSIQUIÁ_JULIO_ENDARA_LC_CN",
+    "nombre_punto": "HOSPITAL PSIQUIÁTRICO JULIO ENDARA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "GUAMANI",
+    "subcircuito": "",
+    "id": "TIA_QT_GUA",
+    "nombre_punto": "TIA - GUAMANÍ"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "GUAMANI",
+    "subcircuito": "",
+    "id": "PETROECUADOR_MALD_QT_GUA",
+    "nombre_punto": "PETROECUADOR MALDONADO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "GUAMANI",
+    "subcircuito": "",
+    "id": "CENEMIL_QT_GUA",
+    "nombre_punto": "CENEMIL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "GUAMANI",
+    "subcircuito": "",
+    "id": "PETROECUADOR_SUCRE_QT_GUA",
+    "nombre_punto": "PETROECUADOR SUCRE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "GUAMANI",
+    "subcircuito": "",
+    "id": "GASOLI_CLYAN_QT_GUA",
+    "nombre_punto": "GASOLINERA CLYAN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "GUAMANI",
+    "subcircuito": "",
+    "id": "CAMAL_METROPOLI_QT_GUA",
+    "nombre_punto": "CAMAL METROPOLITANO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "GUAMANI",
+    "subcircuito": "",
+    "id": "MATERN_NUEVA_AURORA_QT_GUA",
+    "nombre_punto": "MATERNIDAD NUEVA AURORA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "GUAMANI",
+    "subcircuito": "",
+    "id": "PAGO_AGIL_QT_GUA",
+    "nombre_punto": "PAGO ÁGIL - GUAMANÍ"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "GUAMANI",
+    "subcircuito": "",
+    "id": "AKI_QT_GUA",
+    "nombre_punto": "AKI - GUAMANÍ"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "GUAMANI",
+    "subcircuito": "",
+    "id": "PETESTORE_QT_GUA",
+    "nombre_punto": "PETESTORE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "CARAPUNGO",
+    "subcircuito": "",
+    "id": "MERCADO_CL_CL",
+    "nombre_punto": "MERCADO DE CARAPUNGO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "CARAPUNGO",
+    "subcircuito": "",
+    "id": "TIEN_KIKIS_CL_CL",
+    "nombre_punto": "TIENDA LA KIKIS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "CARAPUNGO",
+    "subcircuito": "",
+    "id": "LC_AUTENTICO_SABOR_CL_CL",
+    "nombre_punto": "EL AUTÉNTICO SABOR DEL CARCHI"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "CONOCOTO NORTE",
+    "subcircuito": "",
+    "id": "DOM_HNOS_NUÑEZ_CN",
+    "nombre_punto": "DOMICILIO HNOS NUÑEZ"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "ARGELIA",
+    "subcircuito": "",
+    "id": "STA_MARTHA_EA_AR",
+    "nombre_punto": "FARMACIA SANTA MARTHA - ARGELIA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "ARGELIA",
+    "subcircuito": "",
+    "id": "PTRO_ECUADOR_EA_AR",
+    "nombre_punto": "PETROECUADOR - ARGELIA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "ARGELIA",
+    "subcircuito": "",
+    "id": "ODONTOALIVIO_EA_AR",
+    "nombre_punto": "ODONTOALIVIO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "ARGELIA",
+    "subcircuito": "",
+    "id": "CASA_COMUNAL_EA_AR",
+    "nombre_punto": "CASA COMUNAL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "ARGELIA",
+    "subcircuito": "",
+    "id": "DOMICILIO1_EA_AR",
+    "nombre_punto": "DOMICILIO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "ARGELIA",
+    "subcircuito": "",
+    "id": "B_PICHINCHA_EA_AR",
+    "nombre_punto": "BANCO DEL PICHINCHA - ARGELIA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "BARRIO NUEVO",
+    "subcircuito": "",
+    "id": "NEGO_ANDINOS_EA_BN",
+    "nombre_punto": "CENTRO COMERCIAL NEGOCIOS ANDINOS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "BARRIO NUEVO",
+    "subcircuito": "",
+    "id": "TIA_GUAJALO_EA_BN",
+    "nombre_punto": "TÍA - GUAJALO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "BARRIO NUEVO",
+    "subcircuito": "",
+    "id": "PARADA_CHILLO_EA_BN",
+    "nombre_punto": "PARADA CHILLOGALLO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "BARRIO NUEVO",
+    "subcircuito": "",
+    "id": "FERRELOS_EA_BN",
+    "nombre_punto": "FERRETERÍA FERRELEOS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "BARRIO NUEVO",
+    "subcircuito": "",
+    "id": "MINIMAR_FLORES_EA_BN",
+    "nombre_punto": "MINI-MARKET FLORES"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "BARRIO NUEVO",
+    "subcircuito": "",
+    "id": "ESTADIO_AUCAS_EA_BN",
+    "nombre_punto": "ESTADIO DEL AUCAS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "BARRIO NUEVO",
+    "subcircuito": "",
+    "id": "CS_MADRETERESA_EA_BN",
+    "nombre_punto": "CENTRO DE SALUD FAMILIAR MADRE TERESA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "BARRIO NUEVO",
+    "subcircuito": "",
+    "id": "COCO_CAÑA_EA_BN",
+    "nombre_punto": "LICOURS COCO E CAÑA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "BARRIO NUEVO",
+    "subcircuito": "",
+    "id": "LAB_BIOSER_EA_BN",
+    "nombre_punto": "LABORATORIO CLÍNICO BIOSER SOLANDA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "CHILIBULO",
+    "subcircuito": "",
+    "id": "ABARR_LAURITA_EA_CB",
+    "nombre_punto": "TIENDA DE ABARROTES LAURITA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "CHILIBULO",
+    "subcircuito": "",
+    "id": "PANADERIA_IBETH_EA_CB",
+    "nombre_punto": "PANADERÍA IBETH"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "CHILIBULO",
+    "subcircuito": "",
+    "id": "FAR_CRUZ_AZUL_EA_CB",
+    "nombre_punto": "FARMACIA CRUZ AZUL - CHILIBULO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "CHILIBULO",
+    "subcircuito": "",
+    "id": "DOM_BC_EA_CB",
+    "nombre_punto": "DOMICILIO SRA. BEATRIZ CEVALLOS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "CHILIBULO",
+    "subcircuito": "",
+    "id": "FAR_ECONOMICAS_EA_CB",
+    "nombre_punto": "FARMACIAS ECONÓMICAS - CHILIBULO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "CHILIBULO",
+    "subcircuito": "",
+    "id": "DOM_OJ_EA_CB",
+    "nombre_punto": "DOMICILIO CORONEL ORQUERA REINOSO JUAN FRANCISCO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "CHILIBULO",
+    "subcircuito": "",
+    "id": "ESCUELA_CORDERO_CRESPO_EA_CB",
+    "nombre_punto": "ESCUELA GONZALO CORDERO CRESPO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "CHILIBULO",
+    "subcircuito": "",
+    "id": "PAN_BRYAN_EA_CB",
+    "nombre_punto": "PANADERÍA BRYAN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "CHILIBULO",
+    "subcircuito": "",
+    "id": "PAN_ANTOJO_ALEMAN_EA_CB",
+    "nombre_punto": "PANADERÍA ANTOJITO ALEMÁN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "CHILIBULO",
+    "subcircuito": "",
+    "id": "CRONOSTEC_EA_CB",
+    "nombre_punto": "LOCAL COMERCIAL: CRONOSTEC"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "CHILIBULO",
+    "subcircuito": "",
+    "id": "SAN_JOSÉ_EA_CB",
+    "nombre_punto": "RESTAURANTE SAN JOSÉ"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "CHILIBULO",
+    "subcircuito": "",
+    "id": "SYLVIDGLASS_EA_CB",
+    "nombre_punto": "VIDRIERIA SYLVISGLASS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "CHIMBACALLE",
+    "subcircuito": "",
+    "id": "BRIDAISA_EA_CH",
+    "nombre_punto": "MICROMERCADO BRIDAISA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "CHIMBACALLE",
+    "subcircuito": "",
+    "id": "5_ESQUINAS_EA_CH",
+    "nombre_punto": "ENCEBOLLADOS 5 ESQUINAS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "CHIMBACALLE",
+    "subcircuito": "",
+    "id": "POPULAR_EA_CHPOPULAR_EA_CH",
+    "nombre_punto": "BODEGA POPULAR"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "CHIMBACALLE",
+    "subcircuito": "",
+    "id": "PANCHOLIN_EA_CH",
+    "nombre_punto": "CONFECCIONES PANCHOLÍN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "EL CALZADO",
+    "subcircuito": "",
+    "id": "DOM_1_EA_EC",
+    "nombre_punto": "VIVIENDA 1 - EL CALZADO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "EL CALZADO",
+    "subcircuito": "",
+    "id": "DOM_2_EA_EC",
+    "nombre_punto": "VIVIENDA 2 - EL CALZADO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "EL CALZADO",
+    "subcircuito": "",
+    "id": "UPC_EA_EC",
+    "nombre_punto": "UPC - EL CALZADO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "EL CALZADO",
+    "subcircuito": "",
+    "id": "BOMBEROS_EA_EC",
+    "nombre_punto": "ESTACIÓN DE LOS BOMBEROS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "EL CALZADO",
+    "subcircuito": "",
+    "id": "VIVERES_ELI_EA_EC",
+    "nombre_punto": "VÍVERES ELI"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "EL CALZADO",
+    "subcircuito": "",
+    "id": "DOM_3_EA_EC",
+    "nombre_punto": "VIVIENDA 3 - EL CALZADO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "EL CALZADO",
+    "subcircuito": "",
+    "id": "PETROECUADOR_EA_EC",
+    "nombre_punto": "GASOLINERA PETROECUADOR - EL CALZADO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "EL CALZADO",
+    "subcircuito": "",
+    "id": "CASA_SOMOS_EA_EC",
+    "nombre_punto": "CASA SOMOS SAN BARTOLO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "EL CALZADO",
+    "subcircuito": "",
+    "id": "UNIDAD_EDUCA_EA_EC",
+    "nombre_punto": "UNIDAD EDUCATIVA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "EL CALZADO",
+    "subcircuito": "",
+    "id": "PET_SHOP_EA_EC",
+    "nombre_punto": "PET SHOP PATITAS MIAS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "FERROVIARIA",
+    "subcircuito": "",
+    "id": "YOLANDITA_EA_FE",
+    "nombre_punto": "VÍVERES YOLANDITA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "FERROVIARIA",
+    "subcircuito": "",
+    "id": "HELITAS_EA_FE",
+    "nombre_punto": "PAÑALES HELITAS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "FERROVIARIA",
+    "subcircuito": "",
+    "id": "MR_SEBAS_EA_FE",
+    "nombre_punto": "DISTRIBUIDORA DE POLLOS MR SEBAS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "FERROVIARIA",
+    "subcircuito": "",
+    "id": "MARKET_PLUS_EA_FE",
+    "nombre_punto": "BODEGA MARKET PLUS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "FERROVIARIA",
+    "subcircuito": "",
+    "id": "BELLA_MARÍA_EA_FE",
+    "nombre_punto": "HOSTAL BELLA MARÍA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "FERROVIARIA",
+    "subcircuito": "",
+    "id": "VIVERES_EA_FE",
+    "nombre_punto": "VÍVERES - FERROVIARIA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "MAGDALENA",
+    "subcircuito": "",
+    "id": "VIV_PAMELITA_EA_MG",
+    "nombre_punto": "VÍVERES PAMELITA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "MAGDALENA",
+    "subcircuito": "",
+    "id": "SABROSO_EA_MG",
+    "nombre_punto": "SABROSO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "MAGDALENA",
+    "subcircuito": "",
+    "id": "GRUPO_ORO_EA_MG",
+    "nombre_punto": "GRUPO ORO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "MAGDALENA",
+    "subcircuito": "",
+    "id": "NASLY_EA_MG",
+    "nombre_punto": "RESTAURANTE NASLY"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "MAGDALENA",
+    "subcircuito": "",
+    "id": "LA_PINCHERA_EA_MG",
+    "nombre_punto": "RESTAURANTE LA PINCHERA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "MAGDALENA",
+    "subcircuito": "",
+    "id": "SANA_SANA_EA_MG",
+    "nombre_punto": "FARMACIA SANA SANA - MAGDALENA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "MAGDALENA",
+    "subcircuito": "",
+    "id": "AUTOLLANTAS_EA_MG",
+    "nombre_punto": "AUTOLLANTAS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "MENA",
+    "subcircuito": "",
+    "id": "VETERINARIA_EA_MN",
+    "nombre_punto": "VETERINARIA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "MENA",
+    "subcircuito": "",
+    "id": "MICROLUPITA_EA_MN",
+    "nombre_punto": "MICROLUPITA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "MENA",
+    "subcircuito": "",
+    "id": "SU_LEGUMBRERIA_EA_MN",
+    "nombre_punto": "SU LEGUMBRERÍA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "MENA",
+    "subcircuito": "",
+    "id": "TECNI_SERVICIOS_EA_MN",
+    "nombre_punto": "FERRETERÍA TECNI SERVICIOS/JOSE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "MENA",
+    "subcircuito": "",
+    "id": "PUNTO_NARANJA_EA_MN",
+    "nombre_punto": "PUNTO NARANJA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "MENA",
+    "subcircuito": "",
+    "id": "TERRAZAS_PICH_EA_MN",
+    "nombre_punto": "TERRAZAS DEL PICHINCHA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "MENA",
+    "subcircuito": "",
+    "id": "DOM_1_EA_MN",
+    "nombre_punto": "VIVIENDA 1 - MENA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "MENA",
+    "subcircuito": "",
+    "id": "VIVERES_JOHANA_EA_MN",
+    "nombre_punto": "VÍVERES JOHANA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "MENA",
+    "subcircuito": "",
+    "id": "LOS_ANDES_EA_MN",
+    "nombre_punto": "PANADERÍA LOS ANDES"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "SANTA ANITA",
+    "subcircuito": "",
+    "id": "JAQUE_EA_SA",
+    "nombre_punto": "DISPENSA JAQUE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "SANTA ANITA",
+    "subcircuito": "",
+    "id": "ROCK_GRILL_EA_SA",
+    "nombre_punto": "SMOKED ROCK GRILL- N- BEER"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "SANTA ANITA",
+    "subcircuito": "",
+    "id": "MEGAZENTRO_EA_SA",
+    "nombre_punto": "MEGAZENTRO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "SANTA ANITA",
+    "subcircuito": "",
+    "id": "RELAMPAGO_EA_SA",
+    "nombre_punto": "PANADERÍA RELÁMPAGO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "SANTA ANITA",
+    "subcircuito": "",
+    "id": "EL_HORNERO_EA_SA",
+    "nombre_punto": "PIZZERÍA EL HORNERO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "SANTA ANITA",
+    "subcircuito": "",
+    "id": "HOUSTON_EA_SA",
+    "nombre_punto": "HOSTAL HOUSTON"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "SANTA ANITA",
+    "subcircuito": "",
+    "id": "COMERCIO_AJAVI_EA_SA",
+    "nombre_punto": "COMERCIO AJAVÍ"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "SANTA ANITA",
+    "subcircuito": "",
+    "id": "PROP_PRIVADA_EA_SA",
+    "nombre_punto": "PROPIEDAD PRIVADA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "SANTA ANITA",
+    "subcircuito": "",
+    "id": "TERPEL_EA_SA",
+    "nombre_punto": "GASOLINERA TERPEL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "COCHAPAMBA",
+    "subcircuito": "",
+    "id": "PAN_MULTIPAN_EE_CP",
+    "nombre_punto": "PANIFICADORA MULTIPÁN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "COCHAPAMBA",
+    "subcircuito": "",
+    "id": "FAR_SANA_SANA_EE_CP",
+    "nombre_punto": "FARMACIA SANA SANA - COCHAPAMBA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "EL BOSQUE",
+    "subcircuito": "",
+    "id": "PETROECUADOR_EE_EB",
+    "nombre_punto": "GASOLINERA PETROECUADOR - EL BOSQUE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "EL BOSQUE",
+    "subcircuito": "",
+    "id": "FAR_ECONOMICAS_EE_EB",
+    "nombre_punto": "FARMACIAS ECONÓMICAS - EL BOSQUE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "EL BOSQUE",
+    "subcircuito": "",
+    "id": "TUTI_EE_EB",
+    "nombre_punto": "TUTI - EL BOSQUE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "CARCELÉN",
+    "subcircuito": "",
+    "id": "CJTO_SINAÍ_LD_CC",
+    "nombre_punto": "CONJUNTOS SINAÍ"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "CARCELÉN",
+    "subcircuito": "",
+    "id": "SUPER_SABOR_LD_CC",
+    "nombre_punto": "SUPER SABOR"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "CARCELÉN",
+    "subcircuito": "",
+    "id": "LA_SELECTA_LD_CC",
+    "nombre_punto": "SUPER MERCADO DE CARNES LA SELECTA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "CARCELÉN",
+    "subcircuito": "",
+    "id": "PAN_AMBATEÑITO_LD_CC",
+    "nombre_punto": "SUPER PAN AMBATEÑITO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "CARCELÉN",
+    "subcircuito": "",
+    "id": "MINIMARKET_LD_CC",
+    "nombre_punto": "MINIMARKET"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "COLINAS DEL NORTE",
+    "subcircuito": "",
+    "id": "VIVE_KYMBERLI_LD_CN",
+    "nombre_punto": "VÍVERES KYMBERLI"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "COLINAS DEL NORTE",
+    "subcircuito": "",
+    "id": "TENEDOR_ORO_LD_CN",
+    "nombre_punto": "RESTAURANTE TENEDOR DE ORO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "COLINAS DEL NORTE",
+    "subcircuito": "",
+    "id": "LA_VECINITA_LD_CN",
+    "nombre_punto": "LA VECINITA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "COLINAS DEL NORTE",
+    "subcircuito": "",
+    "id": "LOLITEX_LD_CN",
+    "nombre_punto": "CONFECCIONES LOLITEX"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "COLINAS DEL NORTE",
+    "subcircuito": "",
+    "id": "TUTI_LD_CN",
+    "nombre_punto": "TUTI - COLINAS DEL NORTE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "COTOCOLLAO",
+    "subcircuito": "",
+    "id": "PAN_AMBATO_LD_CT",
+    "nombre_punto": "PANADERÍA AMBATO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "COTOCOLLAO",
+    "subcircuito": "",
+    "id": "FAR_CRUZ_AZUL_LD_CT",
+    "nombre_punto": "FARMACIA CRUZ AZUL - COTOCOLLAO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "COTOCOLLAO",
+    "subcircuito": "",
+    "id": "KOKO_RIKO_LD_CC",
+    "nombre_punto": "ASADERO KOKO RIKO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "COTOCOLLAO",
+    "subcircuito": "",
+    "id": "SUPERMAXI_LD_CT",
+    "nombre_punto": "SUPERMAXI - COTOCOLLAO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "COTOCOLLAO",
+    "subcircuito": "",
+    "id": "TIA_LD_CT",
+    "nombre_punto": "TÍA - COTOCOLLAO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "COTOCOLLAO",
+    "subcircuito": "",
+    "id": "PROGRESO_LD_CT",
+    "nombre_punto": "BODEGA EL PROGRESO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "COTOCOLLAO",
+    "subcircuito": "",
+    "id": "FAR_ECONÓMICA_LD_CT",
+    "nombre_punto": "FARMACIAS ECONÓMICAS - COTOCOLLAO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "COTOCOLLAO",
+    "subcircuito": "",
+    "id": "HOJALDRE_LD_CT",
+    "nombre_punto": "PANADERÍA HOJALDRE - COTOCOLLAO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "COTOCOLLAO",
+    "subcircuito": "",
+    "id": "PAN_SAN_CARLOS_LD_CT",
+    "nombre_punto": "PANADERÍA SAN CARLOS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "COTOCOLLAO",
+    "subcircuito": "",
+    "id": "TUTI_LD_CT",
+    "nombre_punto": "TUTI - COTOCOLLAO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "COTOCOLLAO",
+    "subcircuito": "",
+    "id": "CHORIGOL_LD_CT",
+    "nombre_punto": "CHORIGOL - COTOCOLLAO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "EL CONDADO",
+    "subcircuito": "",
+    "id": "CRS_2_LD_EC",
+    "nombre_punto": "CRS-PICHINCHA NO2"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "EL CONDADO",
+    "subcircuito": "",
+    "id": "BALCONES_NORTE_LD_EC",
+    "nombre_punto": "BALCONES DEL NORTE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "EL CONDADO",
+    "subcircuito": "",
+    "id": "MAS_GAS_LD_EC",
+    "nombre_punto": "GASOLINERA MAS GAS - EL CONDADO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "EL CONDADO",
+    "subcircuito": "",
+    "id": "GAS_PETROLIUM_LD_EC",
+    "nombre_punto": "GASOLINERA GAS PETROLIUM"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "EL CONDADO",
+    "subcircuito": "",
+    "id": "DOMINOS_LD_EC",
+    "nombre_punto": "PIZZERÍA DOMINO´S"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "EL CONDADO",
+    "subcircuito": "",
+    "id": "CONDADO_SHOPPING_LD_EC",
+    "nombre_punto": "CONDADO SHOPPING"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "EL CONDADO",
+    "subcircuito": "",
+    "id": "SANTA_MARIA_LD_EC",
+    "nombre_punto": "SANTA MARÍA - EL CONDADO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "EL CONDADO",
+    "subcircuito": "",
+    "id": "ESTADIO_LIGA_LD_EC",
+    "nombre_punto": "ESTADIO RODRIGO PAZ DELGADO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "EL CONDADO",
+    "subcircuito": "",
+    "id": "PRISMA_LD_EC",
+    "nombre_punto": "OPTICA PRISMA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "EL CONDADO",
+    "subcircuito": "",
+    "id": "TAMALERA_LD_EC",
+    "nombre_punto": "LA TAMALERA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "EL CONDADO",
+    "subcircuito": "",
+    "id": "VIVE_ROSITA_LD_EC",
+    "nombre_punto": "VÍVERES ROSITA - EL CONDADO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "EL CONDADO",
+    "subcircuito": "",
+    "id": "ESQUINA_ALES_LD_EC",
+    "nombre_punto": "POLLO LA ESQUINA DE ALES - EL CONDADO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "EL CONDADO",
+    "subcircuito": "",
+    "id": "TUTI_LD_EC",
+    "nombre_punto": "TUTI - EL CONDADO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "EL CONDADO",
+    "subcircuito": "",
+    "id": "COOP_PPNN_LD_EC",
+    "nombre_punto": "COOP. POLICIA NACIONAL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "EL CONDADO",
+    "subcircuito": "",
+    "id": "ENB_JURIS_LD_EC",
+    "nombre_punto": "EMBUTIDOS JURIS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "LA BOTA",
+    "subcircuito": "",
+    "id": "FRAY_JODOKO_R_LD_LB",
+    "nombre_punto": "UNIDAD EDUCATICA FRAY JODOKO RICKE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "LA BOTA",
+    "subcircuito": "",
+    "id": "TUTI_BOTA_LD_LB",
+    "nombre_punto": "TUTI - LA BOTA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "LA BOTA",
+    "subcircuito": "",
+    "id": "TUTI_ELOYALFARO_LD_LB",
+    "nombre_punto": "TUTI - ELOY ALFARO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "LA BOTA",
+    "subcircuito": "",
+    "id": "TANTRA_LD_LB",
+    "nombre_punto": "TANTRA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "LA BOTA",
+    "subcircuito": "",
+    "id": "PARKENOR_LD_LB",
+    "nombre_punto": "CONJUNTO DE ALMACENES Y BODEGAS PARKENOR AVELLANA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "LA BOTA",
+    "subcircuito": "",
+    "id": "LOCAL_PUERTAS_SOL_LD_LB",
+    "nombre_punto": "LOCAL SN PUERTAS DEL SOL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "LA BOTA",
+    "subcircuito": "",
+    "id": "CJTO_GENOVA_LD_LB",
+    "nombre_punto": "CONJUNTO GÉNOVA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "LA BOTA",
+    "subcircuito": "",
+    "id": "FIBRAN_LD_LB",
+    "nombre_punto": "FIBRÁN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "LA BOTA",
+    "subcircuito": "",
+    "id": "CONCRET_ANDES_LD_LB",
+    "nombre_punto": "CONCRET ANDES"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "LA BOTA",
+    "subcircuito": "",
+    "id": "MINIMARKET_OTAVALO_LD_LB",
+    "nombre_punto": "MINIMARKET ESQUINERO OTAVALO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "LA BOTA",
+    "subcircuito": "",
+    "id": "EL_BAGUETTE_LD_LB",
+    "nombre_punto": "EL BAGUETTE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "LA PAMPA",
+    "subcircuito": "",
+    "id": "FAR_FYBECA_LD_LP",
+    "nombre_punto": "FARMACIA FYBECCA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "LA PAMPA",
+    "subcircuito": "",
+    "id": "PAR_EQUINOCCIAL_LD_LP",
+    "nombre_punto": "PARQUE EQUINOCCIAL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "LA PAMPA",
+    "subcircuito": "",
+    "id": "PETRO_COMERCIAL_LD_LP",
+    "nombre_punto": "GASOLINERA PETROCOMERCIAL - LA PAMPA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "LA PAMPA",
+    "subcircuito": "",
+    "id": "FOOD_ZONE_LD_LP",
+    "nombre_punto": "FOOD ZONE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "LA PAMPA",
+    "subcircuito": "",
+    "id": "CASA_BLANCA_LD_LP",
+    "nombre_punto": "CENTRO COMERCIAL CASA BLANCA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "LA ROLDÓS",
+    "subcircuito": "",
+    "id": "SUPER_AKI_LD_LR",
+    "nombre_punto": "SUPER AKI - LA ROLDÓS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "LA ROLDÓS",
+    "subcircuito": "",
+    "id": "TECNO_JYC_LD_LR",
+    "nombre_punto": "TECNOLOGÍA J Y C"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "LA ROLDÓS",
+    "subcircuito": "",
+    "id": "BIMOS_FANTASY_LD_LR",
+    "nombre_punto": "BIMOS FANTASY"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "LA ROLDÓS",
+    "subcircuito": "",
+    "id": "CAR_JYG_LD_LR",
+    "nombre_punto": "CARNICERÍA J Y G"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "LA ROLDÓS",
+    "subcircuito": "",
+    "id": "SIRFCONSA_LD_LR",
+    "nombre_punto": "TIENDA SIRFCONSA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "LA ROLDÓS",
+    "subcircuito": "",
+    "id": "SITIO_PISULI_LD_LR",
+    "nombre_punto": "COMISARIATO EL SITIO PISULÍ"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "LA ROLDÓS",
+    "subcircuito": "",
+    "id": "MIL_ARTICULOS_LD_LR",
+    "nombre_punto": "COMERCIAL MIL ARTÍCULOS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "LA ROLDÓS",
+    "subcircuito": "",
+    "id": "SITIO_ROLDOS_LD_LR",
+    "nombre_punto": "COMISARIATO EL SITIO ROLDÓS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "LA ROLDÓS",
+    "subcircuito": "",
+    "id": "VIVE_MIGUEL_ANGUEL_LD_LR",
+    "nombre_punto": "VÍVERES MIGUEL ÁNGEL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "LA ROLDÓS",
+    "subcircuito": "",
+    "id": "MASCOTAS_LD_LR",
+    "nombre_punto": "ABASTOS Y COMIDAS DE MASCOTAS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "LA ROLDÓS",
+    "subcircuito": "",
+    "id": "PAPE_ANAHÍ_LD_LR",
+    "nombre_punto": "PAPELERIA ANAHÍ"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "LA ROLDÓS",
+    "subcircuito": "",
+    "id": "SURTIMAS_JUANITO_LD_LR",
+    "nombre_punto": "SURTIMÁS JUANITO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "LA ROLDÓS",
+    "subcircuito": "",
+    "id": "MICRO_LAPAZ_LD_LR",
+    "nombre_punto": "MICRO MERCADO LA PAZ"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "LA ROLDÓS",
+    "subcircuito": "",
+    "id": "PAN_ENID_LD_LR",
+    "nombre_punto": "PANADERÍA Y PASTELERIA ENID"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "LA ROLDÓS",
+    "subcircuito": "",
+    "id": "PODOTERAPIA_LD_LR",
+    "nombre_punto": "PODOTERAPIA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "MENA DEL HIERRO",
+    "subcircuito": "",
+    "id": "VAR_ELENA_LD_MH",
+    "nombre_punto": "VARIEDADES ELENA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "MENA DEL HIERRO",
+    "subcircuito": "",
+    "id": "VIVE_PEDRITO_LD_MH",
+    "nombre_punto": "VÍVERES PEDRITO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "MENA DEL HIERRO",
+    "subcircuito": "",
+    "id": "KARNIVORO_LD_MH",
+    "nombre_punto": "LOCAL COMERCIAL KARNIVORO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "MENA DEL HIERRO",
+    "subcircuito": "",
+    "id": "PRIMAX_LD_MH",
+    "nombre_punto": "GASOLINERA PRIMAX - MENA DEL HIERRO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "MENA DEL HIERRO",
+    "subcircuito": "",
+    "id": "SALA_CONDADO_LD_MH",
+    "nombre_punto": "SALA CONDADO FV"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "EL MIRADOR",
+    "subcircuito": "",
+    "id": "CS_COMITÉ_LD_MR",
+    "nombre_punto": "CENTRO DE SALUD COMITÉ DEL PUEBLO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "EL MIRADOR",
+    "subcircuito": "",
+    "id": "PAPE_PAMELA_LD_MR",
+    "nombre_punto": "PAPELERÍA PAMELA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "EL MIRADOR",
+    "subcircuito": "",
+    "id": "KFC_LD_MR",
+    "nombre_punto": "KFC - MIRADOR"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "EL MIRADOR",
+    "subcircuito": "",
+    "id": "FUENTE_LUZ_LD_MR",
+    "nombre_punto": "BARRIO FUENTE DE LUZ"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "EL MIRADOR",
+    "subcircuito": "",
+    "id": "CJTO_RON_MUÑOZ_LD_MR",
+    "nombre_punto": "CONJUNTO RON MUÑOZ"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "EL MIRADOR",
+    "subcircuito": "",
+    "id": "BIMBO_LD_MR",
+    "nombre_punto": "BIMBO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "EL MIRADOR",
+    "subcircuito": "",
+    "id": "PETROECUADOR_LD_MR",
+    "nombre_punto": "GASOLINERA PETROECUADOR - EL MIRADOR"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "EL MIRADOR",
+    "subcircuito": "",
+    "id": "COOP_ELOY_ALFARO_LD_MR",
+    "nombre_punto": "COOP. ELOY ALFARO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "EL MIRADOR",
+    "subcircuito": "",
+    "id": "BEST_PC_LD_MR",
+    "nombre_punto": "BEST PC"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "EL MIRADOR",
+    "subcircuito": "",
+    "id": "CS_E1_LD_MR",
+    "nombre_punto": "CENTRO DE SALUD E-1"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "EL MIRADOR",
+    "subcircuito": "",
+    "id": "MERCADO_COMITÉ_LD_MR",
+    "nombre_punto": "MERCADO COMITÉ DEL PUEBLO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "EL MIRADOR",
+    "subcircuito": "",
+    "id": "CRECOS_LD_MR",
+    "nombre_punto": "CRÉDITOS ECONÓMICOS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "POMASQUI",
+    "subcircuito": "",
+    "id": "HEL_PAILA_LD_PM",
+    "nombre_punto": "HELADOS DE PAILA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "POMASQUI",
+    "subcircuito": "",
+    "id": "MAS_GAS_LD_PM",
+    "nombre_punto": "GASOLINERA MAS GAS - POMASQUI"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "POMASQUI",
+    "subcircuito": "",
+    "id": "ESQUINA_SANDUCHE_LD_PM",
+    "nombre_punto": "LA ESQUINA DEL SANDUCHE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "POMASQUI",
+    "subcircuito": "",
+    "id": "PETROECUADOR_LD_PM",
+    "nombre_punto": "GASOLINERA PETROECUADOR - POMASQUI"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "POMASQUI",
+    "subcircuito": "",
+    "id": "FRITADAS_GARAGE_LD_PM",
+    "nombre_punto": "FRITADAS EL GARAGE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "POMASQUI",
+    "subcircuito": "",
+    "id": "COOP_COTOCOLLAO_LD_PM",
+    "nombre_punto": "COOPERATIVA COTOCOLLAO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "POMASQUI",
+    "subcircuito": "",
+    "id": "ACEROS_NEGRETE_LD_PM",
+    "nombre_punto": "ACEROS NEGRETE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "POMASQUI",
+    "subcircuito": "",
+    "id": "HEL_MICKY_LD_PM",
+    "nombre_punto": "HELADERÍA MICKY"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "POMASQUI",
+    "subcircuito": "",
+    "id": "CORVICHES_LILY_LD_PM",
+    "nombre_punto": "CORVICHES LILY"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "POMASQUI",
+    "subcircuito": "",
+    "id": "MINIMARKET_PABLITO_LD_PM",
+    "nombre_punto": "MINIMARKET DON PABLITO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "PONCIANO",
+    "subcircuito": "",
+    "id": "NOVICOMPU_LD_PC",
+    "nombre_punto": "NOVICOMPU - PONCIANO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "PONCIANO",
+    "subcircuito": "",
+    "id": "TROPIBURGUER_LD_PC",
+    "nombre_punto": "TROPIBURGUER"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "PONCIANO",
+    "subcircuito": "",
+    "id": "SANTA_MARIA_LD_PC",
+    "nombre_punto": "SANTA MARÍA - PONCIANO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "PONCIANO",
+    "subcircuito": "",
+    "id": "MEC_PAVON_LD_PC",
+    "nombre_punto": "MECANICA PAVÓN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "PONCIANO",
+    "subcircuito": "",
+    "id": "EL_CEDRAL_LD_PC",
+    "nombre_punto": "EL CEDRAL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "PONCIANO",
+    "subcircuito": "",
+    "id": "INCOREA_CABLES_LD_PC",
+    "nombre_punto": "INCOREA CABLES"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "PONCIANO",
+    "subcircuito": "",
+    "id": "GUARDA_ALMACEN_LD_PC",
+    "nombre_punto": "GUARDA ALMACEN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "PONCIANO",
+    "subcircuito": "",
+    "id": "VENTURA_II_LD_PC",
+    "nombre_punto": "CONJUNTO VENTURA II"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "PONCIANO",
+    "subcircuito": "",
+    "id": "GASO_ULTRA_LS_PC",
+    "nombre_punto": "GASOLINERA ULTRA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "PONCIANO",
+    "subcircuito": "",
+    "id": "CIUDADELA_LD_PC",
+    "nombre_punto": "CIUDADELA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "PONCIANO",
+    "subcircuito": "",
+    "id": "ATIKA_CLUB_LD_PC",
+    "nombre_punto": "ATIKA CLUB"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "PONCIANO",
+    "subcircuito": "",
+    "id": "CASA_JUSTICIA_LD_PC",
+    "nombre_punto": "CASA DE LA JUSTICIA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "PONCIANO",
+    "subcircuito": "",
+    "id": "ECUAPESCA_LD_PC",
+    "nombre_punto": "ECUAPESCA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "PONCIANO",
+    "subcircuito": "",
+    "id": "MARCELLOS_LD_PC",
+    "nombre_punto": "MARCELLOS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "PONCIANO",
+    "subcircuito": "",
+    "id": "AUTO_SPAEM_LD_PC",
+    "nombre_punto": "AUTO SPAEM"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "PONCIANO",
+    "subcircuito": "",
+    "id": "SHADIRA_II_LD_PC",
+    "nombre_punto": "SHADIRA II"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "SAN ANTONIO",
+    "subcircuito": "",
+    "id": "MEGAVICHE_LD_SAB",
+    "nombre_punto": "MEGAVICHE - SAN ANTONIO BAJO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "SAN ANTONIO",
+    "subcircuito": "",
+    "id": "GASO_PYS_LD_SAB",
+    "nombre_punto": "GASOLINERA PyS - SAN ANTONIO BAJO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "SAN ANTONIO",
+    "subcircuito": "",
+    "id": "SANTA_MARIA_LD_SAB",
+    "nombre_punto": "SANTA MARÍA - SAN ANTONIO BAJO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "SAN ANTONIO",
+    "subcircuito": "",
+    "id": "PETROECUADOR_LD_SAB",
+    "nombre_punto": "GASOLINERA PETROECUADOR - SAN ANTONIO BAJO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "SAN ANTONIO",
+    "subcircuito": "",
+    "id": "COOP_COOPROGRESO_LD_SAB",
+    "nombre_punto": "COOPERATIVA COOPROGRESO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "SAN ANTONIO",
+    "subcircuito": "",
+    "id": "BANCO_PICHINCHA_LD_SAB",
+    "nombre_punto": "BANCO DEL PICHINCHA - SAN ANTONIO BAJO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "SAN ANTONIO",
+    "subcircuito": "",
+    "id": "FAR_CRUZ_AZUL_LD_SAB",
+    "nombre_punto": "FARMACIA CRUZ AZUL - SAN ANTONIO BAJO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "SAN ANTONIO",
+    "subcircuito": "",
+    "id": "CAJERO_JEEP_LD_SAB",
+    "nombre_punto": "CAJERO JEEP"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "SAN ANTONIO",
+    "subcircuito": "",
+    "id": "MI_COMISARIATO_LD_SAB",
+    "nombre_punto": "MI COMISARIATO - SAN ANTONIO BAJO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "SAN ANTONIO",
+    "subcircuito": "",
+    "id": "PLAZA_EQUINOCCIAL_LD_SAB",
+    "nombre_punto": "PLAZA EQUINOCCIAL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "SAN ANTONIO",
+    "subcircuito": "",
+    "id": "PLAZA_CENTRO_LD_SAB",
+    "nombre_punto": "PLAZA CENTRO DEL MUNDO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "SAN ANTONIO",
+    "subcircuito": "",
+    "id": "GASO_PYS_LD_SAA",
+    "nombre_punto": "GASOLINERA PyS RUMICUCHO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "SAN ANTONIO",
+    "subcircuito": "",
+    "id": "CRISSPAN_LD_SAA",
+    "nombre_punto": "PANIFICADORA CRISSPAN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "SAN ANTONIO",
+    "subcircuito": "",
+    "id": "VIVE_ALEJANDRO_LD_SAA",
+    "nombre_punto": "VÍVERES ALEJANDRO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "SAN ANTONIO",
+    "subcircuito": "",
+    "id": "HUERITO_JOXI_LD_SAA",
+    "nombre_punto": "EL HUERITO DE JOXI"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "CHILLOGALLO",
+    "subcircuito": "",
+    "id": "SANTA_MARIA_QT_CH",
+    "nombre_punto": "SANTA MARÍA - CHILLOGALLO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "CHILLOGALLO",
+    "subcircuito": "",
+    "id": "TUTI_CORONADO_QT_CH",
+    "nombre_punto": "TUTI - CHILLOGALLO (MANUEL CORONADO)"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "CHILLOGALLO",
+    "subcircuito": "",
+    "id": "CHIFA_QUITO_QT_CH",
+    "nombre_punto": "CHIFA QUITO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "CHILLOGALLO",
+    "subcircuito": "",
+    "id": "COOP_QUITO_SUR_QT_CH",
+    "nombre_punto": "COOPERATIVA QUITO SUR"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "CHILLOGALLO",
+    "subcircuito": "",
+    "id": "GASO_PYS_QT_CH",
+    "nombre_punto": "GASOLINERA PyS - CHILLOGALLO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "CHILLOGALLO",
+    "subcircuito": "",
+    "id": "ORANGINE_QT_CH",
+    "nombre_punto": "ORANGINE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "CHILLOGALLO",
+    "subcircuito": "",
+    "id": "FAR_VITAL_PHARMA_QT_CH",
+    "nombre_punto": "FARMACIA VITAL FARMA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "ECUATORIANA",
+    "subcircuito": "",
+    "id": "PETROECUADOR_QT_EC",
+    "nombre_punto": "GASOLINERA PETROECUADOR - ECUATORIANA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "ECUATORIANA",
+    "subcircuito": "",
+    "id": "TIA_ECUATORIANA_QT_EC",
+    "nombre_punto": "TÍA LA ECUATORIANA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "ECUATORIANA",
+    "subcircuito": "",
+    "id": "WATER_PALACE_QT_EC",
+    "nombre_punto": "HOSTAL SAUNA WATER PALACE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "ECUATORIANA",
+    "subcircuito": "",
+    "id": "FAR_SANTO_REMEDIO_QT_EC",
+    "nombre_punto": "FARMACIA SANTO REMEDIO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "ECUATORIANA",
+    "subcircuito": "",
+    "id": "PATOS_PIZZA_QT_EC",
+    "nombre_punto": "PATOS PIZZA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "ECUATORIANA",
+    "subcircuito": "",
+    "id": "TIA_MARHA_BUCARAM_QT_EC",
+    "nombre_punto": "TÍA MARTHA BUCARAM"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "ECUATORIANA",
+    "subcircuito": "",
+    "id": "GRANJA_LUCHO_QT_EC",
+    "nombre_punto": "GRANJA PARA LUCHO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "QUITUMBE",
+    "subcircuito": "",
+    "id": "CAFE_MINERVA_QT_QT",
+    "nombre_punto": "PLANTA CAFÉ MINERVA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "QUITUMBE",
+    "subcircuito": "",
+    "id": "SANTA_MARIA_QT_QT",
+    "nombre_punto": "SANTA MARÍA - QUITUMBE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "QUITUMBE",
+    "subcircuito": "",
+    "id": "COOP_DUCHICELA_QT_QT",
+    "nombre_punto": "COOP. DUCHICLEA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "QUITUMBE",
+    "subcircuito": "",
+    "id": "PRIMAX_QT_QT",
+    "nombre_punto": "GASOLINERA PRIMAX - QUITUMBE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "QUITUMBE",
+    "subcircuito": "",
+    "id": "BANCO_PICHINCHA_QT_QT",
+    "nombre_punto": "BANCO DEL PICHINCHA - QUITUMBE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "TURUBAMBA",
+    "subcircuito": "",
+    "id": "ESPINOZA_HNOS_QT_TB",
+    "nombre_punto": "ESPINOZA HERMANOS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "CHIMBACALLE",
+    "subcircuito": "",
+    "id": "TIENDA_MARÍA_EA_CH",
+    "nombre_punto": "TIENDA MARÍA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "PANECILLO",
+    "subcircuito": "",
+    "id": "PARADA_SAN_ROQUE_MS_PC",
+    "nombre_punto": "PARADA DE BUS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "DAMMER",
+    "subcircuito": "",
+    "id": "POLLO_GUS_EE_DAM",
+    "nombre_punto": "POLLOS GUS - DAMMER"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "DAMMER",
+    "subcircuito": "",
+    "id": "PAN_EL_DORADO_EE_DAM",
+    "nombre_punto": "PANADERÍA EL DORADO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "DAMMER",
+    "subcircuito": "",
+    "id": "VISTA_PARA_TODOS_EE_DAM",
+    "nombre_punto": "FUNDACIÓN VISTA PARA TODOS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "DAMMER",
+    "subcircuito": "",
+    "id": "LOS_TIOS_EE_DAM",
+    "nombre_punto": "PIZZERÍA LOS TÍOS - DAMMER"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "DAMMER",
+    "subcircuito": "",
+    "id": "ESQUINA_ALES_EE_DAM",
+    "nombre_punto": "POLLOS LA ESQUINA DE ALES - DAMMER"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "DAMMER",
+    "subcircuito": "",
+    "id": "CAR_LA_SELECTA_EE_DAM",
+    "nombre_punto": "CARNICERÍA LA SELECTA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "DAMMER",
+    "subcircuito": "",
+    "id": "MEN_DEL_NEGRO_EE_DAM",
+    "nombre_punto": "MENESTRAS DEL NEGRO - DAMMER"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "DAMMER",
+    "subcircuito": "",
+    "id": "MINIMARKET_CERASUS_EE_DAM",
+    "nombre_punto": "MINIMARKET CERASUS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "DAMMER",
+    "subcircuito": "",
+    "id": "AUTOREPUESTOS_GENUINO_EE_DAM",
+    "nombre_punto": "EL GENUINO AUTOREPUESTOS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "ZÁMBIZA",
+    "subcircuito": "",
+    "id": "ZAMBIPAN_EE_ZAM",
+    "nombre_punto": "ZAMBIPAN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "ZÁMBIZA",
+    "subcircuito": "",
+    "id": "SUPER_AHORRADOR_EE_ZAM",
+    "nombre_punto": "EL SUPER AHORRADOR"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "ZÁMBIZA",
+    "subcircuito": "",
+    "id": "CORNEJOTEX_EE_ZAM",
+    "nombre_punto": "CORNEJOTEX"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "ZÁMBIZA",
+    "subcircuito": "",
+    "id": "VIVERES_CARITO_EE_ZAM",
+    "nombre_punto": "VÍVERES CARITO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "ZÁMBIZA",
+    "subcircuito": "",
+    "id": "MAXITODO_EE_ZAM",
+    "nombre_punto": "MAXITODO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LAS CASAS",
+    "subcircuito": "",
+    "id": "PELUQUERIA_PN_EE_CAS",
+    "nombre_punto": "PELUQUERÍA PN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LAS CASAS",
+    "subcircuito": "",
+    "id": "CIUDAD_CHINA_EE_CAS",
+    "nombre_punto": "CHIFA CIUDAD DE CHINA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LAS CASAS",
+    "subcircuito": "",
+    "id": "PAN_LA_ISLA_EE_CAS",
+    "nombre_punto": "PANADERÍA LA ISLA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LAS CASAS",
+    "subcircuito": "",
+    "id": "LA_HUMITA_EE_CAS",
+    "nombre_punto": "LA HUMITA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LAS CASAS",
+    "subcircuito": "",
+    "id": "PAN_SAN_LUIS_EE_CAS",
+    "nombre_punto": "PANADERÍA SAN LUIS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "UNIVERSITARIO",
+    "subcircuito": "",
+    "id": "PAN_DULCEBELLA_EE_UNI",
+    "nombre_punto": "PANADERÍA DULCEBELLA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "UNIVERSITARIO",
+    "subcircuito": "",
+    "id": "LISTO_GAS_PRIMAX_EE_UNI",
+    "nombre_punto": "LISTO - GASOLINERA PRIMAX"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "UNIVERSITARIO",
+    "subcircuito": "",
+    "id": "KYWI_EE_UNI",
+    "nombre_punto": "KYWI"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "UNIVERSITARIO",
+    "subcircuito": "",
+    "id": "SUPERMAXI_EE_UNI",
+    "nombre_punto": "SUPERMAXI - UNIVERSITARIO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "UNIVERSITARIO",
+    "subcircuito": "",
+    "id": "MINIMARKET_ROSI_EE_UNI",
+    "nombre_punto": "MINIMARKET ROSI"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "UNIVERSITARIO",
+    "subcircuito": "",
+    "id": "TIENDA_DEL_CIELO_EE_UNI",
+    "nombre_punto": "LA TIENDA DEL CIELO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "UNIVERSITARIO",
+    "subcircuito": "",
+    "id": "DISTRI_JOHNNY_EE_UNI",
+    "nombre_punto": "DISTRIBUIDORA JOHNNY"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "UNIVERSITARIO",
+    "subcircuito": "",
+    "id": "AUTOMOTRIZ_ARBOLITO_EE_UNI",
+    "nombre_punto": "AUTOMOTRIZ EL ARBOLITO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "UNIVERSITARIO",
+    "subcircuito": "",
+    "id": "FERRETERIA_GASCA_EE_UNI",
+    "nombre_punto": "FERRETERÍA LA GASCA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "UNIVERSITARIO",
+    "subcircuito": "",
+    "id": "DILIPA_EE_UNI",
+    "nombre_punto": "DILIPA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "UNIVERSITARIO",
+    "subcircuito": "",
+    "id": "NOWY_SWEET_EE_UNI",
+    "nombre_punto": "NOWY SWEET"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "UNIVERSITARIO",
+    "subcircuito": "",
+    "id": "TOYOSERVICIOS_EE_UNI",
+    "nombre_punto": "TOYOSERVICIOS MOSTOR SPORT"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "UNIVERSITARIO",
+    "subcircuito": "",
+    "id": "K_SPORT_EE_UNI",
+    "nombre_punto": "K SPORT INDUSTRIA TEXTIL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "UNIVERSITARIO",
+    "subcircuito": "",
+    "id": "SUPERMARKET_CENTRAL_EE_UNI",
+    "nombre_punto": "SUPER MARKET LA CENTRAL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "COCHAPAMBA",
+    "subcircuito": "",
+    "id": "VARIETY_STORE_EE_CP",
+    "nombre_punto": "VARIETY STORE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "COCHAPAMBA",
+    "subcircuito": "",
+    "id": "TIENDA_JUSTO_PAZ_EE_CP",
+    "nombre_punto": "TIENDA JUSTO PAZ"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "COCHAPAMBA",
+    "subcircuito": "",
+    "id": "VIVERES_EL_BOSQUE_EE_CP",
+    "nombre_punto": "VÍVERES EL BOSQUE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "COCHAPAMBA",
+    "subcircuito": "",
+    "id": "VIVERES_VALENTINA_EE_CP",
+    "nombre_punto": "VÍVERES VALENTINA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "COCHAPAMBA",
+    "subcircuito": "",
+    "id": "MICHI_BERTHO_EE_CP",
+    "nombre_punto": "MICHI BERTHO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "COCHAPAMBA",
+    "subcircuito": "",
+    "id": "VIVERES_DAMIAN_EE_CP",
+    "nombre_punto": "VÍVERES DAMIAN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "COCHAPAMBA",
+    "subcircuito": "",
+    "id": "STAV_EE_CP",
+    "nombre_punto": "STAV"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "COCHAPAMBA",
+    "subcircuito": "",
+    "id": "FARMACIA_DESCUENTO_EE_CP",
+    "nombre_punto": "FARMACIA EL DESCUENTO PINAR ALTO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "COCHAPAMBA",
+    "subcircuito": "",
+    "id": "VIVERES_VALERIA_EE_CP",
+    "nombre_punto": "VÍVERES VALERIA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "COCHAPAMBA",
+    "subcircuito": "",
+    "id": "VIVERES_EVELYN_EE_CP",
+    "nombre_punto": "VÍVERES EVELYN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LA MARISCAL",
+    "subcircuito": "",
+    "id": "KFC_10_AGOSTO_EE_LAM",
+    "nombre_punto": "KFC 10 DE AGOSTO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LA MARISCAL",
+    "subcircuito": "",
+    "id": "GASO_PRIMAX_EE_LAM",
+    "nombre_punto": "GASOLINERA PRIMAX - LA MARISCAL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LA MARISCAL",
+    "subcircuito": "",
+    "id": "HOTEL_RIO_AMAZONAS_EE_LAM",
+    "nombre_punto": "HOTEL RÍO AMAZONAS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LA MARISCAL",
+    "subcircuito": "",
+    "id": "MULTICENTRO_EE_LAM",
+    "nombre_punto": "MULTICENTRO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LA MARISCAL",
+    "subcircuito": "",
+    "id": "CAMPERO_EE_LAM",
+    "nombre_punto": "POLLOS CAMPERO - LA MARISCAL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LA MARISCAL",
+    "subcircuito": "",
+    "id": "ITALCAUCHOS_EE_LAM",
+    "nombre_punto": "ITALCAUCHOS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LA MARISCAL",
+    "subcircuito": "",
+    "id": "NOTARIA_11_EE_LAM",
+    "nombre_punto": "NOTARIA 11"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LA MARISCAL",
+    "subcircuito": "",
+    "id": "SWEET_AND_COFEE_EE_LAM",
+    "nombre_punto": "SWEET E CAFFE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LA MARISCAL",
+    "subcircuito": "",
+    "id": "SAZON_GONZALES_EE_LAM",
+    "nombre_punto": "EL SAZÓN DE LOS GOZÁLEZ"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LA MARISCAL",
+    "subcircuito": "",
+    "id": "EDIF_MARIETA_VEINTIMILLA_EE_LAM",
+    "nombre_punto": "EDIFICIO MARIETA DE VENTIMILLA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LA MARISCAL",
+    "subcircuito": "",
+    "id": "LOS_TIOS_EE_LAM",
+    "nombre_punto": "PIZZERÍA LOS TIOS - LA MARISCAL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LA MARISCAL",
+    "subcircuito": "",
+    "id": "TIENDA_LEONOR_EE_LAM",
+    "nombre_punto": "TIENDA LEONOR"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LA MARISCAL",
+    "subcircuito": "",
+    "id": "EDIF_AMAZONAS_VEGA_EE_LAM",
+    "nombre_punto": "EDIFICIO AMAZONAS VEGA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LA MARISCAL",
+    "subcircuito": "",
+    "id": "JESS_BURGUER_EE_LAM",
+    "nombre_punto": "JESS BURGUER"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LA MARISCAL",
+    "subcircuito": "",
+    "id": "PAN_TECNIPAN_EE_LAM",
+    "nombre_punto": "PANADERÍA TECNIPAN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LA MARISCAL",
+    "subcircuito": "",
+    "id": "MINIMARKET_YOSELYN_EE_LAM",
+    "nombre_punto": "MINIMARKET YOSELYN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LA MARISCAL",
+    "subcircuito": "",
+    "id": "EVIS_MARKET_EE_LAM",
+    "nombre_punto": "EVIS MARKET"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LA MARISCAL",
+    "subcircuito": "",
+    "id": "SANDUCHES_TRADICIONAL_EE_LAM",
+    "nombre_punto": "SANDUCHES DEPERNIL TRADICIONAL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LA MARISCAL",
+    "subcircuito": "",
+    "id": "FYBECA_EE_LAM",
+    "nombre_punto": "FARMACIAS FYBECA - LA MARISCAL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LA MARISCAL",
+    "subcircuito": "",
+    "id": "KFC_PATRIA_EE_LAM",
+    "nombre_punto": "KFC DE LA PATRIA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LA MARISCAL",
+    "subcircuito": "",
+    "id": "TEXAS_CHIKEN_EE_LAM",
+    "nombre_punto": "TEXAS CHIKEN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LA MARISCAL",
+    "subcircuito": "",
+    "id": "MAC_DONALD_EE_LAM",
+    "nombre_punto": "MC DONALD´S"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LA MARISCAL",
+    "subcircuito": "",
+    "id": "CEVICHAO_EE_LAM",
+    "nombre_punto": "CEVICHAO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LA MARISCAL",
+    "subcircuito": "",
+    "id": "PICA_Y_PASA_EE_LAM",
+    "nombre_punto": "CEVICHERIA PICA Y PASA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LA MARISCAL",
+    "subcircuito": "",
+    "id": "TODO_CON_PAPAS_EE_LAM",
+    "nombre_punto": "TODO CON PAPAS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LA MARISCAL",
+    "subcircuito": "",
+    "id": "SUSHI_MOTO_EE_LAM",
+    "nombre_punto": "SUSHI MOTO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LA MARISCAL",
+    "subcircuito": "",
+    "id": "CEPSA_EE_LAM",
+    "nombre_punto": "CEPSA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LA MARISCAL",
+    "subcircuito": "",
+    "id": "RESTAURANTE_MARCELO_EE_LAM",
+    "nombre_punto": "RESTUARANTE MARCELO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LA MARISCAL",
+    "subcircuito": "",
+    "id": "KIA_GRANT_EE_LAM",
+    "nombre_punto": "KIA GRANT"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LA MARISCAL",
+    "subcircuito": "",
+    "id": "PAN_DE_HOJALDRE_EE_LAM",
+    "nombre_punto": "PANADERÍA DE HOJALDRE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LA MARISCAL",
+    "subcircuito": "",
+    "id": "MINISTERIO_AMBIENTE_EE_LAM",
+    "nombre_punto": "MINISTERIO DE AMBIENTE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LA MARISCAL",
+    "subcircuito": "",
+    "id": "AUTOMOTRIZ_ALTAMIRANO_EE_LAM",
+    "nombre_punto": "AUTOMOTRIZ ALTAMIRANO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LA MARISCAL",
+    "subcircuito": "",
+    "id": "PAN_ESPECIAL_EE_LAM",
+    "nombre_punto": "PANADERÍA ESPECIAL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LA MARISCAL",
+    "subcircuito": "",
+    "id": "CAFETERIA_ALAMOR_EE_LAM",
+    "nombre_punto": "CAFETERÍA ALAMOR"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LA MARISCAL",
+    "subcircuito": "",
+    "id": "EDIF_BRANA_EE_LAM",
+    "nombre_punto": "EDIFICIO BRANA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LA MARISCAL",
+    "subcircuito": "",
+    "id": "HOTEL_QUITO_EE_LAM",
+    "nombre_punto": "HOTEL QUITO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LA MARISCAL",
+    "subcircuito": "",
+    "id": "SUPERMAXI_EE_LAM",
+    "nombre_punto": "SUPERMAXI - LA MARISCAL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "SAN ISIDRO DEL INCA",
+    "subcircuito": "",
+    "id": "PESCADERIA_MENDOZA_EE_INC",
+    "nombre_punto": "PEZCADERÍA MENDOZA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "SAN ISIDRO DEL INCA",
+    "subcircuito": "",
+    "id": "VIVERES_ROSITA_EE_INC",
+    "nombre_punto": "VÍVERES ROSITA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "SAN ISIDRO DEL INCA",
+    "subcircuito": "",
+    "id": "PAN_BRYS_CAKE_EE_INC",
+    "nombre_punto": "PANADERÍA BRY'S CAKE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "SAN ISIDRO DEL INCA",
+    "subcircuito": "",
+    "id": "HOSPITAL_SOLCA_EE_INC",
+    "nombre_punto": "HOSPITAL DE SOLCA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "SAN ISIDRO DEL INCA",
+    "subcircuito": "",
+    "id": "VIVERES_JUGOS_NATURALES_EE_INC",
+    "nombre_punto": "VÍVERES Y JUGOS NATURALES"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "SAN ISIDRO DEL INCA",
+    "subcircuito": "",
+    "id": "TOMASMORO_INT_SCHOOL_EE_INC",
+    "nombre_punto": "TOMÁS MORO INTERNATIONAL SCHOOL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "SAN ISIDRO DEL INCA",
+    "subcircuito": "",
+    "id": "PAN_LA_REAL_EE_INC",
+    "nombre_punto": "PANADERÍA LA REAL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "SAN ISIDRO DEL INCA",
+    "subcircuito": "",
+    "id": "MERCAMAX_EE_INC",
+    "nombre_punto": "MERCAMAX"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "SAN ISIDRO DEL INCA",
+    "subcircuito": "",
+    "id": "VIVERES_CLARITA_EE_INC",
+    "nombre_punto": "VÍVERES CLARITA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "SAN ISIDRO DEL INCA",
+    "subcircuito": "",
+    "id": "PAN_SELECTA_EE_INC",
+    "nombre_punto": "PANADERÍA SELECTA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "SAN ISIDRO DEL INCA",
+    "subcircuito": "",
+    "id": "COMISA_DEL_POLLO_EE_INC",
+    "nombre_punto": "COMISARIA DEL POLLO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "SAN ISIDRO DEL INCA",
+    "subcircuito": "",
+    "id": "FARMACIA_FAMILIAR_EE_INC",
+    "nombre_punto": "FARMACIA FAMILIAR"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "KENNEDY",
+    "subcircuito": "",
+    "id": "HUMI_REAL_EE_KEN",
+    "nombre_punto": "HUMI REAL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "KENNEDY",
+    "subcircuito": "",
+    "id": "SUPERMAXI_EE_KEN",
+    "nombre_punto": "SUPERMAXI - KENNEDY"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "KENNEDY",
+    "subcircuito": "",
+    "id": "TUTI_EE_KEN",
+    "nombre_punto": "TUTI - KENNEDY"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "KENNEDY",
+    "subcircuito": "",
+    "id": "FYBECA_EE_KEN",
+    "nombre_punto": "FARMACIAS FYBECA - KENNEDY"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "KENNEDY",
+    "subcircuito": "",
+    "id": "GASO_PRIMAX_SC3_EE_KEN",
+    "nombre_punto": "GASOLINERA PRIMAX - KENNEDY 3"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "KENNEDY",
+    "subcircuito": "",
+    "id": "GASO_PyS_EE_KEN",
+    "nombre_punto": "GASOLINERA PyS - KENNEDY"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "KENNEDY",
+    "subcircuito": "",
+    "id": "GASO_PRIMAX_SC4_EE_KEN",
+    "nombre_punto": "GASOLINERA PRIMAX - KENNEDY 4"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "KENNEDY",
+    "subcircuito": "",
+    "id": "GASO_PRIMAX_SC5_EE_KEN",
+    "nombre_punto": "GASOLINERA PRIMAX - KENNEDY 5"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "JIPIJAPA",
+    "subcircuito": "",
+    "id": "BALDI_EE_JIP",
+    "nombre_punto": "BALDI"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "JIPIJAPA",
+    "subcircuito": "",
+    "id": "GASO_PRIMAX_SC1_EE_JIP",
+    "nombre_punto": "GASOLINERA PRIMAX - JIPIJAPA 1"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "JIPIJAPA",
+    "subcircuito": "",
+    "id": "TODO_10_EE_JIP",
+    "nombre_punto": "LOCAL TODO 10"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "JIPIJAPA",
+    "subcircuito": "",
+    "id": "NOVICOMPU_EE_JIP",
+    "nombre_punto": "NOVICOMPU - JIPIJAPA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "JIPIJAPA",
+    "subcircuito": "",
+    "id": "PET_SPOT_EE_JIP",
+    "nombre_punto": "THE PET SPOT EC"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "JIPIJAPA",
+    "subcircuito": "",
+    "id": "NINJA_MARKET_EE_JIP",
+    "nombre_punto": "NINJA MARKET"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "JIPIJAPA",
+    "subcircuito": "",
+    "id": "MUTUALISTA_PICHINCHA_EE_JIP",
+    "nombre_punto": "MUTUALISTA PICHINCHA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "JIPIJAPA",
+    "subcircuito": "",
+    "id": "BANCO_PACIFICO_EE_JIP",
+    "nombre_punto": "BANCO PACIFICO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "JIPIJAPA",
+    "subcircuito": "",
+    "id": "TIRE_ZONE_EE_JIP",
+    "nombre_punto": "TIRE ZONE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "JIPIJAPA",
+    "subcircuito": "",
+    "id": "ELICROM_EE_JIP",
+    "nombre_punto": "ELICROM"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "JIPIJAPA",
+    "subcircuito": "",
+    "id": "GRANADOS_PLAZA_EE_JIP",
+    "nombre_punto": "GRANADOS PLAZA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "JIPIJAPA",
+    "subcircuito": "",
+    "id": "TIA_EE_JIP",
+    "nombre_punto": "TIA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "JIPIJAPA",
+    "subcircuito": "",
+    "id": "BANCO_PICHINCHA_EE_JIP",
+    "nombre_punto": "BANCO DEL PICHINCHA - JIPIJAPA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "JIPIJAPA",
+    "subcircuito": "",
+    "id": "CASABACA_TOYOTA_EE_JIP",
+    "nombre_punto": "CASABA TOYOTA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "JIPIJAPA",
+    "subcircuito": "",
+    "id": "FRUTIVERDE_MARTITA_EE_JIP",
+    "nombre_punto": "FRUTIVERDE MARTITA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "NAYÓN",
+    "subcircuito": "",
+    "id": "TUTI_EE_NAY",
+    "nombre_punto": "TUTI - NAYÓN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "NAYÓN",
+    "subcircuito": "",
+    "id": "POLLO_AUSTRALIANO_EE_NAY",
+    "nombre_punto": "POLLO  AUSTRALIANO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "NAYÓN",
+    "subcircuito": "",
+    "id": "SUPER_SAN_ISIDRO_EE_NAY",
+    "nombre_punto": "SUPER SAN ISIDRO SAS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "NAYÓN",
+    "subcircuito": "",
+    "id": "AL_TOQUE_MIRAVALLE_GASO_TERPEL_EE_NAY",
+    "nombre_punto": "AL TOQUE MIRAVALLE - GASOLINERA TERPEL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "",
+    "id": "FARMACIA_NACIONAL_EE_AER",
+    "nombre_punto": "FARMACIA NACIONAL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "",
+    "id": "GASO_PyS_EE_AER",
+    "nombre_punto": "GASOLINERA PyS - AEROPUERTO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "",
+    "id": "SUPERMAXI_EE_AER",
+    "nombre_punto": "SUPERMAXI - AEROPUERTO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "",
+    "id": "BANCO_PICHINCHA_EE_AER",
+    "nombre_punto": "BANCO DEL PICHINCHA - AEROPUERTO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "",
+    "id": "CENTRO_COMER_PARQUE_INGLES_EE_AER",
+    "nombre_punto": "CENTRO COMERCIAL PARQUE INGLÉS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "",
+    "id": "INST_SUP_TECNOLOGICO_EE_AER",
+    "nombre_punto": "INSTITUTO SUPERIOR TECNOLÓGICO CORDILLERA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "EL BOSQUE",
+    "subcircuito": "",
+    "id": "POLLOS_DE_LA_TRI_EE_ELB",
+    "nombre_punto": "POLLOS DE LA TRI - EL BOSQUE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "EL BOSQUE",
+    "subcircuito": "",
+    "id": "UNIDAD_EDUCA_BORJA3_EE_ELB",
+    "nombre_punto": "UNIDAD EDUCATIVA BORJA 3"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "EL BOSQUE",
+    "subcircuito": "",
+    "id": "CLINICA_ATLAS_EE_ELB",
+    "nombre_punto": "CLÍNICA ATLAS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "EL BOSQUE",
+    "subcircuito": "",
+    "id": "CENTRO_COMER_EL_BOSQUE_EE_ELB",
+    "nombre_punto": "CENTRO COMERCIAL EL BOSQUE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "EL BOSQUE",
+    "subcircuito": "",
+    "id": "FARMACIAS_FYBECA_EE_ELB",
+    "nombre_punto": "FARMACIAS FYBECA - EL BOSQUE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "EL BOSQUE",
+    "subcircuito": "",
+    "id": "VENGA_LLEVE_LLEVE_EE_ELB",
+    "nombre_punto": "DESPENSA VENGA LLEVE LLEVE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "EL BOSQUE",
+    "subcircuito": "",
+    "id": "CASA_AMORTIGUADOR_EE_ELB",
+    "nombre_punto": "CASA DEL AMORTIGUADOR"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "EL BOSQUE",
+    "subcircuito": "",
+    "id": "IMPOR_DON_ATSU_EE_ELB",
+    "nombre_punto": "IMPORTADORA DE REPUESTOS DON ATSU"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "EL BOSQUE",
+    "subcircuito": "",
+    "id": "CHICBERRY_EE_ELB",
+    "nombre_punto": "CHICBERRY"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "AMBACAR_EE_INA",
+    "nombre_punto": "AMBACAR"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "MEGAKIWI_EE_INA",
+    "nombre_punto": "MEGA KIWI"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "VERDE_MARISCOS_EE_INA",
+    "nombre_punto": "VERDE CON MARISCOS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "HOTEL_STANFORD_EE_INA",
+    "nombre_punto": "HOTEL STANFORD"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "CONFRUTEC_EE_INA",
+    "nombre_punto": "CONFRUTEC"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "SANTA_MARIA_EE_INA",
+    "nombre_punto": "SANTA MARÍA - IÑAQUITO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "LISTO_MUNDO_TUERCA_EE_INA",
+    "nombre_punto": "LISTO MUNDO TUERCA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "CENTRO_COMER_CARACOL_EE_INA",
+    "nombre_punto": "CENTRO COMERCIAL CARACOL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "FERRETERIA_DESNIVEL_EE_INA",
+    "nombre_punto": "FERRETERÍA DESNÍVEL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "ESTACION_SHELL_AMAZONAS_EE_INA",
+    "nombre_punto": "ESTACIÓN SEHLL AMAZONAS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "HIPERMERCADOS_CORAL_EE_INA",
+    "nombre_punto": "HIPERMERCADOS CORAL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "CAFETERIA_TAMARINDA_EE_INA",
+    "nombre_punto": "CAFETERÍA TAMARINDA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "ONE_SANDUCHES_EE_INA",
+    "nombre_punto": "ONE SANDUCHES"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "STARBUCKS_EE_INA",
+    "nombre_punto": "STARBUCKS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "CHORI_GOL_EE_INA",
+    "nombre_punto": "CHORI GOL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "SMART_BUY_EE_INA",
+    "nombre_punto": "SMART BUY"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "SUPERCINES_EE_INA",
+    "nombre_punto": "SUPERCINES"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "MAC_DONALD_EE_INA",
+    "nombre_punto": "MC DONALD"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "CHIFA_RICA_EE_INA",
+    "nombre_punto": "CHIFA RICA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "PLAZA_PRADERA_EE_INA",
+    "nombre_punto": "PLAZA PRADERA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "UNIVERSIDAD_FLACSO_EE_INA",
+    "nombre_punto": "UNIVERSIDAD FLACSO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "GASO_ANETA_EE_INA",
+    "nombre_punto": "GASOLINERA ANETA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "INST_LIBERTAD_EE_INA",
+    "nombre_punto": "INSTITUTO LIBERTAD"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "FARMACIAS_MEDICITY_EE_INA",
+    "nombre_punto": "FARMACIAS MEDICITY - IÑAQUITO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "CHINA_TOWN_EE_INA",
+    "nombre_punto": "CHINA TOWN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "JUAN_VALDEZ_EE_INA",
+    "nombre_punto": "CAFETERÍA JUAN VALDEZ"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "LISTO_SAUCES_EE_INA",
+    "nombre_punto": "LISTO SAUCES"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "PAN_AMBATO_EE_INA",
+    "nombre_punto": "PANIFICADORA AMBATO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "HOME_VITEFAMA_EE_INA",
+    "nombre_punto": "HOME VITEFAMA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "ALITAS_CADILLAC_EE_INA",
+    "nombre_punto": "ALITAS DEL CADILLAC - IÑAQUITO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "MINIMARKET_METROPOLITANO_EE_INA",
+    "nombre_punto": "MINIMARKET METROPOLITANO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "LISTO_VISTA_VALLE_EE_INA",
+    "nombre_punto": "LISTO VISTA AL VALLE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "MEGAVICHE_EE_INA",
+    "nombre_punto": "MEGAVICHE - IÑAQUITO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "CENTRO HISTÓRICO",
+    "subcircuito": "",
+    "id": "AMATISTA_JOYERÍA_MS_CEH",
+    "nombre_punto": "AMATISTA JOYERIA BY JESS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "CENTRO HISTÓRICO",
+    "subcircuito": "",
+    "id": "CENTRO_COMERCIAL_LA_MANZANA_MS_CEH",
+    "nombre_punto": "CENTRO COMERCIAL LA MANZANA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "CENTRO HISTÓRICO",
+    "subcircuito": "",
+    "id": "CONFITERIA_DULCE_MANIA_MS_CEH",
+    "nombre_punto": "CONFITERÍA DULCE MANÍA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "CENTRO HISTÓRICO",
+    "subcircuito": "",
+    "id": "COSEDORA_ALVAREZ_MS_CEH",
+    "nombre_punto": "COSEDORA ÁLVAREZ"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "CENTRO HISTÓRICO",
+    "subcircuito": "",
+    "id": "DULCE_BENDICION_MS_CEH",
+    "nombre_punto": "DULCE BENDICIÓN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "CENTRO HISTÓRICO",
+    "subcircuito": "",
+    "id": "FANTASIAS_BRYAN_MS_CEH",
+    "nombre_punto": "FANTASÍAS BRYAN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "CENTRO HISTÓRICO",
+    "subcircuito": "",
+    "id": "IMPORTADORA_ONE_MS_CEH",
+    "nombre_punto": "IMPORTADORA ONE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "CENTRO HISTÓRICO",
+    "subcircuito": "",
+    "id": "MUNDO_DE_MARAVILLAS_MS_CEH",
+    "nombre_punto": "MUNDO DE MARAVILLAS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "CENTRO HISTÓRICO",
+    "subcircuito": "",
+    "id": "ODALS_TIENDA_ROPA_MS_CEH",
+    "nombre_punto": "ODAL´S TIENDA DE ROPA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "CENTRO HISTÓRICO",
+    "subcircuito": "",
+    "id": "PANIFICADORA_AMBATO_MS_CEH",
+    "nombre_punto": "PANIFICADORA AMBATO - CENTRO HISTÓRICO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "CENTRO HISTÓRICO",
+    "subcircuito": "",
+    "id": "PUNTO_CARAMELO_MS_CEH",
+    "nombre_punto": "PUNTO CARAMELO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "CENTRO HISTÓRICO",
+    "subcircuito": "",
+    "id": "TECNO_STORE_MS_CEH",
+    "nombre_punto": "TECNO STORE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "EL PLACER",
+    "subcircuito": "",
+    "id": "ABARROTES_ESMERALDAS_MS_PLA",
+    "nombre_punto": "ABARROTES ESMERALDA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "EL PLACER",
+    "subcircuito": "",
+    "id": "HUEVOS_EL_POLLON_MS_PLA",
+    "nombre_punto": "DISTRIBUIDORA DE HUEVOS EL POLLON"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "EL PLACER",
+    "subcircuito": "",
+    "id": "MICROMERCADO_GOLOSITO_MS_PLA",
+    "nombre_punto": "MICRO MERCADO EL GOLOSITO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "EL PLACER",
+    "subcircuito": "",
+    "id": "PENSANDO_EN_SU_ECONOMIA_MS_PLA",
+    "nombre_punto": "PENSANDO EN SU ECONOMÍA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "EL PLACER",
+    "subcircuito": "",
+    "id": "VIVERES_BERTITA_MS_PLA",
+    "nombre_punto": "VÍVERES BERTITA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "EL PLACER",
+    "subcircuito": "",
+    "id": "VIVERES_JANETH_MS_PLA",
+    "nombre_punto": "VÍVERES JANETH"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "EL PLACER",
+    "subcircuito": "",
+    "id": "VIVERES_LUCERO_MS_PLA",
+    "nombre_punto": "VÍVERES LUCERO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "ITCHIMBÍA",
+    "subcircuito": "",
+    "id": "ASADERO_LA_CAMPINA_MS_PC",
+    "nombre_punto": "ASADERO LA CAMPIÑA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "ITCHIMBÍA",
+    "subcircuito": "",
+    "id": "BAZAR_PAPELERIA_MAITE_MS_IT",
+    "nombre_punto": "BAZAR Y PAPELERÍA MAITE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "ITCHIMBÍA",
+    "subcircuito": "",
+    "id": "FARMACIA_SANA_SANA_GRANCOLOMBIA_MS_IT",
+    "nombre_punto": "FARMACIA SANA SANA - GRAN COLOMBIA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "ITCHIMBÍA",
+    "subcircuito": "",
+    "id": "FARMACIA_SANA_SANA_TORIBIO_HIDALGO_MS_IT",
+    "nombre_punto": "FARMACIA SANA SANA - TORIBIO HIDALGO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "ITCHIMBÍA",
+    "subcircuito": "",
+    "id": "FARMACIAS_ECONOMICAS_MS_IT",
+    "nombre_punto": "FARMACIAS ECONÓMICAS - ITCHIMBÍA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "ITCHIMBÍA",
+    "subcircuito": "",
+    "id": "HOTEL_FENIX_MS_IT",
+    "nombre_punto": "HOTEL FÉNIX"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "ITCHIMBÍA",
+    "subcircuito": "",
+    "id": "LAVANDERIA_AMBATO_MS_IT",
+    "nombre_punto": "LAVANDERÍA AMBATO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "ITCHIMBÍA",
+    "subcircuito": "",
+    "id": "METRO_EL_EJIDO_MS_IT",
+    "nombre_punto": "METRO EL EJIDO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "ITCHIMBÍA",
+    "subcircuito": "",
+    "id": "PARADA_EL_EJIDO_MS_IT",
+    "nombre_punto": "PARADA EL EJIDO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "ITCHIMBÍA",
+    "subcircuito": "",
+    "id": "PARQUEADERO_HOSPITAL_FFAA_MS_IT",
+    "nombre_punto": "PARQUEADER HOSPITAL FUERZAS ARMADAS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "ITCHIMBÍA",
+    "subcircuito": "",
+    "id": "TIA_MS_IT",
+    "nombre_punto": "TIA - ITCHIMBÍA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "LA LIBERTAD",
+    "subcircuito": "",
+    "id": "BODEGA_MARIA_PROANO_MS_LIB",
+    "nombre_punto": "BODEGA MARÍA PROAÑO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "LA LIBERTAD",
+    "subcircuito": "",
+    "id": "CASA_413_MS_LIB",
+    "nombre_punto": "CASA 413"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "LA LIBERTAD",
+    "subcircuito": "",
+    "id": "CHOCOLATES_AMAZONAS_MS_LIB",
+    "nombre_punto": "CHOCOLATES AMAZONAS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "LA LIBERTAD",
+    "subcircuito": "",
+    "id": "COMERCIAL_MARCELO_MS_LIB",
+    "nombre_punto": "COMERCIAL MARCELO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "LA LIBERTAD",
+    "subcircuito": "",
+    "id": "CONDOMINIOS_SANTA_LUCIA_MS_LIB",
+    "nombre_punto": "CONDOMINIOS SANTA LUCÍA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "LA LIBERTAD",
+    "subcircuito": "",
+    "id": "FARMACIAS_ECONOMICAS_LIBERTAD_MS_LIB",
+    "nombre_punto": "FARMACIAS ECONÓMICAS - LIBERTAD"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "LA LIBERTAD",
+    "subcircuito": "",
+    "id": "MINIMARKET_CRIS_MS_LIB",
+    "nombre_punto": "MINIMARKET CRIS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "LA LIBERTAD",
+    "subcircuito": "",
+    "id": "MINIMERCADO_LA_ESQUINA_MS_LIB",
+    "nombre_punto": "MINIMERCADO LA ESQUINA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "LA LIBERTAD",
+    "subcircuito": "",
+    "id": "TIENDA_HOGAR_MARIA_MS_LIB",
+    "nombre_punto": "TIENDA HOGAR MARÍA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "LA LIBERTAD",
+    "subcircuito": "",
+    "id": "VIVERES_DOMENICA_MS_LIB",
+    "nombre_punto": "VÍVERES DOMÉNICA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "MONJAS COLLACOTO",
+    "subcircuito": "",
+    "id": "AL_PASO_SIN_PAN_MS_MON",
+    "nombre_punto": "AL PASO SIN PAN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "MONJAS COLLACOTO",
+    "subcircuito": "",
+    "id": "CENTRO_SALUS_MONJAS_MS_MON",
+    "nombre_punto": "CENTRO DE SALUD SAN JOSÉ DE MONJAS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "MONJAS COLLACOTO",
+    "subcircuito": "",
+    "id": "DELICIAS_VICTORIA_MS_MON",
+    "nombre_punto": "DELICIAS VICTORIA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "MONJAS COLLACOTO",
+    "subcircuito": "",
+    "id": "EL_SURDITO_MS_MON",
+    "nombre_punto": "EL SURDITO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "MONJAS COLLACOTO",
+    "subcircuito": "",
+    "id": "FERRETERIA_EL_BOSQUE_MS_MON",
+    "nombre_punto": "FERRETERIA EL BOSQUE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "MONJAS COLLACOTO",
+    "subcircuito": "",
+    "id": "FULL_SERVICE_GASOLINERA_MASGAS_MS_MON",
+    "nombre_punto": "GASOLINERA MÁS GAS FULL SERVICE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "MONJAS COLLACOTO",
+    "subcircuito": "",
+    "id": "GASOLINERA_PETROECUADOR_MS_MON",
+    "nombre_punto": "GASOLINERA PETROECUADOR - MONJAS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "MONJAS COLLACOTO",
+    "subcircuito": "",
+    "id": "KOKO_RIKO_MS_MON",
+    "nombre_punto": "KOKO RIKO - MONJAS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "MONJAS COLLACOTO",
+    "subcircuito": "",
+    "id": "PANIFICADORA_ANCESTRAL_MS_MON",
+    "nombre_punto": "PANIFICADORA ANCESTRAL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "MONJAS COLLACOTO",
+    "subcircuito": "",
+    "id": "SU_DESPENSA_MS_MON",
+    "nombre_punto": "SU DESPENSA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "MONJAS COLLACOTO",
+    "subcircuito": "",
+    "id": "TUTI__ALFONSO_MORA_MS_MON",
+    "nombre_punto": "TUTI - ALFONSO MORA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "MONJAS COLLACOTO",
+    "subcircuito": "",
+    "id": "TUTI_FRANCISCO_MATIS_MS_MON",
+    "nombre_punto": "TUTI - FRANCISCO MATIS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "MONJAS COLLACOTO",
+    "subcircuito": "",
+    "id": "VIVERES_STEFANY_MS_MON",
+    "nombre_punto": "VÍVERES STEFANY"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "PANECILLO",
+    "subcircuito": "",
+    "id": "BISCOCHOS_ERIKA_MS_PC",
+    "nombre_punto": "BISCOCHOS ERIKA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "PANECILLO",
+    "subcircuito": "",
+    "id": "CHIFA_LEPUT_MS_PC",
+    "nombre_punto": "CHIFA LEPUT"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "PANECILLO",
+    "subcircuito": "",
+    "id": "COOP_ARTESANOS_MS_PC",
+    "nombre_punto": "COOPERATIVA ARTESANOS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "PANECILLO",
+    "subcircuito": "",
+    "id": "CREACIONES_ESPADISTA_MS_PC",
+    "nombre_punto": "CREACIONES ESPADISTA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "PANECILLO",
+    "subcircuito": "",
+    "id": "FARMACIA_LA_ERMITA_MS_SAJ",
+    "nombre_punto": "FARMACIA LA ERMITA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "PANECILLO",
+    "subcircuito": "",
+    "id": "FERRETERIA_BRAVO_JIMENEZ_MS_PC",
+    "nombre_punto": "FERRETERÍA BRAVO JIMÉNEZ"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "PANECILLO",
+    "subcircuito": "",
+    "id": "LA_ESQUINITA_MS_PC",
+    "nombre_punto": "LA ESQUINITA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "PANECILLO",
+    "subcircuito": "",
+    "id": "POLLOS_DEL_JUANCHO_MS_PC",
+    "nombre_punto": "LOS POLLOS DEL JUANCHO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "PANECILLO",
+    "subcircuito": "",
+    "id": "PARQUEADERO_LA_LOJA_MS_PC",
+    "nombre_punto": "PARQUEADERO LA LOJA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "PANECILLO",
+    "subcircuito": "",
+    "id": "POLLOS_ALA_BRASA_MS_PC",
+    "nombre_punto": "POLLOS A LA BRASA - PANECILLO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "PANECILLO",
+    "subcircuito": "",
+    "id": "RESTAURANTE_SOFIA_MS_PC",
+    "nombre_punto": "RESTAURANTE SOFIA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "PUENGASÍ",
+    "subcircuito": "",
+    "id": "BAZAR_PAPELERIA_CRIVANA_MS_PUE",
+    "nombre_punto": "BAZAR Y PAPELERIA CRIVANA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "PUENGASÍ",
+    "subcircuito": "",
+    "id": "BAZAR_PAPELERIA_LUCI_MS_PUE",
+    "nombre_punto": "BAZAR Y PAPELERIA LUCI"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "PUENGASÍ",
+    "subcircuito": "",
+    "id": "DON_GATO_MS_PUE",
+    "nombre_punto": "DON GATO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "PUENGASÍ",
+    "subcircuito": "",
+    "id": "GRANJA_TERESITA_MS_PUE",
+    "nombre_punto": "GRANJA TERESITA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "PUENGASÍ",
+    "subcircuito": "",
+    "id": "MINIMARKET_PETROECUADOR_MS_PUE",
+    "nombre_punto": "MINIMARKET PETROECUADOR"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "PUENGASÍ",
+    "subcircuito": "",
+    "id": "TIENDA_ESQUINERA_MS_PUE",
+    "nombre_punto": "TIENDA ESQUINERA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "PUENGASÍ",
+    "subcircuito": "",
+    "id": "VIVERES_CARLITA_MS_PUE",
+    "nombre_punto": "VIVERES CARLITA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "PUENGASÍ",
+    "subcircuito": "",
+    "id": "VIVERES_ECONOMIA_MS_PUE",
+    "nombre_punto": "VIVERES ECONOMÍA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "PUENGASÍ",
+    "subcircuito": "",
+    "id": "VIVERES_STEFANY_MS_PUE",
+    "nombre_punto": "VIVERES STEFANY"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "SAN JUAN",
+    "subcircuito": "",
+    "id": "BANECUADOR_MS_SAJ",
+    "nombre_punto": "BANECUADOR"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "SAN JUAN",
+    "subcircuito": "",
+    "id": "BAZAR_PAPELERIA_MyD_MS_SAJ",
+    "nombre_punto": "BAZAR Y PAPELERIA M&D"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "SAN JUAN",
+    "subcircuito": "",
+    "id": "CALTEX_MS_SAJ",
+    "nombre_punto": "CALTEX"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "SAN JUAN",
+    "subcircuito": "",
+    "id": "CONFITERIA_NANCITA_MS_SAJ",
+    "nombre_punto": "CONFITERIA NANCITA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "SAN JUAN",
+    "subcircuito": "",
+    "id": "MUNDO_DEL_JUGUETE_MS_SAJ",
+    "nombre_punto": "EL MUNDO DEL JUGUETE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "SAN JUAN",
+    "subcircuito": "",
+    "id": "FARMACIA_CHECHA_MS_SAJ",
+    "nombre_punto": "FARMACIA CHECA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "SAN JUAN",
+    "subcircuito": "",
+    "id": "FERRETERIA_MERY_MS_SAJ",
+    "nombre_punto": "FERRETERIA MERY"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "SAN JUAN",
+    "subcircuito": "",
+    "id": "FOOD_BALL_FRIES_MS_SAJ",
+    "nombre_punto": "FOOD-BALL-FRIES"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "SAN JUAN",
+    "subcircuito": "",
+    "id": "GASOLINERA_PyS_MS_SAJ",
+    "nombre_punto": "GASOLINERA PyS - SAN JUAN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "SAN JUAN",
+    "subcircuito": "",
+    "id": "HOSPITAL_INGLES_MS_SAJ",
+    "nombre_punto": "HOSPITAL INGLES"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "SAN JUAN",
+    "subcircuito": "",
+    "id": "KFC_MS_SAJ",
+    "nombre_punto": "KFC - SAN JUAN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "SAN JUAN",
+    "subcircuito": "",
+    "id": "POLLO_GUS_MS_SAJ",
+    "nombre_punto": "POLLO GUS - SAN JUAN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "SAN JUAN",
+    "subcircuito": "",
+    "id": "POLLOS_STAV_MS_SAJ",
+    "nombre_punto": "POLLOS STAV - SAN JUAN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "SAN JUAN",
+    "subcircuito": "",
+    "id": "QUESADILLAS_SAN_JUAN_MS_SAJ",
+    "nombre_punto": "QUESADILLAS DE SAN JUAN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "SAN JUAN",
+    "subcircuito": "",
+    "id": "TIA_MS_SAJ",
+    "nombre_punto": "TÍA - SAN JUAN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "LA ROLDÓS",
+    "subcircuito": "",
+    "id": "FABRICA_VITRINAS_LD_LR",
+    "nombre_punto": "FÁBRICA DE VITRINAS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "LOS LLANOS",
+    "subcircuito": "",
+    "id": "HORNADO_PASTUZO_DC",
+    "nombre_punto": "HORNADO PASTUZO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "LOS LLANOS",
+    "subcircuito": "",
+    "id": "ZONA_FRIA_MINI_DC",
+    "nombre_punto": "ZONA FRIA MINIMARQUET"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "LOS LLANOS",
+    "subcircuito": "",
+    "id": "COMPANIA_TAXIS_LLANOGRANDE_DC",
+    "nombre_punto": "COMPANIA DE TAXIS LLANOS GRANDE EXPRESS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "LOS LLANOS",
+    "subcircuito": "",
+    "id": "PARRILLADAS_JOSUE_DC",
+    "nombre_punto": "PARRILLADAS JOSUE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "LOS LLANOS",
+    "subcircuito": "",
+    "id": "SANA_SANA_DC",
+    "nombre_punto": "SANA SANA - LOS LLANOS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "LOS LLANOS",
+    "subcircuito": "",
+    "id": "MINI_SAN_VALENTIN_DC",
+    "nombre_punto": "MINIMARKET SAN VALENTIN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "LOS LLANOS",
+    "subcircuito": "",
+    "id": "POLLOS_TRI_DC",
+    "nombre_punto": "POLLOS DE LA TRI"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "LOS LLANOS",
+    "subcircuito": "",
+    "id": "CONJUNTO_RINCONADA_DC",
+    "nombre_punto": "CONJUNTO RINCONADA DEL SOL 1"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "LOS LLANOS",
+    "subcircuito": "",
+    "id": "VIVERES_GABRIELA_DC",
+    "nombre_punto": "VIVERES GRABRIELA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "LOS LLANOS",
+    "subcircuito": "",
+    "id": "VIVERES_JOSEFINA_DC",
+    "nombre_punto": "VIVERES JOSEFINA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "LOS LLANOS",
+    "subcircuito": "",
+    "id": "MINI_GASOLINERA_PUMA",
+    "nombre_punto": "MINIMARKET GASOLINERA PUMA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "SAN JUAN DE CALDERÓN",
+    "subcircuito": "",
+    "id": "AUPARTES_DC",
+    "nombre_punto": "AUPARTES A.M."
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "BICENTENARIO",
+    "subcircuito": "",
+    "id": "SUPER_ECONOMICO_DC",
+    "nombre_punto": "SUPERMERCADO ECONÓMICO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "SAN JUAN DE CALDERÓN",
+    "subcircuito": "",
+    "id": "BOMBA_PETROECUADOR_DC",
+    "nombre_punto": "BOMBA PETROECUADOR"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "SAN JUAN DE CALDERÓN",
+    "subcircuito": "",
+    "id": "FARMACIA_ECONOMICA_DC",
+    "nombre_punto": "FARMACIA ECONÓMICA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "BELLAVISTA DE CALDERÓN",
+    "subcircuito": "",
+    "id": "MINI_FRESH_FRUIT_DC",
+    "nombre_punto": "MINIMARKET FRESH FRUIT"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "SAN JUAN DE CALDERÓN",
+    "subcircuito": "",
+    "id": "HOSTAL_SANJUAN_DC",
+    "nombre_punto": "HOSTAL SAN JUAN DE CALDERÓN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "SAN JUAN DE CALDERÓN",
+    "subcircuito": "",
+    "id": "COMISARIATO_ELSITIO_DC",
+    "nombre_punto": "COMISARIATO EL SITIO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "SAN JUAN DE CALDERÓN",
+    "subcircuito": "",
+    "id": "PLAZA_VANCOUVER_DC",
+    "nombre_punto": "PLAZA VANCOUVER"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "SAN JUAN DE CALDERÓN",
+    "subcircuito": "",
+    "id": "PANADERIA_AROMA_CALIENTE_DC",
+    "nombre_punto": "PANADERIA AROMA CALIENTE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "SAN JUAN DE CALDERÓN",
+    "subcircuito": "",
+    "id": "CENTRO_REHABILITACIÓN_FISICA_DC",
+    "nombre_punto": "CENTRO DE REHABILITACIÓN FÍSICA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "SAN JUAN DE CALDERÓN",
+    "subcircuito": "",
+    "id": "VIVERES_LICORES_JUANJ_DC",
+    "nombre_punto": "VIVERES Y LICORES JUAN J"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "CARAPUNGO",
+    "subcircuito": "",
+    "id": "KFC_CARAPUNGO_CAR_DC",
+    "nombre_punto": "KFC CARAPUNGO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "CARAPUNGO",
+    "subcircuito": "",
+    "id": "PASTELERIA_FLORES_CAR_DC",
+    "nombre_punto": "PASTELERIA FLORES"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "CARAPUNGO",
+    "subcircuito": "",
+    "id": "LA_GANGA_CAR_DC",
+    "nombre_punto": "ORVE HOGAR"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "CARAPUNGO",
+    "subcircuito": "",
+    "id": "PANADERIA_ISINCHA_CAR_DC",
+    "nombre_punto": "PANADERIA ISINCHA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "CARAPUNGO",
+    "subcircuito": "",
+    "id": "CJTO_PROGRAMA_CARAPUNGO_CAR_DC",
+    "nombre_punto": "CONJUNTO PROGRAMA CARAPUNGO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "CARAPUNGO",
+    "subcircuito": "",
+    "id": "PAPELERIA_DISANTY_CAR_DC",
+    "nombre_punto": "PAPELERIA DISANTY"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "CARAPUNGO",
+    "subcircuito": "",
+    "id": "DLIS_DISTRIBUIDORA_LACTEOS_CAR_DC",
+    "nombre_punto": "D´LIS DISTRIBUIDORA DE LACTEOS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "CARAPUNGO",
+    "subcircuito": "",
+    "id": "MEGAVICHE_CAR_DC",
+    "nombre_punto": "MEGAVICHE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "CARAPUNGO",
+    "subcircuito": "",
+    "id": "MARKET_BARUCH_CAR_DC",
+    "nombre_punto": "MARKET BARUCH"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "CARAPUNGO",
+    "subcircuito": "",
+    "id": "VIVERES_ALEXANDRA_CAR_DC",
+    "nombre_punto": "VIVERES ALEXANDRA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "AMAGUAÑA CENTRO",
+    "subcircuito": "",
+    "id": "ESTACION_SERVICIO_MALINDA_AMC_DCH",
+    "nombre_punto": "ESTACIÓN DE SERVICIOS MALINDA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "AMAGUAÑA CENTRO",
+    "subcircuito": "",
+    "id": "TRES_GUABOS_AMC_DCH",
+    "nombre_punto": "LOS TRES GUABOS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "SANTA ISABEL",
+    "subcircuito": "",
+    "id": "ESTACION_SERVICIO_TYDCO_ISA_DCH",
+    "nombre_punto": "ESTACIÓN DE SERVICIO TYDCO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "SANTA ISABEL",
+    "subcircuito": "",
+    "id": "CACHO_LOCO_ISA_DCH",
+    "nombre_punto": "EL CACHO LOCO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "SANTA ISABEL",
+    "subcircuito": "",
+    "id": "POLLOS_HORNERO_STAFF_ISA_DCH",
+    "nombre_punto": "POLLOS HORNERO STAFF"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "TURUBAMBA",
+    "subcircuito": "",
+    "id": "HELADERIA_GREENFROST_QT_TRB",
+    "nombre_punto": "HELADERÍA GREENFROST"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "TURUBAMBA",
+    "subcircuito": "",
+    "id": "AURORA_CARNES_QT_TRB",
+    "nombre_punto": "LA AURORA DE LAS CARNES"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "TURUBAMBA",
+    "subcircuito": "",
+    "id": "FERRETERIA_SELVA_ALEGRE_QT_TRB",
+    "nombre_punto": "FERRETERIA SELVA ALEGRE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "TURUBAMBA",
+    "subcircuito": "",
+    "id": "TIA_SANJOSE_GUAMANI_QT_TRB",
+    "nombre_punto": "TIA SAN JOSE DE GUAMANI"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "TURUBAMBA",
+    "subcircuito": "",
+    "id": "FASHION_INTERNACIONAL_QT_TRB",
+    "nombre_punto": "ACADEMIA FASHION INTERNACIONAL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "TURUBAMBA",
+    "subcircuito": "",
+    "id": "VULCANIZADORA_CL_QT_TRB",
+    "nombre_punto": "VULCANIZADORA CL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "TURUBAMBA",
+    "subcircuito": "",
+    "id": "BAZAR_Y_PAPELERIA_QT_TRB",
+    "nombre_punto": "BAZAR Y PAPELERIA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "TURUBAMBA",
+    "subcircuito": "",
+    "id": "PRODUCTOS_SANTO_TOMAS_QT_TRB",
+    "nombre_punto": "PRODUCTOS SANTO TOMAS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "TURUBAMBA",
+    "subcircuito": "",
+    "id": "PAPELERIA_EL_COLEGIO_QT_TRB",
+    "nombre_punto": "PAPELERIA EL COLEGIO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "TURUBAMBA",
+    "subcircuito": "",
+    "id": "MICROMERCADO_DANIELITO_QT_TRB",
+    "nombre_punto": "MICROMERCADO DANIELITO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "TURUBAMBA",
+    "subcircuito": "",
+    "id": "PANADERIA_ARTE_PASION_QT_TRB",
+    "nombre_punto": "PANADERIA Y PASTELERIA ARTE Y PASION"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "TURUBAMBA",
+    "subcircuito": "",
+    "id": "KYWY_TURUBAMBA_QT_TRB",
+    "nombre_punto": "KYWI - TURUBAMBA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "PUEMBO",
+    "subcircuito": "",
+    "id": "LOMAS_NAPOLES_TUM_PUE",
+    "nombre_punto": "URBANIZACIÓN LOMAS DE NÁPOLES"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "TUMBACO SUR",
+    "subcircuito": "",
+    "id": "DE_TODITO_TUM_TSU",
+    "nombre_punto": "TIENDA DE TODITO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "COCHAPAMBA",
+    "subcircuito": "",
+    "id": "CJTO_EL_PINAR_EE_CP",
+    "nombre_punto": "CONJUNTO EL PINAR"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "CASA_VIVANCO_EE_INA",
+    "nombre_punto": "CASA VIVANCO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "",
+    "id": "RESIDENCIA_TULPA_EE_IN",
+    "nombre_punto": "RESIDENCIA TULPA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "ZÁMBIZA",
+    "subcircuito": "",
+    "id": "MARACUYA_Y_SANDIA_EE_ZAM",
+    "nombre_punto": "MARACUYÁ Y SANDIA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "ZÁMBIZA",
+    "subcircuito": "",
+    "id": "HELADERIA_KATTYS_EE_ZAM",
+    "nombre_punto": "HELADERIA KATTYS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "ZÁMBIZA",
+    "subcircuito": "",
+    "id": "FITNES_CENTER_MIRADOR_EE_ZAM",
+    "nombre_punto": "FITNES CENTER EL MIRADOR"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "ZÁMBIZA",
+    "subcircuito": "",
+    "id": "TIENDA_LA_PLAYITA_EE_ZAM",
+    "nombre_punto": "TIENDA LA PLAYITA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "ZÁMBIZA",
+    "subcircuito": "",
+    "id": "VIVERES_MARY_EE_ZAM",
+    "nombre_punto": "VÍVERES MARY"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "NAYÓN",
+    "subcircuito": "",
+    "id": "THE_CORNER_DELIMARKET_EE_NAY",
+    "nombre_punto": "THE CORNER DELIMARKET"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "NAYÓN",
+    "subcircuito": "",
+    "id": "AGROVITAL_EE_NAY",
+    "nombre_punto": "AGROVITAL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "NAYÓN",
+    "subcircuito": "",
+    "id": "MARTNIZING_EE_NAY",
+    "nombre_punto": "MARTINIZING"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "NAYÓN",
+    "subcircuito": "",
+    "id": "CANCHAS_LIBERTADORES_AMERICA_EE_NAY",
+    "nombre_punto": "CANCHAS LIBERTADORES DE AMERICA S.A.S"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "NAYÓN",
+    "subcircuito": "",
+    "id": "FARMACIA_COMUNITARIA_SANJOSE_EE_NAY",
+    "nombre_punto": "FARMACIA COMUNITARIA SAN JOSE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "NAYÓN",
+    "subcircuito": "",
+    "id": "EL_GRANERO_EE_NAY",
+    "nombre_punto": "EL GRANERO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "DAMMER",
+    "subcircuito": "",
+    "id": "REPUESTOS_MITSUBISHI_EE_DAM",
+    "nombre_punto": "REPUESTOS MITSUBISHI"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "DAMMER",
+    "subcircuito": "",
+    "id": "DOCTOR_PATITAS_EE_DAM",
+    "nombre_punto": "DOCTOR PATITAS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "DAMMER",
+    "subcircuito": "",
+    "id": "DAMUS_PANADERIA_CAFETERIA_EE_DAM",
+    "nombre_punto": "DAMUS PANADERIA CAFETERIA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "DAMMER",
+    "subcircuito": "",
+    "id": "MOTES_FRITZ_EE_DAM",
+    "nombre_punto": "LOS MOTES DE LA FRITZ"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "DAMMER",
+    "subcircuito": "",
+    "id": "AUTOREPUESTOS_KENNEDY_EE_DAM",
+    "nombre_punto": "AUTOREPUESTOS DE LA KENNEDY"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "",
+    "id": "HELADERIA_FRUTI_CREAM_EE_AER",
+    "nombre_punto": "HELADERIA FRUTI CREAM"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "",
+    "id": "ALMACENES_LA_GANGA_EE_AER",
+    "nombre_punto": "ALMACENES LA GANGA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "",
+    "id": "FRIGORIFICOS_SAN_CARLOS_EE_AER",
+    "nombre_punto": "FRIGORIFICOS SAN CARLOS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "",
+    "id": "CANI_AMIGOS_PELUDOS_EE_AER",
+    "nombre_punto": "CANI AMIGOS PELUDOS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "",
+    "id": "CENTRO_AUTOMOTRIZ_EE_AER",
+    "nombre_punto": "CENTRO AUTOMOTRIZ F.G"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "",
+    "id": "VIVERES_VICTOR_HUGO_EE_AER",
+    "nombre_punto": "VIVERES VICTOR HUGO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "",
+    "id": "FARMACIA_CRUZ_AZUL_EE_AER",
+    "nombre_punto": "FARMACIAS CRUZ AZUL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "",
+    "id": "REPUESTOS_MINI_AUSTIN_EE_AER",
+    "nombre_punto": "REPUESTOS MINI AUSTIN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "",
+    "id": "IMPORPERNOS_EE_AER",
+    "nombre_punto": "IMPORPERNOS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "",
+    "id": "COSAS_FINAS_FLORIDA_EE_AER",
+    "nombre_punto": "COSAS FINAS DE LA FORIDA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "KENNEDY",
+    "subcircuito": "",
+    "id": "BIOSTETIC_EE_KEN",
+    "nombre_punto": "BIOSTETIC"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "KENNEDY",
+    "subcircuito": "",
+    "id": "FARMACIA_CRUZ_AZUL_EE_KEN",
+    "nombre_punto": "FARMACIA CRUZ AZUL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "",
+    "id": "HUEKA_GUARANDEÑA_EE_AER",
+    "nombre_punto": "LA HUEKA GUARANDEÑA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "COCHAPAMBA",
+    "subcircuito": "",
+    "id": "CASA14_LOTE9_EE_CCH",
+    "nombre_punto": "CASA 14 LOTE 9 CONJUNTO PASEOS DEL PICHINCHA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "CENTRO HISTÓRICO",
+    "subcircuito": "",
+    "id": "CASA_MUJER_MS_CEH",
+    "nombre_punto": "CASA DE LA MUJER"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "CENTRO HISTÓRICO",
+    "subcircuito": "",
+    "id": "HOGAR_COMUNIDAD_CALLE2_MS_CEH",
+    "nombre_punto": "HOGAR COMUNIDAD DE CALLE 2"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "PUENGASÍ",
+    "subcircuito": "",
+    "id": "GAZEL2_MS_PUE",
+    "nombre_punto": "GAZEL 2"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "EL PLACER",
+    "subcircuito": "",
+    "id": "BAZAR_SOLOGOLO_MS_PLA",
+    "nombre_punto": "BAZAR SOLOGOLO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "EL PLACER",
+    "subcircuito": "",
+    "id": "VIVERES_PIEDAD_MS_PLA",
+    "nombre_punto": "VÍVERES PIEDAD"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "EL PLACER",
+    "subcircuito": "",
+    "id": "PAN_PASTE_YAWHE_MS_PLA",
+    "nombre_punto": "PANADERÍA Y PASTELERÍA YAWHE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "ARGELIA",
+    "subcircuito": "",
+    "id": "LEVAPAN_EA_ARG",
+    "nombre_punto": "LEVAPAN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "ARGELIA",
+    "subcircuito": "",
+    "id": "GYM_EA_ARG",
+    "nombre_punto": "GYM"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "ARGELIA",
+    "subcircuito": "",
+    "id": "FERRETERIA_PALACIOS_EA_ARG",
+    "nombre_punto": "FERRETERÍA PALACIOS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "CHILLOGALLO",
+    "subcircuito": "",
+    "id": "POLLO_EXQUISITO_QT_CHI",
+    "nombre_punto": "POLLO EXQUISITO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "CHILLOGALLO",
+    "subcircuito": "",
+    "id": "COMISARIATO_SANANDRES_QT_CHI",
+    "nombre_punto": "COMISARIATO SAN ANDRES"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "SAN JUAN",
+    "subcircuito": "",
+    "id": "CASA_DE_LAS_DIVERSIDADES_MS_SJ",
+    "nombre_punto": "CASA DE LAS DIVERSIDADES"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "PANECILLO",
+    "subcircuito": "",
+    "id": "CAI_TRES_MANUELAS_MS_PAN",
+    "nombre_punto": "CAI TRES MANUELAS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "CENTRO HISTÓRICO",
+    "subcircuito": "",
+    "id": "HOGAR_DE_VIDA_MS_CH",
+    "nombre_punto": "HOGAR DE VIDA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LAS CASAS",
+    "subcircuito": "",
+    "id": "CHIFA_LA_REINA_EE_LC",
+    "nombre_punto": "CHIFA LA REINA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LAS CASAS",
+    "subcircuito": "",
+    "id": "FORTFIT_GYM_EE_LC",
+    "nombre_punto": "FORTFIT GYM"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LAS CASAS",
+    "subcircuito": "",
+    "id": "MEGAVICHE_EE_LC",
+    "nombre_punto": "MEGAVICHE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LAS CASAS",
+    "subcircuito": "",
+    "id": "CAFETERIA_BROZ_EE_LC",
+    "nombre_punto": "CAFETERÍA \"BROZ\""
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LAS CASAS",
+    "subcircuito": "",
+    "id": "GARCIA_Y_GARCIA_EE_LC",
+    "nombre_punto": "CENTRO DIAGNOSTICO RAYOS X GARCIA Y GARCIA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LAS CASAS",
+    "subcircuito": "",
+    "id": "HAMBURGUESAS_HAMMUY_EE_LC",
+    "nombre_punto": "HAMBURGUESAS HAMMUY"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LAS CASAS",
+    "subcircuito": "",
+    "id": "PELUQUERIA_CARISMA_EE_LC",
+    "nombre_punto": "PELUQUERÍA CARISMA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LAS CASAS",
+    "subcircuito": "",
+    "id": "JUAN_EL_JURI_EE_LC",
+    "nombre_punto": "ALMACEN JUAN ELJURI"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LAS CASAS",
+    "subcircuito": "",
+    "id": "AUTO_PROW_EE_LC",
+    "nombre_punto": "AUTO PROW"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LAS CASAS",
+    "subcircuito": "",
+    "id": "FRAY_BARTOLOME_CASAS_EE_LC",
+    "nombre_punto": "CENTRO DE SALUD No.2 FRAY BARTOLOMÉ DE LAS CASAS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "CALDERÓN",
+    "subcircuito": "",
+    "id": "PORTAL_SHOPPING_CL_CL",
+    "nombre_punto": "PORTAL SHOPPING"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "CALDERÓN",
+    "subcircuito": "",
+    "id": "PETROLEOS_SERVICIOS_CL_CL",
+    "nombre_punto": "PETROLEOS Y SERVICIOS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "CALDERÓN",
+    "subcircuito": "",
+    "id": "PAN_AMBATO_CL_CL",
+    "nombre_punto": "PAN DE AMBATO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "CALDERÓN",
+    "subcircuito": "",
+    "id": "MICROMERCADO_SUPERIOR_CL_CL",
+    "nombre_punto": "MICROMERCADO SUPERIOR"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "CALDERÓN",
+    "subcircuito": "",
+    "id": "RINCON_WILI_CL_CL",
+    "nombre_punto": "VIVERES RINCON DE WILI"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "CALDERÓN",
+    "subcircuito": "",
+    "id": "ESQUINA_ALEX_CL_CL",
+    "nombre_punto": "LA ESQUINA DE ALES"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "CALDERÓN",
+    "subcircuito": "",
+    "id": "HIPERMERCADO_CORAL_CL_CL",
+    "nombre_punto": "HIPERMERCADO CORAL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "CALDERÓN",
+    "subcircuito": "",
+    "id": "MICROMERCADO_MELANYE_CL_CL",
+    "nombre_punto": "MICROMERCADO MELANYE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "CALDERÓN",
+    "subcircuito": "",
+    "id": "VIVERESANITA_CL_CL",
+    "nombre_punto": "VIVERES ANITA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "CALDERÓN",
+    "subcircuito": "",
+    "id": "MERCA_PLUS_CL_CL",
+    "nombre_punto": "BODEGA MERCA PLUS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "CALDERÓN",
+    "subcircuito": "",
+    "id": "PAPELERIA_CENTRAL_CL_CL",
+    "nombre_punto": "BAZAR Y PAPELERIA CENTRAL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "LLANO CHICO",
+    "subcircuito": "",
+    "id": "FARMACIA_ECONOMAX_CL_LLC",
+    "nombre_punto": "FARMACIA ECONOMAX"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "LLANO CHICO",
+    "subcircuito": "",
+    "id": "JM_VECINO_CL_LLC",
+    "nombre_punto": "JM VECINO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "LLANO CHICO",
+    "subcircuito": "",
+    "id": "COOPERATIVA17DEMARZO_CL_LLC",
+    "nombre_punto": "COOPERATIVA 17 DE MARZO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "LLANO CHICO",
+    "subcircuito": "",
+    "id": "COMERCIAL_ALVARO_CL_LLC",
+    "nombre_punto": "COMERCIAL ALVARO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "GUAYLLABAMBA",
+    "subcircuito": "",
+    "id": "COMERCIALISMA_CL_GY",
+    "nombre_punto": "COMERCIAL ISMA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "GUAYLLABAMBA",
+    "subcircuito": "",
+    "id": "SUPERMECADOS_SANLUIS_CL_GY",
+    "nombre_punto": "SUPERMECADOS SAN LUIS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "GUAYLLABAMBA",
+    "subcircuito": "",
+    "id": "CASADELAECONOMÍA_CL_GY",
+    "nombre_punto": "CASA DE LA ECONOMÍA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "GUAYLLABAMBA",
+    "subcircuito": "",
+    "id": "TIA_CL_GY",
+    "nombre_punto": "TÍA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "BELLAVISTA",
+    "subcircuito": "",
+    "id": "FRESH_MARKET_CL_BEL",
+    "nombre_punto": "FRESH MARKET"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "BELLAVISTA",
+    "subcircuito": "",
+    "id": "POLLO_STAR_CL_BEL",
+    "nombre_punto": "POLLO STAR"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "BELLAVISTA",
+    "subcircuito": "",
+    "id": "VIVERESKATY_CL_BEL",
+    "nombre_punto": "VIVERES KATY"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "BELLAVISTA",
+    "subcircuito": "",
+    "id": "PANDESION_CL_BEL",
+    "nombre_punto": "PAN DE SION"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "BELLAVISTA",
+    "subcircuito": "",
+    "id": "CREDIFER_CL_BEL",
+    "nombre_punto": "CREDIFER"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "BICENTENARIO",
+    "subcircuito": "",
+    "id": "CUCHARA_MANABITA_CL_BIC",
+    "nombre_punto": "LA CUCHARA MANABITA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "BICENTENARIO",
+    "subcircuito": "",
+    "id": "CERO_DIETA_CL_BIC",
+    "nombre_punto": "CERO DIETA MENESTRAS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERÓN",
+    "circuito": "BICENTENARIO",
+    "subcircuito": "",
+    "id": "POLLOS_KOKORICO_CL_BIC",
+    "nombre_punto": "POLLOS KOKORICO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "SAN JUAN",
+    "subcircuito": "",
+    "id": "UE_DARIO_GUEVARA_MS_SJ",
+    "nombre_punto": "UNIDAD EDUCATIVA DARIO GUEVARA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "PUENGASÍ",
+    "subcircuito": "",
+    "id": "VIVERES_MARIABELEN_MS_PU",
+    "nombre_punto": "VÍVERES MARÍA BELÉN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "NANEGAL",
+    "circuito": "NANEGALITO",
+    "subcircuito": "",
+    "id": "AGRO_NANEGALITO_NA_NA",
+    "nombre_punto": "AGRO NANEGALITO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "NANEGAL",
+    "circuito": "NANEGALITO",
+    "subcircuito": "",
+    "id": "VIVERES_JESSY_NA_NA",
+    "nombre_punto": "VIVERES JESSY"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "QUINCHE",
+    "subcircuito": "",
+    "id": "PATIOS_RETENCION_VEHICULAR_ANTINARCOTICOS_TB_QU",
+    "nombre_punto": "PATIOS DE RETENCIÓN VEHICULAR DE ANTINARCOTICOS EL QUINCHE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "TUMBACO SUR",
+    "subcircuito": "",
+    "id": "GRANAKI_TUMBACO_TB_TB",
+    "nombre_punto": "GRAN AKI TUMBACO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "TUMBACO SUR",
+    "subcircuito": "",
+    "id": "SUPERMAXI_VENTURA_MALL_TB_TB",
+    "nombre_punto": "SUPERMAXI VENTURA MALL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "VIA LACTEA",
+    "subcircuito": "",
+    "id": "SUPERCARNES_YURANI_TB_VL",
+    "nombre_punto": "SUPERCARNES YURANI"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "VIA LACTEA",
+    "subcircuito": "",
+    "id": "BURGER_KING_PAMPITE_TB_VL",
+    "nombre_punto": "BURGER KING PAMPITE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "VIA LACTEA",
+    "subcircuito": "",
+    "id": "CENTRO_COMERCIAL_LAESQUINA_TB_VL",
+    "nombre_punto": "CENTRO COMERCIAL LA ESQUINA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "CHIMBACALLE",
+    "subcircuito": "",
+    "id": "CENTRO_COMERCIAL_CHIRIACU_EA_CH",
+    "nombre_punto": "CENTRO COMERCIAL CHIRIACU"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "CHIMBACALLE",
+    "subcircuito": "",
+    "id": "GASOLINERA_MAS_GAS_LAVILLAFLORA_EA_CH",
+    "nombre_punto": "GASOLINERA MAS GAS LA VILLAFLORA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "CHIMBACALLE",
+    "subcircuito": "",
+    "id": "PELUQUERIA_ZAFIRO_EA_CH",
+    "nombre_punto": "PELUQUERIA ZAFIRO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "SAN ANTONIO ALTO",
+    "subcircuito": "",
+    "id": "ELCOSTENITO_DE_SA",
+    "nombre_punto": "EL COSTEÑITO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "SAN ANTONIO ALTO",
+    "subcircuito": "",
+    "id": "MINI_MARKETYPAPELERIA_DE_SA",
+    "nombre_punto": "MINI MARKET Y PAPELERIA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "SAN ANTONIO ALTO",
+    "subcircuito": "",
+    "id": "URBANIZACION_LAMARCA_DE_SA",
+    "nombre_punto": "URBANIZACION LA MARCA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "SAN ANTONIO ALTO",
+    "subcircuito": "",
+    "id": "PANADERIA_CHARITO_DE_SA",
+    "nombre_punto": "PANADERIA CHARITO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "SAN ANTONIO ALTO",
+    "subcircuito": "",
+    "id": "VIVERESANDY_DE_SA",
+    "nombre_punto": "VIVERES ANDY"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "SAN ANTONIO ALTO",
+    "subcircuito": "",
+    "id": "EMPRESA_ARMET_DE_SA",
+    "nombre_punto": "EMPRESA ARMET"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "SAN ANTONIO ALTO",
+    "subcircuito": "",
+    "id": "DISENSA_DE_SA",
+    "nombre_punto": "DISENSA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "SAN ANTONIO ALTO",
+    "subcircuito": "",
+    "id": "AUTOSERVICIOS_TENORIO_DE_SA",
+    "nombre_punto": "AUTOSERVICIOS TENORIO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "SAN ANTONIO ALTO",
+    "subcircuito": "",
+    "id": "COMERCIAL_ALVARADO_DE_SA",
+    "nombre_punto": "COMERCIAL ALVARADO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "SAN ANTONIO ALTO",
+    "subcircuito": "",
+    "id": "MINIECONOMICO_DE_SA",
+    "nombre_punto": "MINI ECONOMICO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "COTOCOLLAO",
+    "subcircuito": "",
+    "id": "CEVICHEA_LD_CT",
+    "nombre_punto": "CEVICHEA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "COTOCOLLAO",
+    "subcircuito": "",
+    "id": "GALLO_ROJO_LD_CT",
+    "nombre_punto": "GALLO ROJO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "COTOCOLLAO",
+    "subcircuito": "",
+    "id": "FRUTIFRESH_LD_CT",
+    "nombre_punto": "FRUTIFRESH"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "COTOCOLLAO",
+    "subcircuito": "",
+    "id": "LA_VACA_BANDIDA_LD_CT",
+    "nombre_punto": "LA VACA BANDIDA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "COTOCOLLAO",
+    "subcircuito": "",
+    "id": "CHIFA_DIAMANTE_LD_CT",
+    "nombre_punto": "CHIFA DIAMANTE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "COTOCOLLAO",
+    "subcircuito": "",
+    "id": "PIZZERIA_LOS_TIOS_LD_CT",
+    "nombre_punto": "PIZZERIA LOS TIOS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "COTOCOLLAO",
+    "subcircuito": "",
+    "id": "CHE_ARGENTINO_LD_CT",
+    "nombre_punto": "CHE ARGENTINO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "COLINAS DEL NORTE",
+    "subcircuito": "",
+    "id": "SU_FERRETERIA_CANTOS_LD_CN",
+    "nombre_punto": "SU FERRETERIA CANTOS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "COLINAS DEL NORTE",
+    "subcircuito": "",
+    "id": "SABOR_COSTENO_LD_CN",
+    "nombre_punto": "SABOR COSTENO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "COLINAS DEL NORTE",
+    "subcircuito": "",
+    "id": "VIVERES_LA_ECONOMICA_LD_CN",
+    "nombre_punto": "VIVERES LA ECONOMICA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "COLINAS DEL NORTE",
+    "subcircuito": "",
+    "id": "AUTO_TALLERES_REVIMEC_LD_CN",
+    "nombre_punto": "AUTO TALLERES REVIMEC"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "COLINAS DEL NORTE",
+    "subcircuito": "",
+    "id": "BANCO_CODESARROLLO_LD_CN",
+    "nombre_punto": "BANCO CODESARROLLO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "COLINAS DEL NORTE",
+    "subcircuito": "",
+    "id": "MINIMARKET_CABRERA_LD_CN",
+    "nombre_punto": "MINIMARKET CABRERA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "COLINAS DEL NORTE",
+    "subcircuito": "",
+    "id": "BASAR_PAPELERIA_EL_ESTUDIANTE_LD_CN",
+    "nombre_punto": "BASAR PAPELERIA EL ESTUDIANTE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "COLINAS DEL NORTE",
+    "subcircuito": "",
+    "id": "LAVADORA_MOSQUERA_LD_CN",
+    "nombre_punto": "LAVADORA MOSQUERA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "COLINAS DEL NORTE",
+    "subcircuito": "",
+    "id": "RESTAURANTE_MAMI_CHAVI_LD_CN",
+    "nombre_punto": "RESTAURANTE MAMI CHAVI"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "PONCIANO",
+    "subcircuito": "",
+    "id": "AGROINDUSTRIA_LD_PC",
+    "nombre_punto": "AGROINDUSTRIA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "PONCIANO",
+    "subcircuito": "",
+    "id": "RESIDENCIA_DEL_MI_COMANDANTE_GENERAL_LD_PC",
+    "nombre_punto": "RESIDENCIA DEL MI COMANDANTE GENERAL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "PONCIANO",
+    "subcircuito": "",
+    "id": "EL_CARSNACK_LD_PC",
+    "nombre_punto": "EL CARSNACK"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "PONCIANO",
+    "subcircuito": "",
+    "id": "TUTI_OFELIA_LD_PC",
+    "nombre_punto": "TUTI OFELIA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "PONCIANO",
+    "subcircuito": "",
+    "id": "CEVICHES_DE_LA_RUMIÑAHUI_LD_PC",
+    "nombre_punto": "CEVICHES DE LA RUMIÑAHUI"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "PONCIANO",
+    "subcircuito": "",
+    "id": "CNT_CENTRAL_CARCELEN_LD_PC",
+    "nombre_punto": "CNT CENTRAL CARCELEN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "PONCIANO",
+    "subcircuito": "",
+    "id": "SAPAIN_TV_LD_PC",
+    "nombre_punto": "SAPAIN TV"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "PONCIANO",
+    "subcircuito": "",
+    "id": "GRAN_OUTLET_MR_PRICE_LD_PC",
+    "nombre_punto": "GRAN OUTLET MR PRICE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "EL CONDADO",
+    "subcircuito": "",
+    "id": "VIVERES_ESTEFANY_LD_EC",
+    "nombre_punto": "VIVERES ESTEFANY"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "EL CONDADO",
+    "subcircuito": "",
+    "id": "TRANSPORTES_PESADOS_LD_EC",
+    "nombre_punto": "TRANSPORTES PESADOS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "EL CONDADO",
+    "subcircuito": "",
+    "id": "CENTRO_DE_SALUD_COTOCOLLAO_LD_EC",
+    "nombre_punto": "CENTRO DE SALUD COTOCOLLAO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "EL CONDADO",
+    "subcircuito": "",
+    "id": "CENTRO_DE_TELEFONIA_CLARO_LD_EC",
+    "nombre_punto": "CENTRO DE TELEFONIA CLARO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "EL CONDADO",
+    "subcircuito": "",
+    "id": "COOPERATIVA_SAC_LD_EC",
+    "nombre_punto": "COOPERATIVA SAC"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "CARCELÉN",
+    "subcircuito": "",
+    "id": "COOP_DE_TAXIS_HERNANDO_PARRA_LD_CC",
+    "nombre_punto": "COOP DE TAXIS HERNANDO PARRA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "CARCELÉN",
+    "subcircuito": "",
+    "id": "SUPERMARKET_SAMAY_LD_CC",
+    "nombre_punto": "SUPERMARKET SAMAY"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "MENA DEL HIERRO",
+    "subcircuito": "",
+    "id": "FRUTERIA_ELIZABETH_LD_MH",
+    "nombre_punto": "FRUTERIA ELIZABETH"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "MENA DEL HIERRO",
+    "subcircuito": "",
+    "id": "SANA_SANA_LC_MH",
+    "nombre_punto": "SANA SANA - MENA DEL HIERRO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "MENA DEL HIERRO",
+    "subcircuito": "",
+    "id": "THE_QUICK_SHOP_MINI_MARKET_LD_MH",
+    "nombre_punto": "THE QUICK SHOP MINI MARKET"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "MENA DEL HIERRO",
+    "subcircuito": "",
+    "id": "MEGA_CARNES_LD_MH",
+    "nombre_punto": "MEGA CARNES"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "MENA DEL HIERRO",
+    "subcircuito": "",
+    "id": "PANADERIA_VIRGEN_DEL_CISNE_LD_MH",
+    "nombre_punto": "PANADERIA VIRGEN DEL CISNE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "MENA DEL HIERRO",
+    "subcircuito": "",
+    "id": "VIVERES_JESSICA_LD_MH",
+    "nombre_punto": "VIVERES JESSICA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "MENA DEL HIERRO",
+    "subcircuito": "",
+    "id": "LA_ESTACION_DE_LAS_PAPITAS_LD_MH",
+    "nombre_punto": "LA ESTACION DE LAS PAPITAS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "MONJAS COLLACOTO",
+    "subcircuito": "",
+    "id": "PANIFICADORA_EL_HORNITO_MS_MON",
+    "nombre_punto": "PANIFICADORA EL HORNITO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "CENTRO HISTÓRICO",
+    "subcircuito": "",
+    "id": "PANADERIA_AMBATO_MS_CH",
+    "nombre_punto": "PANADERIA AMBATO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "EL PLACER",
+    "subcircuito": "",
+    "id": "VIVERES_CRISOL_MS_EP",
+    "nombre_punto": "VIVERES CRISOL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "MAGDALENA",
+    "subcircuito": "",
+    "id": "HELADOS_DE_CREMA_EA_MG",
+    "nombre_punto": "HELADOS DE CREMA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "MAGDALENA",
+    "subcircuito": "",
+    "id": "SAN_DUCHE_EA_MG",
+    "nombre_punto": "SAN DUCHE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "FERROVIARIA",
+    "subcircuito": "",
+    "id": "FARMACIA_DIGITAL_EA_FRR",
+    "nombre_punto": "FARMACIA DIGITAL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "EL CALZADO",
+    "subcircuito": "",
+    "id": "PARADA_TROLE_BUS_PARQUE_ESPAÑA_EA_EC",
+    "nombre_punto": "PARADA TROLE BUS PARQUE ESPAÑA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "ALANGASÍ",
+    "subcircuito": "",
+    "id": "TUTI_ILALO_515_LC_AL",
+    "nombre_punto": "TUTI ILALO 515"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "ALANGASÍ",
+    "subcircuito": "",
+    "id": "RESTAURANTE_TRILOGIA_LC_AL",
+    "nombre_punto": "RESTAURANTE TRILOGIA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "ALANGASÍ",
+    "subcircuito": "",
+    "id": "FARMACIA_FYBECA_MIRASIERRA_PIAZZA_LC_AL",
+    "nombre_punto": "FARMACIA FYBECA MIRASIERRA PIAZZA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "ECUATORIANA",
+    "subcircuito": "",
+    "id": "VIVERES_DE_TODO_UN_POCO_QT_EC",
+    "nombre_punto": "VIVERES DE TODO UN POCO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "ECUATORIANA",
+    "subcircuito": "",
+    "id": "FARMACIAS_ECONOMICAS_QT_EC",
+    "nombre_punto": "FARMACIAS ECONOMICAS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "ECUATORIANA",
+    "subcircuito": "",
+    "id": "MB_SUPERMARKET_QT_EC",
+    "nombre_punto": "MB SUPERMARKET"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "ECUATORIANA",
+    "subcircuito": "",
+    "id": "MINI_DE_MI_COMISARIATO_QT_EV",
+    "nombre_punto": "MINI DE MI COMISARIATO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "ECUATORIANA",
+    "subcircuito": "",
+    "id": "PANADERIA_QT_EC",
+    "nombre_punto": "PANADERIA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LA MARISCAL",
+    "subcircuito": "",
+    "id": "OFICINAS_DEL_SNAI_1_EE_LAM",
+    "nombre_punto": "OFICINAS DEL SNAI 1"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LA MARISCAL",
+    "subcircuito": "",
+    "id": "OFICINAS_DEL_SNAI_2_EE_LAM",
+    "nombre_punto": "OFICINAS DEL SNAI 2"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LAS CASAS",
+    "subcircuito": "",
+    "id": "ERICK_SEBASTIAN_URRESTA_MONTENEGRO_EE_LC",
+    "nombre_punto": "ERICK SEBASTIAN URRESTA MONTENEGRO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "NANEGAL",
+    "circuito": "NANEGALITO",
+    "subcircuito": "",
+    "id": "DONDE_EL_POLLO_NA_NA",
+    "nombre_punto": "DONDE EL POLLO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "NANEGAL",
+    "circuito": "NANEGALITO",
+    "subcircuito": "",
+    "id": "COOP_DE_AHORRO_Y_CREDITO_COOPROGRESO_NA_NA",
+    "nombre_punto": "COOP DE AHORRO Y CREDITO COOPROGRESO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "NANEGAL",
+    "circuito": "NANEGALITO",
+    "subcircuito": "",
+    "id": "RESTAURANTE_EL_JARDÍN_NA_NA",
+    "nombre_punto": "RESTAURANTE EL JARDÍN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "NANEGAL",
+    "circuito": "GUALEA",
+    "subcircuito": "",
+    "id": "MUSEO_ARQUEOLÓGICO_TULIPE_NA_GU",
+    "nombre_punto": "MUSEO ARQUEOLÓGICO TULIPE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "MENA",
+    "subcircuito": "",
+    "id": "POLLOS_STAV_EA_MN",
+    "nombre_punto": "POLLOS STAV - MENA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "MANUELA SÁENZ",
+    "circuito": "PUENGASÍ",
+    "subcircuito": "",
+    "id": "VIVERES_JOSUE_MS_PUE",
+    "nombre_punto": "VIVERES JOSUE - PUENGASÍ"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "SAN ANTONIO ALTO",
+    "subcircuito": "",
+    "id": "VIVERES_JOSUE_DE_SA",
+    "nombre_punto": "VIVERES JOSUE - SAN ANTONIO ALTO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "COTOCOLLAO",
+    "subcircuito": "",
+    "id": "POLLOS_STAV_LD_CT",
+    "nombre_punto": "POLLOS STAV - COTOCOLLAO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "CARCELÉN",
+    "subcircuito": "",
+    "id": "POLLOS_DELIHOT_LD_CC",
+    "nombre_punto": "POLLOS BROASTER DELIHOT"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "NANEGAL",
+    "circuito": "NANEGALITO",
+    "subcircuito": "",
+    "id": "COOP_DE AHORRO_Y_CREDITO_COOPROGRESO_NA_NA",
+    "nombre_punto": "COOP DE AHORRO Y CREDITO COOPROGRESO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "NANEGAL",
+    "circuito": "NANEGAL",
+    "subcircuito": "",
+    "id": "LA_CASA_DEL_GANADERO_NA_NL",
+    "nombre_punto": "LA CASA DEL GANADERO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "NANEGAL",
+    "circuito": "NANEGAL",
+    "subcircuito": "",
+    "id": "BAZAR_PRECIO_JUSTO_NA_NL",
+    "nombre_punto": "BAZAR PRECIO JUSTO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "NANEGAL",
+    "circuito": "PACTO",
+    "subcircuito": "",
+    "id": "SUPERMERCADO_SUPER_PACTO_NA_PC",
+    "nombre_punto": "SUPERMERCADO SUPER PACTO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "NANEGAL",
+    "circuito": "PACTO",
+    "subcircuito": "",
+    "id": "TRANSPORTE_COOP_MINAS_NA_PC",
+    "nombre_punto": "TRANSPORTE COOP MINAS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "SANTA ISABEL",
+    "subcircuito": "",
+    "id": "VIVERES_DON_PANCHO_LC_SI",
+    "nombre_punto": "VIVERES DON PANCHO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "SANTA ISABEL",
+    "subcircuito": "",
+    "id": "SUPERMERCADOS_REGALON_LC_SI",
+    "nombre_punto": "SUPERMERCADOS REGALON"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "CONOCOTO SUR",
+    "subcircuito": "",
+    "id": "TIA_CONOCOTO_LC_CS",
+    "nombre_punto": "TIA CONOCOTO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "CONOCOTO SUR",
+    "subcircuito": "",
+    "id": "FARMACIA_CRUZ_AZUL_LC_CS",
+    "nombre_punto": "FARMACIA CRUZ AZUL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "AMAGUAÑA CENTRO",
+    "subcircuito": "",
+    "id": "PAPELERIA_AMAGUANA_LC_AC",
+    "nombre_punto": "PAPELERIA AMAGUAÑA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "AMAGUAÑA CENTRO",
+    "subcircuito": "",
+    "id": "SEDE_COOPERATIVA_AMAGUANA_LC_AC",
+    "nombre_punto": "SEDE COOPERATIVA AMAGUAÑA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "AMAGUAÑA CENTRO",
+    "subcircuito": "",
+    "id": "VIVERES_LORENA_LC_AC",
+    "nombre_punto": "VIVERES LORENA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "ALANGASÍ",
+    "subcircuito": "",
+    "id": "PANADERIA_HOT_BREAD_LC_AL",
+    "nombre_punto": "PANADERIA HOT BREAD"
+  }
+]
