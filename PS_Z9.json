@@ -7549,5 +7549,14 @@
     "subcircuito": "ALANGASI 2",
     "id": "FLORES-Y-EMOCIONES-EC-Z9-D-L-A",
     "nombre_punto": "FLORES Y EMOCIONES EC"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "ALANGASI",
+    "subcircuito": "ALANGASI 1",
+    "id": "MEGAINGLESAS-Z9-D-L-A",
+    "nombre_punto": "MEGAINGLESAS"
   }
 ]
