@@ -7540,5 +7540,14 @@
     "subcircuito": "CONOCOTO SUR 2",
     "id": "MARKET-DEL-SOL-Z9-D-L-C",
     "nombre_punto": "MARKET DEL SOL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "ALANGASI",
+    "subcircuito": "ALANGASI 2",
+    "id": "FLORES-Y-EMOCIONES-EC-Z9-D-L-A",
+    "nombre_punto": "FLORES Y EMOCIONES EC"
   }
 ]
