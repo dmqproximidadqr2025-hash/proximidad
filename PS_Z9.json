@@ -7486,5 +7486,23 @@
     "subcircuito": "",
     "id": "PANADERIA_HOT_BREAD_LC_AL",
     "nombre_punto": "PANADERIA HOT BREAD"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "CONOCOTO NORTE",
+    "subcircuito": "CONOCOTO NORTE 5",
+    "id": "FERRETODO-SAN-ISIDRO-Z9-D-L-C",
+    "nombre_punto": "FERRETODO SAN ISIDRO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "CONOCOTO NORTE",
+    "subcircuito": "CONOCOTO NORTE 5",
+    "id": "VIVERES-FINITA-Z9-D-L-C",
+    "nombre_punto": "VIVERES FINITA"
   }
 ]
