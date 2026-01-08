@@ -7504,5 +7504,14 @@
     "subcircuito": "CONOCOTO NORTE 5",
     "id": "VIVERES-FINITA-Z9-D-L-C",
     "nombre_punto": "VIVERES FINITA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "CONOCOTO NORTE",
+    "subcircuito": "CONOCOTO NORTE 4",
+    "id": "PANADERIA-FRENKIPAN-Z9-D-L-C",
+    "nombre_punto": "PANADERIA FRENKIPAN"
   }
 ]
