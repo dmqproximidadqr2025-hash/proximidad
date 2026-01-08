@@ -7531,5 +7531,14 @@
     "subcircuito": "CONOCOTO NORTE 2",
     "id": "SANA-SANA-Z9-D-L-C",
     "nombre_punto": "SANA SANA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "CONOCOTO SUR",
+    "subcircuito": "CONOCOTO SUR 2",
+    "id": "MARKET-DEL-SOL-Z9-D-L-C",
+    "nombre_punto": "MARKET DEL SOL"
   }
 ]
