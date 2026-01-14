@@ -7585,5 +7585,14 @@
     "subcircuito": "GUAMANI 4",
     "id": "VIVERES-AL-PASO-Z9-D-Q-G",
     "nombre_punto": "VIVERES AL PASO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "GUAMAMI",
+    "subcircuito": "GUAMANI 4",
+    "id": "POLLOS-EL-SABROZON-Z9-D-Q-G",
+    "nombre_punto": "POLLOS EL SABROZON"
   }
 ]
