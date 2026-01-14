@@ -7558,5 +7558,14 @@
     "subcircuito": "ALANGASI 1",
     "id": "MEGAINGLESAS-Z9-D-L-A",
     "nombre_punto": "MEGAINGLESAS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "GUAMAMI",
+    "subcircuito": "GUAMANI 1",
+    "id": "CHIFA-SHANGHE-Z9-D-Q-G",
+    "nombre_punto": "CHIFA SHANGHE"
   }
 ]
