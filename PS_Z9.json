@@ -7567,5 +7567,14 @@
     "subcircuito": "GUAMANI 1",
     "id": "CHIFA-SHANGHE-Z9-D-Q-G",
     "nombre_punto": "CHIFA SHANGHE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "GUAMAMI",
+    "subcircuito": "GUAMANI 1",
+    "id": "CONJUNTOS-CAMILO-KOHN-Z9-D-Q-G",
+    "nombre_punto": "CONJUNTOS CAMILO KOHN"
   }
 ]
