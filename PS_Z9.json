@@ -7684,5 +7684,41 @@
     "subcircuito": "IÑAQUITO 1",
     "id": "5TA-PATA-Z9-D-E-I",
     "nombre_punto": "5TA PATA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "IÑAQUITO 3",
+    "id": "CELLFIX-Z9-D-E-I",
+    "nombre_punto": "CELLFIX"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "IÑAQUITO 3",
+    "id": "ALITAS-BENDITAS-Z9-D-E-I",
+    "nombre_punto": "ALITAS BENDITAS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "IÑAQUITO 3",
+    "id": "JUAN-VALDEZ-Z9-D-E-I",
+    "nombre_punto": "JUAN VALDEZ"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "IÑAQUITO 3",
+    "id": "Q-TAL-DELI-MARKET-Z9-D-E-I",
+    "nombre_punto": "Q TAL DELI MARKET"
   }
 ]
