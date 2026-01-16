@@ -7738,5 +7738,14 @@
     "subcircuito": "IÑAQUITO 3",
     "id": "PARAISO-PERSA-Z9-D-E-I",
     "nombre_punto": "PARAISO PERSA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "IÑAQUITO 3",
+    "id": "FARMACIA-FIBECA-Z9-D-E-I",
+    "nombre_punto": "FARMACIA FIBECA"
   }
 ]
