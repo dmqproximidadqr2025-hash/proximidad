@@ -7639,5 +7639,32 @@
     "subcircuito": "IÑAQUITO 2",
     "id": "Q-PARK-Z9-D-E-I",
     "nombre_punto": "Q PARK"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "IÑAQUITO 1",
+    "id": "TEXTIMUEBLES-Z9-D-E-I",
+    "nombre_punto": "TEXTIMUEBLES"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "IÑAQUITO 1",
+    "id": "SWEADEN-Z9-D-E-I",
+    "nombre_punto": "SWEADEN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "IÑAQUITO 1",
+    "id": "PA-NIÑOS-Z9-D-E-I",
+    "nombre_punto": "PA NIÑOS"
   }
 ]
