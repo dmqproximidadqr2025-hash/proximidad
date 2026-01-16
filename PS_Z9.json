@@ -7756,5 +7756,14 @@
     "subcircuito": "IÑAQUITO 4",
     "id": "CENTRO-CORPORATIVO-OMEGA-Z9-D-E-I",
     "nombre_punto": "CENTRO CORPORATIVO OMEGA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "IÑAQUITO 4",
+    "id": "FARMACIA-MEDICITY-Z9-D-E-I",
+    "nombre_punto": "FARMACIA MEDICITY"
   }
 ]
