@@ -7603,5 +7603,14 @@
     "subcircuito": "GUAMANI 4",
     "id": "FARMACIA-BIENESTAR-Z9-D-Q-G",
     "nombre_punto": "FARMACIA BIENESTAR"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "IÑAQUITO 2",
+    "id": "FARMACIA-CRUZ-AZUL-Z9-D-E-I",
+    "nombre_punto": "FARMACIA CRUZ AZUL"
   }
 ]
