@@ -7666,5 +7666,23 @@
     "subcircuito": "IÑAQUITO 1",
     "id": "PA-NIÑOS-Z9-D-E-I",
     "nombre_punto": "PA NIÑOS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "IÑAQUITO 1",
+    "id": "SUPPLEMENTS-SHOPPES-Z9-D-E-I",
+    "nombre_punto": "SUPPLEMENTS SHOPPES"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "IÑAQUITO 1",
+    "id": "5TA-PATA-Z9-D-E-I",
+    "nombre_punto": "5TA PATA"
   }
 ]
