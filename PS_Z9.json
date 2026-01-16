@@ -7720,5 +7720,14 @@
     "subcircuito": "IÑAQUITO 3",
     "id": "Q-TAL-DELI-MARKET-Z9-D-E-I",
     "nombre_punto": "Q TAL DELI MARKET"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "IÑAQUITO 3",
+    "id": "MICRO-MOSCU-Z9-D-E-I",
+    "nombre_punto": "MICRO MOSCU"
   }
 ]
