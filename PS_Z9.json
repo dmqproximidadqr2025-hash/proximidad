@@ -7630,5 +7630,14 @@
     "subcircuito": "IÑAQUITO 2",
     "id": "CASA-COREA-Z9-D-E-I",
     "nombre_punto": "CASA COREA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "IÑAQUITO 2",
+    "id": "Q-PARK-Z9-D-E-I",
+    "nombre_punto": "Q PARK"
   }
 ]
