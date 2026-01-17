@@ -7765,5 +7765,14 @@
     "subcircuito": "IÑAQUITO 4",
     "id": "FARMACIA-MEDICITY-Z9-D-E-I",
     "nombre_punto": "FARMACIA MEDICITY"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "CUMBAYA SUR",
+    "subcircuito": "CUMBAYA SUR 1",
+    "id": "REDONDEL-DE-LUMBISI-Z9-D-T-C",
+    "nombre_punto": "Redondel de Lumbisi"
   }
 ]
