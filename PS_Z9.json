@@ -7801,5 +7801,14 @@
     "subcircuito": "VIA LACTEA 1",
     "id": "LOCAL-MHT-Z9-D-T-V",
     "nombre_punto": "Local MHT"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "VIA LACTEA",
+    "subcircuito": "VIA LACTEA 1",
+    "id": "MINI-DE-MI-COMISARIATO-Z9-D-T-V",
+    "nombre_punto": "Mini de mi Comisariato"
   }
 ]
