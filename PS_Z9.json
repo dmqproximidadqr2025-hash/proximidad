@@ -7819,5 +7819,14 @@
     "subcircuito": "VIA LACTEA 1",
     "id": "CERVECERIA-NACIONAL-Z9-D-T-V",
     "nombre_punto": "Cerveceria Nacional"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "VIA LACTEA",
+    "subcircuito": "VIA LACTEA 1",
+    "id": "MINI-MARKET-LOS-GUABOS-Z9-D-T-V",
+    "nombre_punto": "Mini Market Los Guabos"
   }
 ]
