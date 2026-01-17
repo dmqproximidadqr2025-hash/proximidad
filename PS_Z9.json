@@ -7837,5 +7837,14 @@
     "subcircuito": "VIA LACTEA 1",
     "id": "PHARMACYS-HOSPITAL-DE-LOS-VALLES-Z9-D-T-V",
     "nombre_punto": "Pharmacys Hospital de los Valles"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "CUMBAYA SUR",
+    "subcircuito": "CUMBAYA SUR 2",
+    "id": "MICRO-MERCADO-LA-PRIMAVERA-Z9-D-T-C",
+    "nombre_punto": "Micro mercado la Primavera"
   }
 ]
