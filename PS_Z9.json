@@ -7828,5 +7828,14 @@
     "subcircuito": "VIA LACTEA 1",
     "id": "MINI-MARKET-LOS-GUABOS-Z9-D-T-V",
     "nombre_punto": "Mini Market Los Guabos"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "VIA LACTEA",
+    "subcircuito": "VIA LACTEA 1",
+    "id": "PHARMACYS-HOSPITAL-DE-LOS-VALLES-Z9-D-T-V",
+    "nombre_punto": "Pharmacys Hospital de los Valles"
   }
 ]
