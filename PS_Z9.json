@@ -7810,5 +7810,14 @@
     "subcircuito": "VIA LACTEA 1",
     "id": "MINI-DE-MI-COMISARIATO-Z9-D-T-V",
     "nombre_punto": "Mini de mi Comisariato"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "VIA LACTEA",
+    "subcircuito": "VIA LACTEA 1",
+    "id": "CERVECERIA-NACIONAL-Z9-D-T-V",
+    "nombre_punto": "Cerveceria Nacional"
   }
 ]
