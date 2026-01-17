@@ -7792,5 +7792,14 @@
     "subcircuito": "TUMBACO SUR 1",
     "id": "PHARMACYS-HUMBERTO-FIERRO-Z9-D-T-T",
     "nombre_punto": "Pharmacys Humberto Fierro"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "VIA LACTEA",
+    "subcircuito": "VIA LACTEA 1",
+    "id": "LOCAL-MHT-Z9-D-T-V",
+    "nombre_punto": "Local MHT"
   }
 ]
