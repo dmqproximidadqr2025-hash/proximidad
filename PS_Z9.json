@@ -7783,5 +7783,14 @@
     "subcircuito": "CUMBAYA SUR 1",
     "id": "MEDICITY-ALFONSO-LAMINA-Z9-D-T-C",
     "nombre_punto": "Medicity Alfonso Lamina"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "TUMBACO SUR",
+    "subcircuito": "TUMBACO SUR 1",
+    "id": "PHARMACYS-HUMBERTO-FIERRO-Z9-D-T-T",
+    "nombre_punto": "Pharmacys Humberto Fierro"
   }
 ]
