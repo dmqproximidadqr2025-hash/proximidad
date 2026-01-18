@@ -7855,5 +7855,14 @@
     "subcircuito": "CUMBAYA SUR 2",
     "id": "PANADERIA-Y-PASTELERIA-ISAAC-Z9-D-T-C",
     "nombre_punto": "Panaderia y Pasteleria Isaac"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "SANTA ISABEL",
+    "subcircuito": "SANTA ISABEL 1",
+    "id": "LA-ESTACION-Z9-D-L-S",
+    "nombre_punto": "LA ESTACION"
   }
 ]
