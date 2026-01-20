@@ -7864,5 +7864,14 @@
     "subcircuito": "SANTA ISABEL 1",
     "id": "LA-ESTACION-Z9-D-L-S",
     "nombre_punto": "LA ESTACION"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "IÑAQUITO 3",
+    "id": "PAPOS-BAR-Z9-D-E-I",
+    "nombre_punto": "PAPOS BAR"
   }
 ]
