@@ -7882,5 +7882,14 @@
     "subcircuito": "IÑAQUITO 3",
     "id": "HUMANA-Z9-D-E-I",
     "nombre_punto": "HUMANA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "IÑAQUITO 3",
+    "id": "AVION-LA-CAROLINA-Z9-D-E-I",
+    "nombre_punto": "AVION LA CAROLINA"
   }
 ]
