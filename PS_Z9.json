@@ -7873,5 +7873,14 @@
     "subcircuito": "IÑAQUITO 3",
     "id": "PAPOS-BAR-Z9-D-E-I",
     "nombre_punto": "PAPOS BAR"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "IÑAQUITO 3",
+    "id": "HUMANA-Z9-D-E-I",
+    "nombre_punto": "HUMANA"
   }
 ]
