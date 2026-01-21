@@ -7954,5 +7954,23 @@
     "subcircuito": "PIFO 2",
     "id": "PANIFICADORA-DON-ALEJO-Z9-D-T-P",
     "nombre_punto": "PANIFICADORA DON ALEJO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "PIFO",
+    "subcircuito": "PIFO 2",
+    "id": "MINI-MARKET-MONI-Z9-D-T-P",
+    "nombre_punto": "MINI MARKET MONI"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "PIFO",
+    "subcircuito": "PIFO 2",
+    "id": "GRUPO-ORO-Z9-D-T-P",
+    "nombre_punto": "GRUPO ORO"
   }
 ]
