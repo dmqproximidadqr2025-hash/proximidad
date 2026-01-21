@@ -8044,5 +8044,14 @@
     "subcircuito": "VIA LACTEA 1",
     "id": "GALERIA-DE-ARTE---COFFE-SHOP-Z9-D-T-V",
     "nombre_punto": "GALERIA DE ARTE - COFFE SHOP"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "VIA LACTEA",
+    "subcircuito": "VIA LACTEA 1",
+    "id": "BOKER-TOV-CUMBAYA-Z9-D-T-V",
+    "nombre_punto": "BOKER TOV CUMBAYA"
   }
 ]
