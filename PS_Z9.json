@@ -8017,5 +8017,14 @@
     "subcircuito": "PUEMBO 1",
     "id": "FARMACIA-CRUZ-AZUL-Z9-D-T-P",
     "nombre_punto": "FARMACIA CRUZ AZUL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "PUEMBO",
+    "subcircuito": "PUEMBO 1",
+    "id": "ARUPO-MARKET-Z9-D-T-P",
+    "nombre_punto": "ARUPO MARKET"
   }
 ]
