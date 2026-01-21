@@ -8053,5 +8053,14 @@
     "subcircuito": "VIA LACTEA 1",
     "id": "BOKER-TOV-CUMBAYA-Z9-D-T-V",
     "nombre_punto": "BOKER TOV CUMBAYA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "TUMBACO",
+    "subcircuito": "TUMBACO 2",
+    "id": "LA-TOMA-GASTRO-PUB-Z9-D-T-T",
+    "nombre_punto": "LA TOMA GASTRO PUB"
   }
 ]
