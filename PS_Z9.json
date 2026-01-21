@@ -8008,5 +8008,14 @@
     "subcircuito": "PIFO 2",
     "id": "PUNTO-CARAMELO-Z9-D-T-P",
     "nombre_punto": "PUNTO CARAMELO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "PUEMBO",
+    "subcircuito": "PUEMBO 1",
+    "id": "FARMACIA-CRUZ-AZUL-Z9-D-T-P",
+    "nombre_punto": "FARMACIA CRUZ AZUL"
   }
 ]
