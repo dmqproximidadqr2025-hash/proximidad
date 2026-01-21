@@ -7936,5 +7936,14 @@
     "subcircuito": "YARUQUI 1",
     "id": "UNDERGRAUD-PELUQUERIA-Z9-D-T-Y",
     "nombre_punto": "UNDERGRAUD PELUQUERIA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "YARUQUI",
+    "subcircuito": "YARUQUI 1",
+    "id": "VIVERES-MARTHA-Z9-D-T-Y",
+    "nombre_punto": "VIVERES MARTHA"
   }
 ]
