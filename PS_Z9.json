@@ -8035,5 +8035,14 @@
     "subcircuito": "PUEMBO 1",
     "id": "PINTURAS-ARTE-Y-COLOR-Z9-D-T-P",
     "nombre_punto": "PINTURAS ARTE Y COLOR"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "VIA LACTEA",
+    "subcircuito": "VIA LACTEA 1",
+    "id": "GALERIA-DE-ARTE---COFFE-SHOP-Z9-D-T-V",
+    "nombre_punto": "GALERIA DE ARTE - COFFE SHOP"
   }
 ]
