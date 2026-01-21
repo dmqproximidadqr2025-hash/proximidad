@@ -7918,5 +7918,14 @@
     "subcircuito": "CHECA 1",
     "id": "VIVERES-SAULITO-Z9-D-T-C",
     "nombre_punto": "VIVERES SAULITO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "YARUQUI",
+    "subcircuito": "YARUQUI 1",
+    "id": "FLORISTERIA-ROSEMARY-Z9-D-T-Y",
+    "nombre_punto": "FLORISTERIA ROSEMARY"
   }
 ]
