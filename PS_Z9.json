@@ -7999,5 +7999,14 @@
     "subcircuito": "PIFO 2",
     "id": "FARMACIA-SANA-SANA-Z9-D-T-P",
     "nombre_punto": "FARMACIA SANA SANA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "PIFO",
+    "subcircuito": "PIFO 2",
+    "id": "PUNTO-CARAMELO-Z9-D-T-P",
+    "nombre_punto": "PUNTO CARAMELO"
   }
 ]
