@@ -7945,5 +7945,14 @@
     "subcircuito": "YARUQUI 1",
     "id": "VIVERES-MARTHA-Z9-D-T-Y",
     "nombre_punto": "VIVERES MARTHA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "PIFO",
+    "subcircuito": "PIFO 2",
+    "id": "PANIFICADORA-DON-ALEJO-Z9-D-T-P",
+    "nombre_punto": "PANIFICADORA DON ALEJO"
   }
 ]
