@@ -7972,5 +7972,32 @@
     "subcircuito": "PIFO 2",
     "id": "GRUPO-ORO-Z9-D-T-P",
     "nombre_punto": "GRUPO ORO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "PIFO",
+    "subcircuito": "PIFO 2",
+    "id": "TIA-PIFO-Z9-D-T-P",
+    "nombre_punto": "TIA PIFO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "PIFO",
+    "subcircuito": "PIFO 2",
+    "id": "ALMACENES-AIMACANA-Z9-D-T-P",
+    "nombre_punto": "ALMACENES AIMACANA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "PIFO",
+    "subcircuito": "PIFO 2",
+    "id": "FARMACIA-SANA-SANA-Z9-D-T-P",
+    "nombre_punto": "FARMACIA SANA SANA"
   }
 ]
