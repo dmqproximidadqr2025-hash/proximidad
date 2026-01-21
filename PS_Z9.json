@@ -8026,5 +8026,14 @@
     "subcircuito": "PUEMBO 1",
     "id": "ARUPO-MARKET-Z9-D-T-P",
     "nombre_punto": "ARUPO MARKET"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "PUEMBO",
+    "subcircuito": "PUEMBO 1",
+    "id": "PINTURAS-ARTE-Y-COLOR-Z9-D-T-P",
+    "nombre_punto": "PINTURAS ARTE Y COLOR"
   }
 ]
