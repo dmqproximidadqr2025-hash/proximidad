@@ -7900,5 +7900,23 @@
     "subcircuito": "CHECA 1",
     "id": "VIVERES-KATTY-Z9-D-T-C",
     "nombre_punto": "VIVERES KATTY"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "CHECA",
+    "subcircuito": "CHECA 1",
+    "id": "CARNICERIA-MAYRITA-Z9-D-T-C",
+    "nombre_punto": "CARNICERIA MAYRITA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "CHECA",
+    "subcircuito": "CHECA 1",
+    "id": "VIVERES-SAULITO-Z9-D-T-C",
+    "nombre_punto": "VIVERES SAULITO"
   }
 ]
