@@ -8080,5 +8080,14 @@
     "subcircuito": "SAN JUAN DE CALDERON 1",
     "id": "CENTRO-DE-SALUD-SAN-JUAN-DE-CALDERON-Z9-D-C-S",
     "nombre_punto": "CENTRO DE SALUD SAN JUAN DE CALDERON"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERON",
+    "circuito": "CALDERON",
+    "subcircuito": "CALDERON 3",
+    "id": "CENTRO-DE-SALUD-CALDERON-Z9-D-C-C",
+    "nombre_punto": "CENTRO DE SALUD CALDERON"
   }
 ]
