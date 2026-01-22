@@ -8089,5 +8089,14 @@
     "subcircuito": "CALDERON 3",
     "id": "CENTRO-DE-SALUD-CALDERON-Z9-D-C-C",
     "nombre_punto": "CENTRO DE SALUD CALDERON"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERON",
+    "circuito": "LOS LLANOS",
+    "subcircuito": "LOS LLANOS 1",
+    "id": "UNIDAD-EDUCATIVA-FISCOMISIONAL-FE-Y-ALEGRIA-LA-DOLOROSA-Z9-D-C-L",
+    "nombre_punto": "UNIDAD EDUCATIVA FISCOMISIONAL FE Y ALEGRIA LA DOLOROSA"
   }
 ]
