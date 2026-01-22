@@ -8062,5 +8062,14 @@
     "subcircuito": "TUMBACO 2",
     "id": "LA-TOMA-GASTRO-PUB-Z9-D-T-T",
     "nombre_punto": "LA TOMA GASTRO PUB"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERON",
+    "circuito": "BICENTENARIO",
+    "subcircuito": "BICENTENARIO 2",
+    "id": "CENTRO-DE-SALUD-SAN-JOSE-DE-MORAN-Z9-D-C-B",
+    "nombre_punto": "CENTRO DE SALUD SAN JOSE DE MORAN"
   }
 ]
