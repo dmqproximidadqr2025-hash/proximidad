@@ -8107,5 +8107,14 @@
     "subcircuito": "PACTO 1",
     "id": "VIVERES-NAIN-Z9-D-N-P",
     "nombre_punto": "VIVERES NAIN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "NANEGAL",
+    "circuito": "GUALEA",
+    "subcircuito": "GUALEA 1",
+    "id": "HOSTAL-RICARDO-EL-GUALEANITO-Z9-D-N-G",
+    "nombre_punto": "HOSTAL RICARDO EL GUALEANITO"
   }
 ]
