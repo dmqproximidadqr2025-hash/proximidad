@@ -8098,5 +8098,14 @@
     "subcircuito": "LOS LLANOS 1",
     "id": "UNIDAD-EDUCATIVA-FISCOMISIONAL-FE-Y-ALEGRIA-LA-DOLOROSA-Z9-D-C-L",
     "nombre_punto": "UNIDAD EDUCATIVA FISCOMISIONAL FE Y ALEGRIA LA DOLOROSA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "NANEGAL",
+    "circuito": "PACTO",
+    "subcircuito": "PACTO 1",
+    "id": "VIVERES-NAIN-Z9-D-N-P",
+    "nombre_punto": "VIVERES NAIN"
   }
 ]
