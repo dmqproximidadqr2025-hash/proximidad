@@ -8134,5 +8134,14 @@
     "subcircuito": "GUALEA 1",
     "id": "CARPINTERIA-RAMOS-Z9-D-N-G",
     "nombre_punto": "CARPINTERIA RAMOS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "NANEGAL",
+    "circuito": "NANEGAL",
+    "subcircuito": "NANEGAL 1",
+    "id": "VIVERES-CARTAGENA-Z9-D-N-N",
+    "nombre_punto": "VIVERES CARTAGENA"
   }
 ]
