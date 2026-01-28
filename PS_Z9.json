@@ -8116,5 +8116,14 @@
     "subcircuito": "GUALEA 1",
     "id": "HOSTAL-RICARDO-EL-GUALEANITO-Z9-D-N-G",
     "nombre_punto": "HOSTAL RICARDO EL GUALEANITO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "NANEGAL",
+    "circuito": "GUALEA",
+    "subcircuito": "GUALEA 1",
+    "id": "TIENDA-PEPITO-Z9-D-N-G",
+    "nombre_punto": "TIENDA PEPITO"
   }
 ]
