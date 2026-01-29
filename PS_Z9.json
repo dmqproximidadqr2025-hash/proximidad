@@ -1010,7 +1010,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "CARAPUNGO",
     "subcircuito": "",
     "id": "MERCADO_CL_CL",
@@ -1019,7 +1019,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "CARAPUNGO",
     "subcircuito": "",
     "id": "TIEN_KIKIS_CL_CL",
@@ -1028,7 +1028,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "CARAPUNGO",
     "subcircuito": "",
     "id": "LC_AUTENTICO_SABOR_CL_CL",
@@ -5366,7 +5366,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "LOS LLANOS",
     "subcircuito": "",
     "id": "HORNADO_PASTUZO_DC",
@@ -5375,7 +5375,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "LOS LLANOS",
     "subcircuito": "",
     "id": "ZONA_FRIA_MINI_DC",
@@ -5384,7 +5384,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "LOS LLANOS",
     "subcircuito": "",
     "id": "COMPANIA_TAXIS_LLANOGRANDE_DC",
@@ -5393,7 +5393,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "LOS LLANOS",
     "subcircuito": "",
     "id": "PARRILLADAS_JOSUE_DC",
@@ -5402,7 +5402,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "LOS LLANOS",
     "subcircuito": "",
     "id": "SANA_SANA_DC",
@@ -5411,7 +5411,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "LOS LLANOS",
     "subcircuito": "",
     "id": "MINI_SAN_VALENTIN_DC",
@@ -5420,7 +5420,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "LOS LLANOS",
     "subcircuito": "",
     "id": "POLLOS_TRI_DC",
@@ -5429,7 +5429,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "LOS LLANOS",
     "subcircuito": "",
     "id": "CONJUNTO_RINCONADA_DC",
@@ -5438,7 +5438,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "LOS LLANOS",
     "subcircuito": "",
     "id": "VIVERES_GABRIELA_DC",
@@ -5447,7 +5447,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "LOS LLANOS",
     "subcircuito": "",
     "id": "VIVERES_JOSEFINA_DC",
@@ -5456,7 +5456,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "LOS LLANOS",
     "subcircuito": "",
     "id": "MINI_GASOLINERA_PUMA",
@@ -5465,7 +5465,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "SAN JUAN DE CALDERÓN",
     "subcircuito": "",
     "id": "AUPARTES_DC",
@@ -5474,7 +5474,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "BICENTENARIO",
     "subcircuito": "",
     "id": "SUPER_ECONOMICO_DC",
@@ -5483,7 +5483,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "SAN JUAN DE CALDERÓN",
     "subcircuito": "",
     "id": "BOMBA_PETROECUADOR_DC",
@@ -5492,7 +5492,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "SAN JUAN DE CALDERÓN",
     "subcircuito": "",
     "id": "FARMACIA_ECONOMICA_DC",
@@ -5501,7 +5501,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "BELLAVISTA DE CALDERÓN",
     "subcircuito": "",
     "id": "MINI_FRESH_FRUIT_DC",
@@ -5510,7 +5510,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "SAN JUAN DE CALDERÓN",
     "subcircuito": "",
     "id": "HOSTAL_SANJUAN_DC",
@@ -5519,7 +5519,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "SAN JUAN DE CALDERÓN",
     "subcircuito": "",
     "id": "COMISARIATO_ELSITIO_DC",
@@ -5528,7 +5528,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "SAN JUAN DE CALDERÓN",
     "subcircuito": "",
     "id": "PLAZA_VANCOUVER_DC",
@@ -5537,7 +5537,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "SAN JUAN DE CALDERÓN",
     "subcircuito": "",
     "id": "PANADERIA_AROMA_CALIENTE_DC",
@@ -5546,7 +5546,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "SAN JUAN DE CALDERÓN",
     "subcircuito": "",
     "id": "CENTRO_REHABILITACIÓN_FISICA_DC",
@@ -5555,7 +5555,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "SAN JUAN DE CALDERÓN",
     "subcircuito": "",
     "id": "VIVERES_LICORES_JUANJ_DC",
@@ -5564,7 +5564,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "CARAPUNGO",
     "subcircuito": "",
     "id": "KFC_CARAPUNGO_CAR_DC",
@@ -5573,7 +5573,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "CARAPUNGO",
     "subcircuito": "",
     "id": "PASTELERIA_FLORES_CAR_DC",
@@ -5582,7 +5582,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "CARAPUNGO",
     "subcircuito": "",
     "id": "LA_GANGA_CAR_DC",
@@ -5591,7 +5591,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "CARAPUNGO",
     "subcircuito": "",
     "id": "PANADERIA_ISINCHA_CAR_DC",
@@ -5600,7 +5600,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "CARAPUNGO",
     "subcircuito": "",
     "id": "CJTO_PROGRAMA_CARAPUNGO_CAR_DC",
@@ -5609,7 +5609,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "CARAPUNGO",
     "subcircuito": "",
     "id": "PAPELERIA_DISANTY_CAR_DC",
@@ -5618,7 +5618,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "CARAPUNGO",
     "subcircuito": "",
     "id": "DLIS_DISTRIBUIDORA_LACTEOS_CAR_DC",
@@ -5627,7 +5627,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "CARAPUNGO",
     "subcircuito": "",
     "id": "MEGAVICHE_CAR_DC",
@@ -5636,7 +5636,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "CARAPUNGO",
     "subcircuito": "",
     "id": "MARKET_BARUCH_CAR_DC",
@@ -5645,7 +5645,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "CARAPUNGO",
     "subcircuito": "",
     "id": "VIVERES_ALEXANDRA_CAR_DC",
@@ -6338,7 +6338,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "CALDERÓN",
     "subcircuito": "",
     "id": "PORTAL_SHOPPING_CL_CL",
@@ -6347,7 +6347,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "CALDERÓN",
     "subcircuito": "",
     "id": "PETROLEOS_SERVICIOS_CL_CL",
@@ -6356,7 +6356,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "CALDERÓN",
     "subcircuito": "",
     "id": "PAN_AMBATO_CL_CL",
@@ -6365,7 +6365,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "CALDERÓN",
     "subcircuito": "",
     "id": "MICROMERCADO_SUPERIOR_CL_CL",
@@ -6374,7 +6374,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "CALDERÓN",
     "subcircuito": "",
     "id": "RINCON_WILI_CL_CL",
@@ -6383,7 +6383,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "CALDERÓN",
     "subcircuito": "",
     "id": "ESQUINA_ALEX_CL_CL",
@@ -6392,7 +6392,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "CALDERÓN",
     "subcircuito": "",
     "id": "HIPERMERCADO_CORAL_CL_CL",
@@ -6401,7 +6401,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "CALDERÓN",
     "subcircuito": "",
     "id": "MICROMERCADO_MELANYE_CL_CL",
@@ -6410,7 +6410,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "CALDERÓN",
     "subcircuito": "",
     "id": "VIVERESANITA_CL_CL",
@@ -6419,7 +6419,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "CALDERÓN",
     "subcircuito": "",
     "id": "MERCA_PLUS_CL_CL",
@@ -6428,7 +6428,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "CALDERÓN",
     "subcircuito": "",
     "id": "PAPELERIA_CENTRAL_CL_CL",
@@ -6437,7 +6437,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "LLANO CHICO",
     "subcircuito": "",
     "id": "FARMACIA_ECONOMAX_CL_LLC",
@@ -6446,7 +6446,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "LLANO CHICO",
     "subcircuito": "",
     "id": "JM_VECINO_CL_LLC",
@@ -6455,7 +6455,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "LLANO CHICO",
     "subcircuito": "",
     "id": "COOPERATIVA17DEMARZO_CL_LLC",
@@ -6464,7 +6464,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "LLANO CHICO",
     "subcircuito": "",
     "id": "COMERCIAL_ALVARO_CL_LLC",
@@ -6473,7 +6473,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "GUAYLLABAMBA",
     "subcircuito": "",
     "id": "COMERCIALISMA_CL_GY",
@@ -6482,7 +6482,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "GUAYLLABAMBA",
     "subcircuito": "",
     "id": "SUPERMECADOS_SANLUIS_CL_GY",
@@ -6491,7 +6491,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "GUAYLLABAMBA",
     "subcircuito": "",
     "id": "CASADELAECONOMÍA_CL_GY",
@@ -6500,7 +6500,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "GUAYLLABAMBA",
     "subcircuito": "",
     "id": "TIA_CL_GY",
@@ -6509,7 +6509,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "BELLAVISTA",
     "subcircuito": "",
     "id": "FRESH_MARKET_CL_BEL",
@@ -6518,7 +6518,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "BELLAVISTA",
     "subcircuito": "",
     "id": "POLLO_STAR_CL_BEL",
@@ -6527,7 +6527,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "BELLAVISTA",
     "subcircuito": "",
     "id": "VIVERESKATY_CL_BEL",
@@ -6536,7 +6536,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "BELLAVISTA",
     "subcircuito": "",
     "id": "PANDESION_CL_BEL",
@@ -6545,7 +6545,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "BELLAVISTA",
     "subcircuito": "",
     "id": "CREDIFER_CL_BEL",
@@ -6554,7 +6554,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "BICENTENARIO",
     "subcircuito": "",
     "id": "CUCHARA_MANABITA_CL_BIC",
@@ -6563,7 +6563,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "BICENTENARIO",
     "subcircuito": "",
     "id": "CERO_DIETA_CL_BIC",
@@ -6572,7 +6572,7 @@
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
-    "distrito": "CALDERÓN",
+    "distrito": "CALDERON",
     "circuito": "BICENTENARIO",
     "subcircuito": "",
     "id": "POLLOS_KOKORICO_CL_BIC",
@@ -7563,7 +7563,7 @@
     "zona": "ZONA 9",
     "subzona": "DMQ",
     "distrito": "QUITUMBE",
-    "circuito": "GUAMAMI",
+    "circuito": "GUAMANI",
     "subcircuito": "GUAMANI 1",
     "id": "CHIFA-SHANGHE-Z9-D-Q-G",
     "nombre_punto": "CHIFA SHANGHE"
@@ -7572,7 +7572,7 @@
     "zona": "ZONA 9",
     "subzona": "DMQ",
     "distrito": "QUITUMBE",
-    "circuito": "GUAMAMI",
+    "circuito": "GUAMANI",
     "subcircuito": "GUAMANI 1",
     "id": "CONJUNTOS-CAMILO-KOHN-Z9-D-Q-G",
     "nombre_punto": "CONJUNTOS CAMILO KOHN"
@@ -7581,7 +7581,7 @@
     "zona": "ZONA 9",
     "subzona": "DMQ",
     "distrito": "QUITUMBE",
-    "circuito": "GUAMAMI",
+    "circuito": "GUAMANI",
     "subcircuito": "GUAMANI 4",
     "id": "VIVERES-AL-PASO-Z9-D-Q-G",
     "nombre_punto": "VIVERES AL PASO"
@@ -7590,7 +7590,7 @@
     "zona": "ZONA 9",
     "subzona": "DMQ",
     "distrito": "QUITUMBE",
-    "circuito": "GUAMAMI",
+    "circuito": "GUAMANI",
     "subcircuito": "GUAMANI 4",
     "id": "POLLOS-EL-SABROZON-Z9-D-Q-G",
     "nombre_punto": "POLLOS EL SABROZON"
@@ -7599,7 +7599,7 @@
     "zona": "ZONA 9",
     "subzona": "DMQ",
     "distrito": "QUITUMBE",
-    "circuito": "GUAMAMI",
+    "circuito": "GUAMANI",
     "subcircuito": "GUAMANI 4",
     "id": "FARMACIA-BIENESTAR-Z9-D-Q-G",
     "nombre_punto": "FARMACIA BIENESTAR"
