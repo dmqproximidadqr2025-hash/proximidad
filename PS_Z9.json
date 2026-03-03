@@ -526,9 +526,9 @@
     "subzona": "DMQ",
     "distrito": "EUGENIO ESPEJO",
     "circuito": "IÑAQUITO",
-    "subcircuito": "",
+    "subcircuito": "IÑAQUITO 3",
     "id": "LC_SUPERMAXI_EE_IÑ",
-    "nombre_punto": "SUPERMAXI - IÑAQUITO"
+    "nombre_punto": "ONE SANDUCHE"
   },
   {
     "zona": "ZONA 9",
@@ -4045,9 +4045,9 @@
     "subzona": "DMQ",
     "distrito": "EUGENIO ESPEJO",
     "circuito": "JIPIJAPA",
-    "subcircuito": "",
+    "subcircuito": "JIPIJAPA 1",
     "id": "ELICROM_EE_JIP",
-    "nombre_punto": "ELICROM"
+    "nombre_punto": "HOTEL SANDMELIS"
   },
   {
     "zona": "ZONA 9",
@@ -4333,9 +4333,9 @@
     "subzona": "DMQ",
     "distrito": "EUGENIO ESPEJO",
     "circuito": "IÑAQUITO",
-    "subcircuito": "",
+    "subcircuito": "IÑAQUITO 4",
     "id": "CENTRO_COMER_CARACOL_EE_INA",
-    "nombre_punto": "CENTRO COMERCIAL CARACOL"
+    "nombre_punto": "EDIFICIO SAVANNA"
   },
   {
     "zona": "ZONA 9",
