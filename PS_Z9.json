@@ -48,10 +48,10 @@
     "zona": "ZONA 9",
     "subzona": "DMQ",
     "distrito": "EUGENIO ESPEJO",
-    "circuito": "KENNEDY",
-    "subcircuito": "",
+    "circuito": "COCHAPAMBA",
+    "subcircuito": "COCHAPAMBA 2",
     "id": "CONJUNTO-COLINAS-SANTA-LUCIA",
-    "nombre_punto": "CONJUNTO COLINAS DE SANTA LUCÍA"
+    "nombre_punto": "FARMACIA ECONOMICA"
   },
   {
     "zona": "ZONA 9",
@@ -5233,9 +5233,9 @@
     "subzona": "DMQ",
     "distrito": "MANUELA SÁENZ",
     "circuito": "SAN JUAN",
-    "subcircuito": "",
+    "subcircuito": "SAN JUAN 4",
     "id": "BAZAR_PAPELERIA_MyD_MS_SAJ",
-    "nombre_punto": "BAZAR Y PAPELERIA M&D"
+    "nombre_punto": "PANADERIA DIEGUITO"
   },
   {
     "zona": "ZONA 9",
