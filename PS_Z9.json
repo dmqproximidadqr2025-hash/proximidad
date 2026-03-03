@@ -3298,9 +3298,9 @@
     "subzona": "DMQ",
     "distrito": "EUGENIO ESPEJO",
     "circuito": "UNIVERSITARIO",
-    "subcircuito": "",
+    "subcircuito": "UNIVERSITARIO 2",
     "id": "AUTOMOTRIZ_ARBOLITO_EE_UNI",
-    "nombre_punto": "AUTOMOTRIZ EL ARBOLITO"
+    "nombre_punto": "LOCAL FEM ATELIER"
   },
   {
     "zona": "ZONA 9",
