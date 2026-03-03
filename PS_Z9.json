@@ -4063,9 +4063,9 @@
     "subzona": "DMQ",
     "distrito": "EUGENIO ESPEJO",
     "circuito": "JIPIJAPA",
-    "subcircuito": "",
+    "subcircuito": "JIPIJAPA 1",
     "id": "TIA_EE_JIP",
-    "nombre_punto": "TIA"
+    "nombre_punto": "MICROMERCADO TOMAS DE BERLANGA"
   },
   {
     "zona": "ZONA 9",
@@ -4107,19 +4107,19 @@
     "zona": "ZONA 9",
     "subzona": "DMQ",
     "distrito": "EUGENIO ESPEJO",
-    "circuito": "NAYÓN",
-    "subcircuito": "",
+    "circuito": "JIPIJAPA",
+    "subcircuito": "JIPIJAPA 1",
     "id": "POLLO_AUSTRALIANO_EE_NAY",
-    "nombre_punto": "POLLO  AUSTRALIANO"
+    "nombre_punto": "LOCAL SHEFU SUSHIDOG"
   },
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
     "distrito": "EUGENIO ESPEJO",
-    "circuito": "NAYÓN",
-    "subcircuito": "",
+    "circuito": "JIPIJAPA",
+    "subcircuito": "JIPIJAPA 1-2",
     "id": "SUPER_SAN_ISIDRO_EE_NAY",
-    "nombre_punto": "SUPER SAN ISIDRO SAS"
+    "nombre_punto": "FERRETERIA KSI TODO"
   },
   {
     "zona": "ZONA 9",
