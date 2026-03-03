@@ -508,18 +508,18 @@
     "subzona": "DMQ",
     "distrito": "EUGENIO ESPEJO",
     "circuito": "IÑAQUITO",
-    "subcircuito": "",
+    "subcircuito": "IÑAQUITO 3",
     "id": "UPC_QUICENTRO_EE_IÑ",
-    "nombre_punto": "UPC QUICENTRO NORTE"
+    "nombre_punto": "JUAN VALDEZ"
   },
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
     "distrito": "EUGENIO ESPEJO",
     "circuito": "IÑAQUITO",
-    "subcircuito": "",
+    "subcircuito": "IÑAQUITO 3",
     "id": "HT_QUINTA_EE_IÑ",
-    "nombre_punto": "HOTEL LA QUINTA"
+    "nombre_punto": "POWER UP COMIDA SALUDABLE"
   },
   {
     "zona": "ZONA 9",
@@ -3478,9 +3478,9 @@
     "subzona": "DMQ",
     "distrito": "EUGENIO ESPEJO",
     "circuito": "LA MARISCAL",
-    "subcircuito": "",
+    "subcircuito": "LA MARISCAL 1",
     "id": "MULTICENTRO_EE_LAM",
-    "nombre_punto": "MULTICENTRO"
+    "nombre_punto": "INTCOMEX"
   },
   {
     "zona": "ZONA 9",
