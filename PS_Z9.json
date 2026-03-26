@@ -3775,9 +3775,9 @@
     "subzona": "DMQ",
     "distrito": "EUGENIO ESPEJO",
     "circuito": "LA MARISCAL",
-    "subcircuito": "",
+    "subcircuito": "LA MARISCAL  7",
     "id": "SUPERMAXI_EE_LAM",
-    "nombre_punto": "SUPERMAXI - LA MARISCAL"
+    "nombre_punto": "EMBAJADA DE COLOMBIA"
   },
   {
     "zona": "ZONA 9",
@@ -4396,9 +4396,9 @@
     "subzona": "DMQ",
     "distrito": "EUGENIO ESPEJO",
     "circuito": "IÑAQUITO",
-    "subcircuito": "",
+    "subcircuito": "IÑAQUITO 3",
     "id": "CHORI_GOL_EE_INA",
-    "nombre_punto": "CHORI GOL"
+    "nombre_punto": "CONSULADO DE COLOMBIA EN QUITO"
   },
   {
     "zona": "ZONA 9",
