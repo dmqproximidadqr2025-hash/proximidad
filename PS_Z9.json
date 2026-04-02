@@ -8161,5 +8161,14 @@
     "subcircuito": "NANEGALITO 1",
     "id": "FARMACIA-SAN-GREGORIO-Z9-D-N-N",
     "nombre_punto": "FARMACIA SAN GREGORIO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "NANEGAL",
+    "circuito": "NANEGALITO",
+    "subcircuito": "NANEGALITO 1",
+    "id": "CENTRO-DE-EQUIDAD-Y-JUSTICIA-Z9-D-N-N",
+    "nombre_punto": "CENTRO DE EQUIDAD Y JUSTICIA"
   }
 ]
