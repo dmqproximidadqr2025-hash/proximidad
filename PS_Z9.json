@@ -8188,5 +8188,14 @@
     "subcircuito": "NANEGALITO 1",
     "id": "PARADERO-Y-RESTAURANTE-EL-COLORADO-Z9-D-N-N",
     "nombre_punto": "PARADERO Y RESTAURANTE EL COLORADO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "NANEGAL",
+    "circuito": "NANEGALITO",
+    "subcircuito": "NANEGALITO 1",
+    "id": "FARMACIA-QUITO-LUZ-DE-AMERICA-Z9-D-N-N",
+    "nombre_punto": "FARMACIA QUITO LUZ DE AMERICA"
   }
 ]
