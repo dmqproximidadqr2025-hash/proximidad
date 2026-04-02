@@ -8242,5 +8242,23 @@
     "subcircuito": "COCHAPAMBA 4",
     "id": "TIENDA-EL-CISNE-Z9-D-E-C",
     "nombre_punto": "TIENDA EL CISNE"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "COCHAPAMBA",
+    "subcircuito": "COCHAPAMBA 4",
+    "id": "TIENDA-FRIGO-MARIA-Z9-D-E-C",
+    "nombre_punto": "TIENDA FRIGO MARIA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "COCHAPAMBA",
+    "subcircuito": "COCHAPAMBA 4",
+    "id": "VIVERES-MATEO-Z9-D-E-C",
+    "nombre_punto": "VIVERES MATEO"
   }
 ]
