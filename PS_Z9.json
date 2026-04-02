@@ -8224,5 +8224,14 @@
     "subcircuito": "NANEGALITO 1",
     "id": "MIRADOR-GUAYCAPI-Z9-D-N-N",
     "nombre_punto": "MIRADOR GUAYCAPI"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "PONCIANO",
+    "subcircuito": "PONCIANO 1",
+    "id": "CONJUNTO-XIMENA-DEL-ESTE-Z9-D-L-P",
+    "nombre_punto": "CONJUNTO XIMENA DEL ESTE"
   }
 ]
