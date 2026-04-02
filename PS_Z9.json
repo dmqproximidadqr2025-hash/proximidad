@@ -8179,5 +8179,14 @@
     "subcircuito": "NANEGALITO 1",
     "id": "RESTAURANTE-LAS-CUCARDAS-Z9-D-N-N",
     "nombre_punto": "RESTAURANTE LAS CUCARDAS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "NANEGAL",
+    "circuito": "NANEGALITO",
+    "subcircuito": "NANEGALITO 1",
+    "id": "PARADERO-Y-RESTAURANTE-EL-COLORADO-Z9-D-N-N",
+    "nombre_punto": "PARADERO Y RESTAURANTE EL COLORADO"
   }
 ]
