@@ -8269,5 +8269,14 @@
     "subcircuito": "SOLANDA 1",
     "id": "MERCADO-MAYORITA-VIVERES-AZUL-Z9-D-E-S",
     "nombre_punto": "MERCADO MAYORITA VIVERES AZUL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "SOLANDA",
+    "subcircuito": "SOLANDA 1",
+    "id": "MERCADO-MAYORITA-COMERCIAL-TIA-GLORIA-Z9-D-E-S",
+    "nombre_punto": "MERCADO MAYORITA COMERCIAl TIA GLORIA"
   }
 ]
