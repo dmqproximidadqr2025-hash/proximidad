@@ -8260,5 +8260,14 @@
     "subcircuito": "COCHAPAMBA 4",
     "id": "VIVERES-MATEO-Z9-D-E-C",
     "nombre_punto": "VIVERES MATEO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "SOLANDA",
+    "subcircuito": "SOLANDA 1",
+    "id": "MERCADO-MAYORITA-VIVERES-AZUL-Z9-D-E-S",
+    "nombre_punto": "MERCADO MAYORITA VIVERES AZUL"
   }
 ]
