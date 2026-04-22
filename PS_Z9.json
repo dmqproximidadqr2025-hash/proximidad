@@ -8287,5 +8287,14 @@
     "subcircuito": "MAGDALENA 2",
     "id": "CPN-AGENCIA-ATAHUALPA-Z9-D-E-M",
     "nombre_punto": "CPN-AGENCIA ATAHUALPA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERON",
+    "circuito": "CALDERON",
+    "subcircuito": "CALDERON 2",
+    "id": "RESTAURANTE-DUBLIN-Z9-D-C-C",
+    "nombre_punto": "RESTAURANTE DUBLIN"
   }
 ]
