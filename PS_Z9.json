@@ -8296,5 +8296,14 @@
     "subcircuito": "CALDERON 2",
     "id": "RESTAURANTE-DUBLIN-Z9-D-C-C",
     "nombre_punto": "RESTAURANTE DUBLIN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERON",
+    "circuito": "CALDERON",
+    "subcircuito": "CALDERON 3",
+    "id": "MUSEO-CALDERON-Z9-D-C-C",
+    "nombre_punto": "MUSEO-CALDERON"
   }
 ]
