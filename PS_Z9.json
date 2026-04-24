@@ -8305,5 +8305,14 @@
     "subcircuito": "CALDERON 3",
     "id": "MUSEO-CALDERON-Z9-D-C-C",
     "nombre_punto": "MUSEO-CALDERON"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LAS CASAS",
+    "subcircuito": "LAS CASAS 1",
+    "id": "HELADERIA-BLUM-Z9-D-E-L",
+    "nombre_punto": "HELADERIA BLUM"
   }
 ]
