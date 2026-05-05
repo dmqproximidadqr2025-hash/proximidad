@@ -858,19 +858,19 @@
     "zona": "ZONA 9",
     "subzona": "DMQ",
     "distrito": "LOS CHILLOS",
-    "circuito": "CONOCOTO NORTE",
+    "circuito": "CONOCOTO SUR",
     "subcircuito": "",
     "id": "URBAN_PUE_BLANC_LC_CN",
-    "nombre_punto": "URBANIZACIÓN PUEBLO BLANCO DEL VALLE"
+    "nombre_punto": "UNIDAD EDUCATIVA AMABLE ARAUZ"
   },
   {
     "zona": "ZONA 9",
     "subzona": "DMQ",
     "distrito": "LOS CHILLOS",
-    "circuito": "CONOCOTO NORTE",
+    "circuito": "PINTAG",
     "subcircuito": "",
     "id": "HIDROELÉCTRICA_LC_CN",
-    "nombre_punto": "HIDROELÉCTRICA GUANGOPOLO"
+    "nombre_punto": "BAZAR DONDE ENRIQUITO"
   },
   {
     "zona": "ZONA 9",
