@@ -8314,5 +8314,14 @@
     "subcircuito": "LAS CASAS 1",
     "id": "HELADERIA-BLUM-Z9-D-E-L",
     "nombre_punto": "HELADERIA BLUM"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "QUITUMBE",
+    "subcircuito": "QUITUMBE 1",
+    "id": "OXIGEN-GYM-Z9-D-Q-Q",
+    "nombre_punto": "OXIGEN GYM"
   }
 ]
