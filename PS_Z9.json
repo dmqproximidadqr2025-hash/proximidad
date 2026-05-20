@@ -8323,5 +8323,14 @@
     "subcircuito": "QUITUMBE 1",
     "id": "OXIGEN-GYM-Z9-D-Q-Q",
     "nombre_punto": "OXIGEN GYM"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "LAS CUADRAS",
+    "subcircuito": "LAS CUADRAS 1",
+    "id": "PANADERIA-PAN-DE-VIDA-\"EL-TRIGRAL-\"-Z9-D-Q-L",
+    "nombre_punto": "PANADERIA PAN DE VIDA \"EL TRIGRAL \""
   }
 ]
