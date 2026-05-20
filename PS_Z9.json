@@ -8332,5 +8332,14 @@
     "subcircuito": "LAS CUADRAS 1",
     "id": "PANADERIA-PAN-DE-VIDA-\"EL-TRIGRAL-\"-Z9-D-Q-L",
     "nombre_punto": "PANADERIA PAN DE VIDA \"EL TRIGRAL \""
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "ECUATORIANA",
+    "subcircuito": "ECUATORIANA 3",
+    "id": "PANADERIA-PAN-DE-VIDA-\"EL-TRIGRAL-2-Z9-D-Q-E",
+    "nombre_punto": "PANADERIA PAN DE VIDA \"EL TRIGRAL  2"
   }
 ]
