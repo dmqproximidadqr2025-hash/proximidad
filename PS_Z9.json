@@ -8350,5 +8350,14 @@
     "subcircuito": "EL BOSQUE 3",
     "id": "TROPI-BURGUE-AMERICA-Z9-D-E-E",
     "nombre_punto": "TROPI BURGUE AMERICA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "JIPIJAPA",
+    "subcircuito": "JIPIJAPA 1",
+    "id": "TROPI-BURGUER-PLAZA-DE-TOROS-Z9-D-E-J",
+    "nombre_punto": "TROPI BURGUER PLAZA DE TOROS"
   }
 ]
