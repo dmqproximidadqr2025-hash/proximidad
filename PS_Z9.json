@@ -8368,5 +8368,14 @@
     "subcircuito": "COTOCOLLAO 1",
     "id": "TROPI-BURGUER-COTOCOLLAO-Z9-D-L-C",
     "nombre_punto": "TROPI BURGUER COTOCOLLAO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "SAN ANTONIO BAJO",
+    "subcircuito": "SAN ANTONIO BAJO 1",
+    "id": "TROPI-BURGUER-MITAD-DEL-MUNDO-Z9-D-L-S",
+    "nombre_punto": "TROPI BURGUER MITAD DEL MUNDO"
   }
 ]
