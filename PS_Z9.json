@@ -8359,5 +8359,14 @@
     "subcircuito": "JIPIJAPA 1",
     "id": "TROPI-BURGUER-PLAZA-DE-TOROS-Z9-D-E-J",
     "nombre_punto": "TROPI BURGUER PLAZA DE TOROS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "COTOCOLLAO",
+    "subcircuito": "COTOCOLLAO 1",
+    "id": "TROPI-BURGUER-COTOCOLLAO-Z9-D-L-C",
+    "nombre_punto": "TROPI BURGUER COTOCOLLAO"
   }
 ]
