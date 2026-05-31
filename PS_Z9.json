@@ -8377,5 +8377,14 @@
     "subcircuito": "SAN ANTONIO BAJO 1",
     "id": "TROPI-BURGUER-MITAD-DEL-MUNDO-Z9-D-L-S",
     "nombre_punto": "TROPI BURGUER MITAD DEL MUNDO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "TUMBACO",
+    "circuito": "CUMBAYA SUR",
+    "subcircuito": "CUMBAYA SUR 1",
+    "id": "TROPI-BURGUER-CUMBAYA-Z9-D-T-C",
+    "nombre_punto": "TROPI BURGUER CUMBAYA"
   }
 ]
