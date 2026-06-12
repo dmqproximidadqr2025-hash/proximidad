@@ -8395,5 +8395,14 @@
     "subcircuito": "LAS CASAS 1",
     "id": "FARMACIAS-NACIONAL-\"JUAN-BAYAS\"-Z9-D-E-L",
     "nombre_punto": "FARMACIAS NACIONAL \"JUAN BAYAS\""
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "JIPIJAPA",
+    "subcircuito": "JIPIJAPA 1",
+    "id": "KFC-EL-INCA-Z9-D-E-J",
+    "nombre_punto": "KFC EL INCA"
   }
 ]
