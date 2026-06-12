@@ -8404,5 +8404,14 @@
     "subcircuito": "JIPIJAPA 1",
     "id": "KFC-EL-INCA-Z9-D-E-J",
     "nombre_punto": "KFC EL INCA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "JIPIJAPA",
+    "subcircuito": "JIPIJAPA 3",
+    "id": "RECURSOS-HUMANOS-GRUPO-KCF-Z9-D-E-J",
+    "nombre_punto": "RECURSOS HUMANOS GRUPO KCF"
   }
 ]
