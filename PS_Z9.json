@@ -8422,5 +8422,14 @@
     "subcircuito": "AEROPUERTO 1",
     "id": "KFC-LA-PRADERA-Z9-D-E-A",
     "nombre_punto": "KFC LA PRADERA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERON",
+    "circuito": "CALDERON",
+    "subcircuito": "CALDERON 3",
+    "id": "KFC-CALDERON-Z9-D-C-C",
+    "nombre_punto": "KFC CALDERON"
   }
 ]
