@@ -8386,5 +8386,14 @@
     "subcircuito": "CUMBAYA SUR 1",
     "id": "TROPI-BURGUER-CUMBAYA-Z9-D-T-C",
     "nombre_punto": "TROPI BURGUER CUMBAYA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "LAS CASAS",
+    "subcircuito": "LAS CASAS 1",
+    "id": "FARMACIAS-NACIONAL-\"JUAN-BAYAS\"-Z9-D-E-L",
+    "nombre_punto": "FARMACIAS NACIONAL \"JUAN BAYAS\""
   }
 ]
