@@ -8413,5 +8413,14 @@
     "subcircuito": "JIPIJAPA 3",
     "id": "RECURSOS-HUMANOS-GRUPO-KCF-Z9-D-E-J",
     "nombre_punto": "RECURSOS HUMANOS GRUPO KCF"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 1",
+    "id": "KFC-LA-PRADERA-Z9-D-E-A",
+    "nombre_punto": "KFC LA PRADERA"
   }
 ]
