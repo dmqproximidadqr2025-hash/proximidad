@@ -8440,5 +8440,14 @@
     "subcircuito": "COCHAPAMBA 3",
     "id": "VIVERES-DON-PAN-Z9-D-E-C",
     "nombre_punto": "VIVERES DON PAN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "COCHAPAMBA",
+    "subcircuito": "COCHAPAMBA 5",
+    "id": "SUPERMARKET-A&S-Z9-D-E-C",
+    "nombre_punto": "SUPERMARKET A&S"
   }
 ]
