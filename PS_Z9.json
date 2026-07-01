@@ -8431,5 +8431,14 @@
     "subcircuito": "CALDERON 3",
     "id": "KFC-CALDERON-Z9-D-C-C",
     "nombre_punto": "KFC CALDERON"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "COCHAPAMBA",
+    "subcircuito": "COCHAPAMBA 3",
+    "id": "VIVERES-DON-PAN-Z9-D-E-C",
+    "nombre_punto": "VIVERES DON PAN"
   }
 ]
