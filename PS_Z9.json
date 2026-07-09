@@ -8593,5 +8593,14 @@
     "subcircuito": "FERROVIARIA 5",
     "id": "UNIDAD-EDUCATIVA-FISCAL-13-DE-ABRIL-Z9-D-E-F",
     "nombre_punto": "UNIDAD EDUCATIVA FISCAL 13 DE ABRIL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "CHIMBACALLE",
+    "subcircuito": "CHIMBACALLE 3",
+    "id": "GASOLINERA-PETROECUADOR-Z9-D-E-C",
+    "nombre_punto": "GASOLINERA PETROECUADOR"
   }
 ]
