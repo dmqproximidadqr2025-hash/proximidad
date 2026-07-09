@@ -8449,5 +8449,14 @@
     "subcircuito": "COCHAPAMBA 5",
     "id": "SUPERMARKET-A&S-Z9-D-E-C",
     "nombre_punto": "SUPERMARKET A&S"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "CHILIBULO",
+    "subcircuito": "CHILIBULO 5",
+    "id": "MICROMERCADO-GABY-Z9-D-E-C",
+    "nombre_punto": "MICROMERCADO GABY"
   }
 ]
