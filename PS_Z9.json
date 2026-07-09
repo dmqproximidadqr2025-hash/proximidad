@@ -8530,5 +8530,23 @@
     "subcircuito": "MENA 1",
     "id": "MUEBLERIA-CAMPOS-Z9-D-E-M",
     "nombre_punto": "MUEBLERIA CAMPOS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "SOLANDA",
+    "subcircuito": "SOLANDA 3",
+    "id": "MI-BUEN-PAN-Z9-D-E-S",
+    "nombre_punto": "MI BUEN PAN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "SOLANDA",
+    "subcircuito": "SOLANDA 1",
+    "id": "LA-COOPERATIVA-LA-MERCED-Z9-D-E-S",
+    "nombre_punto": "LA COOPERATIVA LA MERCED"
   }
 ]
