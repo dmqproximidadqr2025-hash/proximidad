@@ -8467,5 +8467,14 @@
     "subcircuito": "CHILIBULO 4",
     "id": "SKY-STATION-Z9-D-E-C",
     "nombre_punto": "SKY STATION"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "CHILIBULO",
+    "subcircuito": "CHILIBULO 3",
+    "id": "CENTRO-DE-NIVELACION-DE-MENTE-Z9-D-E-C",
+    "nombre_punto": "CENTRO DE NIVELACION DE MENTE"
   }
 ]
