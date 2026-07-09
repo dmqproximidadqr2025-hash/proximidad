@@ -8485,5 +8485,14 @@
     "subcircuito": "MENA 1",
     "id": "CAMARON-BARBOSA-Z9-D-E-M",
     "nombre_punto": "CAMARON BARBOSA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "MENA",
+    "subcircuito": "MENA 3",
+    "id": "PARQUE-VENCEDORES-Z9-D-E-M",
+    "nombre_punto": "PARQUE VENCEDORES"
   }
 ]
