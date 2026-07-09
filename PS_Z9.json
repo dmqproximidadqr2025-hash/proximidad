@@ -8548,5 +8548,14 @@
     "subcircuito": "SOLANDA 1",
     "id": "LA-COOPERATIVA-LA-MERCED-Z9-D-E-S",
     "nombre_punto": "LA COOPERATIVA LA MERCED"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "SOLANDA",
+    "subcircuito": "SOLANDA 2",
+    "id": "ESCUELA-DE-CONDUCCION-SPORTMANCAR-Z9-D-E-S",
+    "nombre_punto": "ESCUELA DE CONDUCCION SPORTMANCAR"
   }
 ]
