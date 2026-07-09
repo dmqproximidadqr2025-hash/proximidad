@@ -8458,5 +8458,14 @@
     "subcircuito": "CHILIBULO 5",
     "id": "MICROMERCADO-GABY-Z9-D-E-C",
     "nombre_punto": "MICROMERCADO GABY"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "CHILIBULO",
+    "subcircuito": "CHILIBULO 4",
+    "id": "SKY-STATION-Z9-D-E-C",
+    "nombre_punto": "SKY STATION"
   }
 ]
