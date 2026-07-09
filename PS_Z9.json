@@ -8584,5 +8584,14 @@
     "subcircuito": "SOLANDA 3",
     "id": "DSOOFYS-Z9-D-E-S",
     "nombre_punto": "DSOOFYS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "FERROVIARIA",
+    "subcircuito": "FERROVIARIA 5",
+    "id": "UNIDAD-EDUCATIVA-FISCAL-13-DE-ABRIL-Z9-D-E-F",
+    "nombre_punto": "UNIDAD EDUCATIVA FISCAL 13 DE ABRIL"
   }
 ]
