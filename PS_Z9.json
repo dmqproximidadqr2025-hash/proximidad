@@ -8557,5 +8557,14 @@
     "subcircuito": "SOLANDA 2",
     "id": "ESCUELA-DE-CONDUCCION-SPORTMANCAR-Z9-D-E-S",
     "nombre_punto": "ESCUELA DE CONDUCCION SPORTMANCAR"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "SOLANDA",
+    "subcircuito": "SOLANDA 4",
+    "id": "CENTRO-MEDICO-DE-ESPECIALIDADES-SOLANDA-Z9-D-E-S",
+    "nombre_punto": "CENTRO  MEDICO DE ESPECIALIDADES SOLANDA"
   }
 ]
