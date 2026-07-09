@@ -8512,5 +8512,14 @@
     "subcircuito": "MENA 3",
     "id": "SUPER-FERRETERIA-BRAVO-Z9-D-E-M",
     "nombre_punto": "SUPER FERRETERIA BRAVO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "MENA",
+    "subcircuito": "MENA 4",
+    "id": "PANADERIA-REBENTADITO-Z9-D-E-M",
+    "nombre_punto": "PANADERIA REBENTADITO"
   }
 ]
