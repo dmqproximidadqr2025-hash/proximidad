@@ -8656,5 +8656,14 @@
     "subcircuito": "FERROVIARIA 6",
     "id": "SUPER-CARNES-Z9-D-E-F",
     "nombre_punto": "SUPER CARNES"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "BARRIO NUEVO",
+    "subcircuito": "BARRIO NUEVO 2",
+    "id": "SERVICIO-TÉCNICO-MAYKEL-Z9-D-E-B",
+    "nombre_punto": "SERVICIO TÉCNICO MAYKEL"
   }
 ]
