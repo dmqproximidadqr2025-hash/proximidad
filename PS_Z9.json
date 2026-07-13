@@ -8710,5 +8710,14 @@
     "subcircuito": "MAGDALENA 1",
     "id": "EL-REY-PLAZA-Z9-D-E-M",
     "nombre_punto": "EL REY PLAZA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "MAGDALENA",
+    "subcircuito": "MAGDALENA 4",
+    "id": "PLAZA-GASTRONOMICA-\"JARDIN-DE-ISABEL\"-Z9-D-E-M",
+    "nombre_punto": "PLAZA GASTRONOMICA \"JARDIN DE ISABEL\""
   }
 ]
