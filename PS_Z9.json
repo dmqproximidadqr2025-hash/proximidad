@@ -8620,5 +8620,14 @@
     "subcircuito": "ARGELIA 4",
     "id": "PLANTA-PROCESADORA-DE-CARNES-“PROCABARA”-Z9-D-E-A",
     "nombre_punto": "PLANTA PROCESADORA DE CARNES “PROCABARA”"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "ARGELIA",
+    "subcircuito": "ARGELIA 8",
+    "id": "PANADERIA-Y-PASTELERIA-LO-NUESTRO-Z9-D-E-A",
+    "nombre_punto": "PANADERIA Y PASTELERIA LO NUESTRO"
   }
 ]
