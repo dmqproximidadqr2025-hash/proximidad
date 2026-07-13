@@ -8638,5 +8638,14 @@
     "subcircuito": "ARGELIA 7",
     "id": "DOMICILIO-ARGELIA-7-Z9-D-E-A",
     "nombre_punto": "DOMICILIO ARGELIA 7"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "ARGELIA",
+    "subcircuito": "ARGELIA 2",
+    "id": "LOCAL-COMERCIAL-POTOTIN-Z9-D-E-A",
+    "nombre_punto": "LOCAL COMERCIAL POTOTIN"
   }
 ]
