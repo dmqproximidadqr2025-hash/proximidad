@@ -8665,5 +8665,14 @@
     "subcircuito": "BARRIO NUEVO 2",
     "id": "SERVICIO-TÉCNICO-MAYKEL-Z9-D-E-B",
     "nombre_punto": "SERVICIO TÉCNICO MAYKEL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "BARRIO NUEVO",
+    "subcircuito": "BARRIO NUEVO 2",
+    "id": "GIMNASIO-ARIAS-SPORT-Z9-D-E-B",
+    "nombre_punto": "GIMNASIO ARIAS SPORT"
   }
 ]
