@@ -8647,5 +8647,14 @@
     "subcircuito": "ARGELIA 2",
     "id": "LOCAL-COMERCIAL-POTOTIN-Z9-D-E-A",
     "nombre_punto": "LOCAL COMERCIAL POTOTIN"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "FERROVIARIA",
+    "subcircuito": "FERROVIARIA 6",
+    "id": "SUPER-CARNES-Z9-D-E-F",
+    "nombre_punto": "SUPER CARNES"
   }
 ]
