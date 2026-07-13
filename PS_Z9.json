@@ -8692,5 +8692,14 @@
     "subcircuito": "EL CALZADO 1",
     "id": "PARQUE-EL-CALZADO-Z9-D-E-E",
     "nombre_punto": "PARQUE EL CALZADO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "SANTA ANITA",
+    "subcircuito": "SANTA ANITA 3",
+    "id": "VIVERES-DIANITA-Z9-D-E-S",
+    "nombre_punto": "VIVERES DIANITA"
   }
 ]
