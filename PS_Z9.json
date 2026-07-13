@@ -8701,5 +8701,14 @@
     "subcircuito": "SANTA ANITA 3",
     "id": "VIVERES-DIANITA-Z9-D-E-S",
     "nombre_punto": "VIVERES DIANITA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "MAGDALENA",
+    "subcircuito": "MAGDALENA 1",
+    "id": "EL-REY-PLAZA-Z9-D-E-M",
+    "nombre_punto": "EL REY PLAZA"
   }
 ]
