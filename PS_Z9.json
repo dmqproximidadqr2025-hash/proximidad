@@ -8602,5 +8602,14 @@
     "subcircuito": "CHIMBACALLE 3",
     "id": "GASOLINERA-PETROECUADOR-Z9-D-E-C",
     "nombre_punto": "GASOLINERA PETROECUADOR"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "FERROVIARIA",
+    "subcircuito": "FERROVIARIA 5",
+    "id": "VIVERES-KARLITA-Z9-D-E-F",
+    "nombre_punto": "VIVERES KARLITA"
   }
 ]
