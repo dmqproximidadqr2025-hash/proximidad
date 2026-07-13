@@ -8683,5 +8683,14 @@
     "subcircuito": "SANTA ANITA 1",
     "id": "COMERCIAL-JUANITA-Z9-D-E-S",
     "nombre_punto": "COMERCIAL JUANITA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "ELOY ALFARO",
+    "circuito": "EL CALZADO",
+    "subcircuito": "EL CALZADO 1",
+    "id": "PARQUE-EL-CALZADO-Z9-D-E-E",
+    "nombre_punto": "PARQUE EL CALZADO"
   }
 ]
